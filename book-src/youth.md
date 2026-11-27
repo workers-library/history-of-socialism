@@ -1,0 +1,69 @@
+---
+title: "The Red Scarf and the Oath: Children and Youth in Revolutionary Movements"
+description: "On 2 October 1920 Lenin stood before the Third All-Russia Congress of the Russian Young Communist League, the Komsomol, and reduced its purpose to one word."
+order: 94
+last_updated: 2026-11-23
+tags: ["Part IX: Themes and Experiences", "Marxism"]
+---
+
+On 2 October 1920 Lenin stood before the Third All-Russia Congress of the Russian Young Communist League, the Komsomol, and reduced its purpose to one word. "the tasks of the youth in general, and of the Young Communist Leagues and all other organisations in particular, might be summed up in a single word: learn." ([V. I. Lenin, speech to the Third All-Russia Congress of the Russian Young Communist League, 2 October 1920, translated in the *Collected Works* edition](https://www.marxists.org/archive/lenin/works/1920/oct/02.htm)). Learning did not mean memorising slogans. He tied it at once to practical work: abolishing illiteracy, tending suburban vegetable gardens, organising public hygiene and food distribution, and taking part in *subbotniks*, voluntary work parties. He warned that young people who only learned phrases by rote became "communist text-jugglers". The speech appeared in *Pravda* five days later. It is a leader's address to a congress, not a record of what members did, and its claim of half a million members is the speaker's.
+
+Mao addressed the young differently. In a 1957 Moscow talk, preserved in the "Youth" chapter of *Quotations from Chairman Mao*, he said: "The world is yours, as well as ours, but in the last analysis, it is yours. You young people, full of vigor and vitality, are in the bloom of life, like the sun at eight or nine in the morning. Our hope is placed on you." ([Mao Zedong, "Talk at a meeting with Chinese students and trainees in Moscow", 17 November 1957, as quoted in *Quotations from Chairman Mao*, chapter 30, official Foreign Languages Press translation](https://www.marxists.org/reference/archive/mao/works/red-book/ch30.htm)). Revolutionary standing was conditional: youth had to integrate with workers and peasants. Another item tells Youth League organisations to attend to "recreation, sport and rest" as well as study and work. The quotations were selected for instruction, stripped of context and translated by the state publisher. They show how the leadership addressed the young, not how the young received it.
+
+## The oath and the object
+
+The Soviet Young Pioneers, the organisation for younger children, turned that relationship into words a child could memorise at initiation. The 1922 oath read: "Честным словом обещаю, что буду верен рабочему классу, буду ежедневно помогать своим трудовым собратьям, знаю законы пионеров и буду им повиноваться." (Young Pioneer oath, 1922 version; translation mine: "I promise on my word of honour that I will be faithful to the working class, will help my working brothers every day, know the laws of the pioneers and will obey them.") ([1922 version](https://www.dvagrada.ru/wiki/%D0%A2%D0%BE%D1%80%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%B0)).
+
+The wording changed across six recorded versions from 1922 to 1986. Early promises spoke of fidelity to the working class, a 1924 version pledged to uphold "the behests of Ilyich", and late versions promised to love and cherish the Motherland. The same rite was adapted to three political moments. The pledge also entered the home: a 1960 colour postcard in a set called "The Laws of the Young Pioneers" was printed in a run of 175,000 and sold for 20 kopecks. The catalogue record was verified but its text was not transcribed; the oaths come from a reference site rather than the Soviet publications it cites, and the translations are provisional. Reciting an oath does not establish what a nine-year-old believed.
+
+The Artek camp archives include a "Personal notebook of the Young Pioneer, solemn promise, and regulations of the Soviet Young Pioneers" and draft regulations, documents dated 1944 to 1967. The catalogue records are verified; the notebooks are behind a paywall and were not read. Artek was an elite showcase camp and cannot represent an ordinary school.
+
+## A secular confirmation
+
+In East Germany the Socialist Unity Party, the SED, decided in March 1954 to introduce a *Jugendweihe*, a secular coming-of-age ceremony, because no secular ritual marked the transition to adulthood. The first promise, published on 17 February 1955, put a question to fourteen-year-olds: "Seid Ihr bereit, alle Eure Kräfte für ein glückliches Leben der werktätigen Menschen und für den Fortschritt in Wirtschaft, Wissenschaft und Kunst einzusetzen?" (the first Jugendweihe promise, published 17 February 1955; the initiates replied "Ja, das geloben wir!" Translation mine.) ([jugendopposition.de](https://www.jugendopposition.de/themen/145438/jugendweihe)). The neutral wording was deliberate, a way of concealing SED control. A 1986 certificate shows the rite still in use; its donor records: "Das Gelöbnis wurde vorgetragen, die Weihlinge sprachen anschließend im Chor: 'Ja das geloben wir'." (uploader's description of a 1986 Jugendweihe certificate; translation mine: "The promise was recited; the initiates then said in chorus: 'Yes, we promise that.'") ([1986 certificate](https://commons.wikimedia.org/wiki/File:JW-Urkunde_1986.jpg)). Attendance rose from 17.7 per cent in 1955 to 97.3 per cent in 1988, figures that describe participation rather than conviction; the same site documents threats against those who refused.
+
+Jana Hensel, born in 1976 and a member of the last GDR school generation, remembered the routine from the other side. "As a preteen in the GDR, I used to put on my red scarf and pointy cap every Wednesday afternoon at 4 P.M., and head off to meetings of the Junge Pioniere (Young Pioneers)" ([Jana Hensel, *After the Wall*, translated by Jefferson Chase (2004)](https://dokumen.pub/download/after-the-wall-1586485598-9781586485597.html)). She recalled the Jugendweihe preparation with its five questions, beginning "Who am I? What can I do?", and the way the scarf, group leader, state activities and milk-money collector vanished after the Wall fell. Her book was written about fifteen years later by a woman who wanted the GDR to end. She is candid that she cannot separate what she saw in 1989 from what later news footage taught her, and the scan read here is not a legitimate edition.
+
+## Children on both sides
+
+In China the Red Guards were teenagers as well as students. Ji-li Jiang, a twelve-year-old Shanghai schoolgirl and Young Pioneer in 1966, recalls her family burning old photographs for fear of what the campaign called the "four olds", a neighbour reporting the smoke, and a squad of teenage Red Guards searching the flat after dark. One of the girls leading the search took her stamp album. "Get the kids into the bathroom so they don't get in the way of the revolution." ([the teenage leader of a Red Guard search, in Ji-li Jiang's retrospective memoir *Red Scarf Girl*](https://nowcomment.com/documents/127619)). In an appended interview Jiang says she chose to tell the story "through a little girl's eyes, instead of as an adult looking back". The memoir was published in 1997 for young readers in the United States, roughly thirty years later; the excerpt is a teacher's posting, and one family in one city cannot stand for all Red Guard experience.
+
+Other young people were both perpetrators and victims. The publisher's record for Ma Bo's *Blood Red Sunset* describes him as a fervent Red Guard in 1968 who went with other adolescents to Inner Mongolia, earned a reputation as an abusive "terror", then criticised a Party leader, was denounced, beaten and imprisoned. Those are the publisher's words, not the memoir's text, and literary scholars question how Ma presents himself. Dartmouth holds two diaries written between 1969 and 1972 by Liu Ping, sent to Inner Mongolia as a teenager, which the curators describe as recording incidents as they occurred. The diaries were not opened, and the "Down to the Countryside" programme moved an estimated seventeen million urban youth, so one diarist cannot represent it. The CR/10 project at Pittsburgh has collected more than a hundred oral histories, preserving divergent memories and including people born after the Cultural Revolution to study how knowledge was handed down. No transcript was opened.
+
+## How historians have read it
+
+- **Roderick MacFarquhar and Michael Schoenhals, *Mao's Last Revolution* (Belknap Press of Harvard University Press, 2006; paperback 2008).** A documentary political history arguing that Mao deliberately used the Red Guards against the party and that the resulting violence was restored only by the army, often brutally; the standard scholarly account in which Jiang's and Ma Bo's memoirs are set. [Source: hup.harvard.edu](https://www.hup.harvard.edu/books/9780674027480)
+- **Gail Hershatter, *The Gender of Memory: Rural Women and China's Collective Past* (University of California Press, 2011).** Oral histories with seventy-two elderly rural women, used to show how party campaigns entered domestic life and how informants date events by family milestones rather than campaign names; its method, treating retrospective memory as evidence about both the past and the remembering, is the model for handling Hensel, Jiang and CR/10. [Source: ucpress.edu](https://www.ucpress.edu/books/the-gender-of-memory/hardcover)
+- **Andrew G. Walder, *Communist Neo-Traditionalism: Work and Authority in Chinese Industry* (University of California Press, 1986; paperback 1988).** Based on official sources and interviews with former mainland factory employees in Hong Kong; argues that workers' dependence on the enterprise and on management produced a stable, personalised form of authority, and is explicit about the limits of its interviewing method. [Source: ucpress.edu](https://www.ucpress.edu/books/communist-neo-traditionalism/paper)
+- **Suzy Kim, *Everyday Life in the North Korean Revolution, 1945–1950* (Cornell University Press, 2013).** Uses documents seized during the Korean War and now in the US National Archives, with oral histories, to reconstruct village-level revolution; includes a 1948 Youth League application by a young peasant, evidence that ordinary young people's own writings survive in archival form. [Source: cornellpress.cornell.edu](https://cornellpress.cornell.edu/book/9781501705687/everyday-life-in-the-north-korean-revolution-19451950/)
+
+Scholars broadly accept that youth organisations were central to socialist state-building and that first-hand testimony, read critically, is indispensable. Live disagreement concerns how much consent those organisations commanded and how far retrospective memory can be trusted; Walder's dependence thesis and Hershatter's method of reading memory address different evidence and are not directly opposed.
+
+## Limits of the record
+
+The most serious gap is geographic and linguistic. No first-hand Sandinista-youth or child-soldier testimony has been verified. The English-language material cannot represent Spanish, Chinese, Russian or German archives, and the translations of the Russian and German oaths are provisional. Physical archive work is needed on the Artek notebooks, the Liu Ping diaries, the CR/10 transcripts and the original party files behind the Jugendweihe.
+
+The institution's voice is plentiful: oaths, decisions, speeches, certificates. The child's voice is scarce and usually filtered, transcribed by a teacher, translated by a publisher, selected by curators or recalled decades later. Pioneers aged nine or ten barely speak except in texts written for them by adults. Artek was a showcase camp. Jiang and Hensel are literate, urban and unusually articulate; neither is typical. The publisher's description of Ma Bo is not the book, and the site holding the Hensel scan is not a legitimate edition.
+
+A writer must not put words in a child's mouth, reconstruct scenes as if filmed, or use a child's later account to settle a question the child could not have understood at the time. Retrospective testimony must be labelled as such every time. Where an organisation preserved a child's writing, that fact says something about the organisation as well as the child.
+
+## Sources cited
+
+- [Marxists Internet Archive: oct 02](https://www.marxists.org/archive/lenin/works/1920/oct/02.htm)
+- [Marxists Internet Archive: red book ch30](https://www.marxists.org/reference/archive/mao/works/red-book/ch30.htm)
+- [Source: dvagrada.ru](https://www.dvagrada.ru/wiki/%D0%A2%D0%BE%D1%80%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D0%B5%D1%89%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B8%D0%BE%D0%BD%D0%B5%D1%80%D0%B0)
+- [Source: prlib.ru](https://www.prlib.ru/item/1153120)
+- [DOI: 10.1163 180](https://doi.org/10.1163/9789004192744-180)
+- [DOI: 10.1163 418](https://doi.org/10.1163/9789004192744-418)
+- [Source: jugendopposition.de](https://www.jugendopposition.de/themen/145438/jugendweihe)
+- [Wikimedia Commons: File:JW Urkunde 1986.jpg](https://commons.wikimedia.org/wiki/File:JW-Urkunde_1986.jpg)
+- [Source: nowcomment.com](https://nowcomment.com/documents/127619)
+- [Source: dokumen.pub](https://dokumen.pub/download/after-the-wall-1586485598-9781586485597.html)
+- [Source: dartmouth.edu](https://dartmouth.edu/library/digital/collections/manuscripts/rusticated-youth/index.html)
+- [Source: culturalrevolution.pitt.edu](https://culturalrevolution.pitt.edu/)
+- [Source: digital.library.pitt.edu](https://digital.library.pitt.edu/collection/chinas-cultural-revolution-memories-the-CR10-project)
+- [Source: penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/324126/blood-red-sunset-by-ma-bo)
+
+---
+
+[← Contents](/)

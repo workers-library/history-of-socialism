@@ -1,0 +1,3312 @@
+{
+  "name": "History of Socialism",
+  "description": "A primary-source research companion to the history of ideas, movements and states.",
+  "editBaseUrl": null,
+  "historyBaseUrl": null,
+  "documents": [
+    {
+      "title": "Contents by Part",
+      "order": 0,
+      "url": "/contents-by-part",
+      "description": "The complete table of contents, grouped into eleven parts.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [],
+      "tags": [
+        "Contents",
+        "Marxism"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Methodology and Research Disclosure",
+      "order": 1,
+      "url": "/methodology",
+      "description": "How this book was researched, what has been verified, what has not, and how readers can read the status of a chapter.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Editorial & Source Policy",
+      "order": 2,
+      "url": "/editorial-source-policy",
+      "description": "How the book uses primary sources, journalism and historical scholarship, and how it handles attribution and uncertainty.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "angela-davis",
+        "antonio-gramsci",
+        "authors-and-traditions",
+        "contents-by-part",
+        "domenico-losurdo",
+        "elinor-ostrom",
+        "ellen-meiksins-wood",
+        "emma-goldman",
+        "epeli-hauofa",
+        "eric-hobsbawm",
+        "frantz-fanon",
+        "howard-zinn",
+        "jane-kelsey",
+        "jason-hickel",
+        "john-pilger",
+        "jose-carlos-mariategui",
+        "jose-maria-sison",
+        "mark-fisher",
+        "mike-davis",
+        "murray-bookchin",
+        "paul-sweezy",
+        "peter-kropotkin",
+        "richard-wolff",
+        "rosa-luxemburg",
+        "samir-amin",
+        "vijay-prashad",
+        "walter-rodney",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Primary-Text Bibliography",
+      "order": 3,
+      "url": "/verified-bibliography",
+      "description": "Sources cited in each chapter, grouped by chapter and taken from the manuscript as it currently stands.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "editorial-source-policy"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "The Theoretical Backbone",
+      "order": 4,
+      "url": "/theoretical-backbone",
+      "description": "Definitions, historical materialism, the dictatorship of the proletariat, socialist political economy, currents, glossary and reading list.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "antonio-gramsci",
+        "contents-by-part",
+        "domenico-losurdo",
+        "economic-calculation-debate",
+        "ellen-meiksins-wood",
+        "harry-braverman",
+        "industrial-labour-and-the-factory",
+        "michael-parenti",
+        "origins-of-capitalism",
+        "ownership-and-control",
+        "paul-sweezy",
+        "richard-wolff",
+        "verified-bibliography",
+        "what-history-establishes"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Robert Owen: The Factory, the Village and the Labour Exchange",
+      "order": 5,
+      "url": "/owen",
+      "description": "On New Year's Day in 1816 Robert Owen stood before the people of New Lanark and opened a school.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "industrial-labour-and-the-factory",
+        "origins-of-capitalism",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Fourier, the Passions and the Phalanstery Experiments",
+      "order": 6,
+      "url": "/fourier",
+      "description": "In 1822 Charles Fourier set down the size of the community he wanted built.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Conspiracy of Equals: Babeuf and the French Left of the 1790s",
+      "order": 7,
+      "url": "/babeuf",
+      "description": "On 25 June 1793 Jacques Roux stood before the National Convention in Paris and asked what the revolution's declaration of rights was worth to a person without bread.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The People's Charter: Chartism and Working-Class Politics in Britain, 1838–1848",
+      "order": 8,
+      "url": "/chartists",
+      "description": "On 14 June 1839 a large roll of paper was carried into the House of Commons.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "industrial-labour-and-the-factory",
+        "labour-repression-and-organising",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Workmen's Republic: France, 1848",
+      "order": 9,
+      "url": "/1848-france",
+      "description": "On 26 June 1848, the day after the heaviest fighting in Paris, the photographer Charles François Thibault made an image of the barricades in the rue Saint-Maur.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "eric-hobsbawm"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Property Is Theft: Proudhon, Mutualism and the Cooperative Moment",
+      "order": 10,
+      "url": "/proudhon",
+      "description": "In May 1846 Karl Marx, then in Brussels, wrote to a printer in Paris asking him to handle France in a regular correspondence between German, French and English socialists: 'So far as...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Commune Lived: Paris, March–May 1871",
+      "order": 11,
+      "url": "/paris-commune",
+      "description": "On the morning of 18 March 1871 a crowd gathered on Montmartre to take back the cannons that the government had tried to remove.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "mikhail-bakunin",
+        "peter-kropotkin"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "The First International: An Organisation in Documents, 1864–1876",
+      "order": 12,
+      "url": "/first-international",
+      "description": "On 28 September 1864 a public meeting at St Martin's Hall in London, called after an address on the Polish insurrection to Paris workers, founded the International Working Men's Association.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "mikhail-bakunin",
+        "peter-kropotkin",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part I: Foundations"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Before the Factory: Commerce, Land and the Origins of Capitalism",
+      "order": 13,
+      "url": "/origins-of-capitalism",
+      "description": "What the sources already in this book show about merchant wealth, the separation of producers from the land, and the making of a class that sells its labour, and what they leave out.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "ellen-meiksins-wood",
+        "industrial-labour-and-the-factory",
+        "silvia-federici",
+        "slavery-race-and-capital",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "The Factory and the Working Day: Conditions, Discipline and Two Critiques of Capital",
+      "order": 14,
+      "url": "/industrial-labour-and-the-factory",
+      "description": "Engels's Manchester, the campaign over hours and child labour, and the difference between surplus value and alienation as claims about industrial work.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "eric-hobsbawm",
+        "harry-braverman",
+        "labour-repression-and-organising",
+        "origins-of-capitalism",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Slavery, Race and Capital: From the Atlantic Trade to the Wage of Whiteness",
+      "order": 15,
+      "url": "/slavery-race-and-capital",
+      "description": "What the book's sources establish about enslaved labour, racial hierarchy and the different forms of coercion that capitalism inherited and transformed.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "angela-davis",
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "frantz-fanon",
+        "origins-of-capitalism",
+        "walter-rodney",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Empire and Underdevelopment: Colonialism as an Economic and Political System",
+      "order": 16,
+      "url": "/colonialism-and-underdevelopment",
+      "description": "Rodney, Cabral, Fanon, the Bengal famine, the Congo and the forms of imperial control that survived decolonisation.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "david-harvey",
+        "epeli-hauofa",
+        "frantz-fanon",
+        "jason-hickel",
+        "jose-carlos-mariategui",
+        "jose-maria-sison",
+        "michael-hudson",
+        "michael-parenti",
+        "mike-davis",
+        "origins-of-capitalism",
+        "samir-amin",
+        "slavery-race-and-capital",
+        "vijay-prashad",
+        "walter-rodney",
+        "what-capitalism-achieved",
+        "william-blum"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Repression and Organising: The Long Campaign for Labour Rights",
+      "order": 17,
+      "url": "/labour-repression-and-organising",
+      "description": "Blacklisting, lockouts, police power and deportation on one side; charters, strikes, unions and achieved reforms on the other.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "howard-zinn",
+        "industrial-labour-and-the-factory",
+        "slavery-race-and-capital",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "What Capitalism Achieved, and What It Cost",
+      "order": 18,
+      "url": "/what-capitalism-achieved",
+      "description": "Productivity, machinery, consumption and reform, set beside the labour and environmental record, with an explicit account of what the sources cannot measure.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "david-graeber",
+        "david-harvey",
+        "edward-s-herman",
+        "ellen-meiksins-wood",
+        "industrial-labour-and-the-factory",
+        "jane-kelsey",
+        "jason-hickel",
+        "john-bellamy-foster",
+        "labour-repression-and-organising",
+        "mark-fisher",
+        "michael-hudson",
+        "noam-chomsky",
+        "origins-of-capitalism",
+        "paul-sweezy",
+        "richard-wolff",
+        "samir-amin",
+        "slavery-race-and-capital",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Marxism",
+        "Part II: Capitalism, Imperialism and the Social Question"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Karl Marx and Friedrich Engels",
+      "order": 19,
+      "url": "/marx-and-engels",
+      "description": "Lives, works and theory: historical materialism, surplus value, the state, and the two phases of communist society.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "industrial-labour-and-the-factory",
+        "mikhail-bakunin",
+        "origins-of-capitalism",
+        "rosa-luxemburg",
+        "theoretical-backbone"
+      ],
+      "tags": [
+        "Marxism",
+        "Part III: The Classical Marxists"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Vladimir Lenin, Joseph Stalin and the Soviet Experience",
+      "order": 20,
+      "url": "/lenin-and-stalin",
+      "description": "Imperialism, the vanguard party, 1917, the NEP, socialism in one country, industrialisation and collectivisation.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "marx-and-engels",
+        "rosa-luxemburg",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part III: The Classical Marxists"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Stalin: The Complete History and Writings",
+      "order": 21,
+      "url": "/stalin",
+      "description": "The full biography of Stalin and a systematic enumeration of every work in the MIA Stalin archive.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "domenico-losurdo",
+        "lenin-and-stalin"
+      ],
+      "tags": [
+        "Marxism",
+        "Part III: The Classical Marxists"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Mao Zedong, the Chinese Revolution and Maoist Theory",
+      "order": 22,
+      "url": "/mao-and-china",
+      "description": "New Democracy, the mass line, people's war, the PRC after 1949, continuing revolution and the 1981 Resolution.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "stalin",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part III: The Classical Marxists"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "The DPRK, Vietnam and Cuba",
+      "order": 23,
+      "url": "/dprk-vietnam-cuba",
+      "description": "Parties, ideologies, constitutions and socialist construction in North Korea, Vietnam and Cuba, including the 2026 congresses.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-transition",
+        "mao-and-china",
+        "ownership-and-control",
+        "planning-incentives-and-shortage",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Xi Jinping and Modern China",
+      "order": 24,
+      "url": "/xi-jinping",
+      "description": "Upbringing, rise, writings and the \"new era\": Xi Jinping Thought, poverty alleviation, the Belt and Road and Chinese modernization.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "dprk-vietnam-cuba",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Global Survey of the Socialist Camp",
+      "order": 25,
+      "url": "/global-survey",
+      "description": "The Comintern, the Eastern Bloc, Yugoslavia, Albania, national liberation movements, and a table of socialist states past and present.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "what-history-establishes",
+        "why-movements-fragmented",
+        "xi-jinping"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Constitution of the People's Republic of China",
+      "order": 26,
+      "url": "/china-constitution",
+      "description": "Official full-text link, constitutional history, the complete Preamble and key articles reproduced verbatim from english.www.gov.cn.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-transition",
+        "global-survey",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Nine January: The 1905 Revolution and the First Soviets",
+      "order": 27,
+      "url": "/1905",
+      "description": "On 9 January 1905, by the Russian calendar, a crowd walked through St Petersburg carrying icons and a petition to the Winter Palace.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "February 1917: Bread, Soldiers and the Fall of the Tsar",
+      "order": 28,
+      "url": "/february-1917",
+      "description": "On the morning of 23 February 1917, by the calendar Russia still used, women walked out of the textile mills of Petrograd and into the streets over the price and scarcity of bread.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The October Revolution of 1917",
+      "order": 29,
+      "url": "/october-1917",
+      "description": "At ten in the evening of 7 November 1917, by the calendar used in Western Europe, a shot was fired inside the Winter Palace.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "emma-goldman",
+        "peter-kropotkin"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Bread, Rifles and Fear: The Russian Civil War and War Communism, 1918–1922",
+      "order": 30,
+      "url": "/civil-war",
+      "description": "In June 1918 Nestor Makhno, a Ukrainian anarchist commanding the Revolutionary Insurgent Army of Ukraine, was shown into the Kremlin to speak with two of the men who had taken power in...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Kronstadt 1921: The Sailors and the State",
+      "order": 31,
+      "url": "/kronstadt",
+      "description": "Kronstadt was a fortress island in the Gulf of Finland, within sight of Petrograd.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "NEP: The Market, the Peasant and the Scissors, 1921–1929",
+      "order": 32,
+      "url": "/nep",
+      "description": "On 15 March 1921, with the revolt at Kronstadt still unresolved, Lenin told the Tenth Party Congress that the revolution had to give way to the peasantry.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "contents-by-part",
+        "economic-transition",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Collectivisation and the Ukrainian famine of 1932–33",
+      "order": 33,
+      "url": "/holodomor",
+      "description": "On 5 April 1932, Oleksandra Radchenko, a teacher in the Kharkiv region, wrote in her diary: 'Famine, artificially created famine is taking on a nightmarish character.' (Oleksandra...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "mike-davis",
+        "what-history-establishes"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Moscow Trials",
+      "order": 34,
+      "url": "/moscow-trials",
+      "description": "On 19 August 1936 sixteen men were brought before the Military Collegium of the Supreme Court in Moscow, the court that heard political cases, in the first of three public proceedings...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Archipelago: Forced Labour and the Camps",
+      "order": 35,
+      "url": "/gulag",
+      "description": "On 14 December 1926 three prisoners returning ill from the camp on the Solovetsky Islands, in the far north, wrote to the Soviet Central Executive Committee.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Everyday life under Stalin: Stakhanovism and the kolkhoz",
+      "order": 36,
+      "url": "/everyday-stalinism",
+      "description": "On the night of 30–31 August 1935 Aleksei Stakhanov, a hewer at a coal mine in the Donbass, cut 102 tons of coal in a single shift.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "ownership-and-control",
+        "planning-incentives-and-shortage"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Woman Question in the Soviet Union: Emancipation, the Double Burden and the Family",
+      "order": 37,
+      "url": "/soviet-women",
+      "description": "In a Soviet archival file there is a telegram sent to Mikhail Kalinin, the nominal head of state, by an army medical officer in Khabarovsk named Anisimov.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The National Operations: Ethnicity and the Soviet Purges, 1937–1938",
+      "order": 38,
+      "url": "/national-purges",
+      "description": "Georgios Zacharias was eight years old when militiamen came to his family's home in Odessa.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Last Year: 1991 and the End of the USSR",
+      "order": 39,
+      "url": "/ussr-collapse",
+      "description": "On 17 March 1991 Soviet citizens were asked whether to preserve 'the Union of Soviet Socialist Republics as a renewed federation of equal sovereign republics in which the rights and...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-transition",
+        "what-history-establishes"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IV: The Soviet Experiment and the Socialist Camp"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Revolution That Stopped: Germany, 1918–1919",
+      "order": 40,
+      "url": "/german-revolution",
+      "description": "The German revolution began with a refusal.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "rosa-luxemburg",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Nine Days in May: The General Strike of 1926 and the Communist Party of Great Britain",
+      "order": 41,
+      "url": "/1926-strike",
+      "description": "On the first of May 1926, in the pit village of Pendleton, a miner's wife told a reporter from the Manchester Evening News what a stoppage meant in her kitchen: 'it is the women who have...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "labour-repression-and-organising"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Spain 1936–39: War, Revolution and the Retreat",
+      "order": 42,
+      "url": "/spanish-civil-war",
+      "description": "In December 1936 George Orwell arrived in Barcelona to join a militia, a part-time citizen army rather than a regular force.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Popular Front: Unity Against Fascism and the Shadow of Moscow, 1934–1938",
+      "order": 43,
+      "url": "/popular-front",
+      "description": "In June 1936, with a socialist government in power in France, metalworkers in Paris occupied their factories rather than merely walking out.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Budapest 1956: The Revolution and the Workers' Councils",
+      "order": 44,
+      "url": "/hungary-1956",
+      "description": "On 22 October 1956, students at the Building Industry Technological University in Budapest printed sixteen demands as leaflets.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Socialism with a Human Face: The Prague Spring and the Invasion of 1968",
+      "order": 45,
+      "url": "/prague-1968",
+      "description": "In January 1968 the Communist Party of Czechoslovakia replaced Antonín Novotný with Alexander Dubček.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Solidarność: The Union That Broke the Bloc, 1980–1989",
+      "order": 46,
+      "url": "/solidarity",
+      "description": "On 31 August 1980, the day the Gdańsk Agreement was signed, Krzysztof Korczyński photographed two plywood boards mounted by Gate No.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Wall and the Workers: East Germany, 1953–1989",
+      "order": 47,
+      "url": "/east-germany",
+      "description": "On 16 June 1953 the Politburo of the Socialist Unity Party of Germany (SED), the ruling party of the German Democratic Republic (GDR, East Germany), used its central newspaper to retreat...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-transition",
+        "planning-incentives-and-shortage",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Yugoslav Experiment: Workers' Councils, Tito and the National Question",
+      "order": 48,
+      "url": "/yugoslavia",
+      "description": "In November 1948, months after the Soviet-led Cominform, the association of communist parties through which Moscow directed the others, expelled Yugoslavia, Josip Broz Tito told the...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-transition",
+        "ownership-and-control",
+        "planning-incentives-and-shortage",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Long March and the Chinese Civil War",
+      "order": 49,
+      "url": "/long-march",
+      "description": "In the autumn of 1936 Edgar Snow sat with Mao Tse-tung in Pao-an, the small town in the Communist-held Northwest that served as the Party's base.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Land to the Tiller: The Chinese Countryside in Its Own Words, 1927–1964",
+      "order": 50,
+      "url": "/china-peasantry",
+      "description": "In the winter of 1927 Mao Zedong spent thirty-two days travelling through five counties of Hunan, trying to answer critics inside and outside the Communist Party who said the peasant...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "jose-maria-sison"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Cultural Revolution: The Movement in Its Own Words",
+      "order": 51,
+      "url": "/cultural-revolution",
+      "description": "In October 1966 a schoolgirl named Sung Yao-wu described a rally in Peking where she found herself near Mao Tse-tung.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Tiananmen: The Square and the Verdict",
+      "order": 52,
+      "url": "/tiananmen-1989",
+      "description": "On 18 April 1989, students holding a sit-in outside the Great Hall of the People, the state's ceremonial hall in Beijing, presented seven demands.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Korean War: Voices from Three Armies and a Divided Peninsula",
+      "order": 53,
+      "url": "/korean-war",
+      "description": "On 2 October 1950, days before China committed its army to Korea, Mao Zedong warned Stalin that the step might be a mistake.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Vietnamese revolution, 1919–1954: from petition to Điện Biên Phủ",
+      "order": 54,
+      "url": "/vietnam-revolution",
+      "description": "In 1919 a Vietnamese nationalist appeared at the Paris Peace Conference, where the Allies were settling the end of the First World War, and asked for civil rights inside the French...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "john-pilger"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Year Zero: Cambodia, 1975–1979",
+      "order": 55,
+      "url": "/khmer-rouge",
+      "description": "On 17 April 1975 the correspondent Sydney Schanberg stayed in Phnom Penh after the American staff left.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "john-pilger"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Party That Was Erased: Indonesia, 1965–66",
+      "order": 56,
+      "url": "/indonesia-1965",
+      "description": "In the early hours of 1 October 1965 a group of officers led by Lieutenant Colonel Untung seized radio and communications facilities in Jakarta, killed six senior generals, and announced...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "john-pilger"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Hunger and the Village: Communism in India, 1943–1969",
+      "order": 57,
+      "url": "/india-communism",
+      "description": "First-hand sources on Hunger and the Village: Communism in India, 1943–1969: first-hand documents, the evidence, scholarly interpretations and the limits of the record.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Two Archipelagos: Communist Movements in the Philippines and Japan, 1942–1972",
+      "order": 58,
+      "url": "/philippines-japan",
+      "description": "On the rice plain of central Luzon during the Japanese occupation, a song passed among the Hukbalahap, the peasant movement that took up arms in 1942.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "jose-maria-sison"
+      ],
+      "tags": [
+        "Marxism",
+        "Part V: Revolutions and Movements in Europe and Asia"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Che Guevara",
+      "order": 59,
+      "url": "/che-guevara",
+      "description": "Full biography, all available writings and his theory of guerrilla warfare, the \"new man\" and internationalism.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "china-constitution",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Fidel Castro",
+      "order": 60,
+      "url": "/fidel-castro",
+      "description": "Full biography from Moncada to the Update, with \"History Will Absolve Me\", the Havana Declarations and his complete writings.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "che-guevara",
+        "contents-by-part",
+        "economic-transition",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "The Black Panther Party",
+      "order": 61,
+      "url": "/black-panther-party",
+      "description": "Full history, the Ten-Point Program, survival programmes, internal debates and the Party's own publications.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "angela-davis",
+        "contents-by-part",
+        "sankara"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Malcolm X",
+      "order": 62,
+      "url": "/malcolm-x",
+      "description": "Life, the OAAU, the Pan-African and anti-imperialist turn, and all of his available speeches and writings.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "black-panther-party",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "W. E. B. Du Bois and Paul Robeson",
+      "order": 63,
+      "url": "/dubois-and-robeson",
+      "description": "Black Reconstruction, the CPUSA, Here I Stand, the Pan-African Congresses and complete bibliographies.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "labour-repression-and-organising",
+        "malcolm-x",
+        "slavery-race-and-capital"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Black Women Communists: Jones, Davis, Shakur",
+      "order": 64,
+      "url": "/black-women-communists",
+      "description": "Claudia Jones's triple exploitation thesis, Angela Davis's Marxist feminism and Assata Shakur's writings.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "angela-davis",
+        "authors-and-traditions",
+        "contents-by-part",
+        "dubois-and-robeson",
+        "slavery-race-and-capital"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "US Black Communist Leaders: Haywood, Ford, Hampton",
+      "order": 65,
+      "url": "/us-black-communist-leaders",
+      "description": "The Black Belt thesis, The Negro and the Communist Party, and Hampton's Rainbow Coalition.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "angela-davis",
+        "black-women-communists",
+        "contents-by-part",
+        "slavery-race-and-capital"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "The Chilean Road: Popular Unity, the Coup and the Voices It Left",
+      "order": 66,
+      "url": "/chile",
+      "description": "On the morning after the vote of 4 September 1970, Salvador Allende stepped onto the balcony of the University of Chile Students' Federation building in Santiago.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "william-blum"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Nicaragua: Insurrection, Literacy and War, 1979–1990",
+      "order": 67,
+      "url": "/nicaragua",
+      "description": "Within two or three years of the Sandinista victory of July 1979, the commanders who had made it were asked to explain how.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "El Salvador: The War We Were Told Was Not Happening",
+      "order": 68,
+      "url": "/el-salvador",
+      "description": "On 23 March 1980, three days before his death, Óscar Romero, Archbishop of San Salvador, stood in his cathedral and addressed the army, the National Guard and the police on Radio YSAX.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Guatemala 1944–1954: The Revolution That Was Stopped",
+      "order": 69,
+      "url": "/guatemala",
+      "description": "On 27 June 1954 President Jacobo Árbenz Guzmán went on the government radio station and read a speech written by his secretary, Manuel Fortuny.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "william-blum"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Bolivia 1952: The Revolution the Miners Made",
+      "order": 70,
+      "url": "/bolivia",
+      "description": "In November 1946, six years before the insurrection, the country's mine workers met at Pulacayo and adopted a programme.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "After the Victory: Ordinary Cubans and the Social Revolution, 1959–1971",
+      "order": 71,
+      "url": "/cuba-aftermath",
+      "description": "In 1961 Felo Rojas was thirteen years old.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "what-history-establishes",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Dirty War: Argentina, 1973–1983",
+      "order": 72,
+      "url": "/argentina",
+      "description": "On 24 March 1977, the first anniversary of the military coup, Rodolfo Walsh sat down to write an open letter to the junta.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Zapatistas: Indigenous Rebellion and Another Politics",
+      "order": 73,
+      "url": "/zapatistas",
+      "description": "On 1 January 1994, the day the North American Free Trade Agreement took effect, indigenous rebels in the southern Mexican state of Chiapas seized six towns and declared war on the...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The ABC Strikes and the Workers' Party: Brazil's Labour Road to the Presidency",
+      "order": 74,
+      "url": "/brazil",
+      "description": "On 18 April 1980 the metalworkers' newspaper Movimento described the industrial town of São Bernardo do Campo in the middle of a general strike: 'a cidade se transforma numa verdadeira...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "labour-repression-and-organising"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The War Inside: Sendero Luminoso and Peru, 1980–2000",
+      "order": 75,
+      "url": "/peru",
+      "description": "On 17 May 1980 members of the Partido Comunista del Perú burned ballot boxes at Chuschi, a highland town, and began a war against the state that lasted twenty years.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "jose-carlos-mariategui"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Before and After the Panthers: RAM, the Black Liberation Army and the Black Radical Congress",
+      "order": 76,
+      "url": "/black-power",
+      "description": "In 1957, in Monroe, North Carolina, members of the local NAACP branch took up guns to defend Black homes against Ku Klux Klan violence.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VI: Revolutionary Lives and Movements in the Americas"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Thomas Sankara and the Burkina Faso Revolution",
+      "order": 77,
+      "url": "/sankara",
+      "description": "The Democratic and Popular Revolution, women's emancipation, self-reliance and Sankara's collected speeches.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "fidel-castro"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Kwame Nkrumah and Patrice Lumumba",
+      "order": 78,
+      "url": "/nkrumah-and-lumumba",
+      "description": "Consciencism, Neo-Colonialism, the Convention People's Party and the Congo crisis from African sources.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "us-black-communist-leaders",
+        "walter-rodney"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Amílcar Cabral and Walter Rodney",
+      "order": 79,
+      "url": "/cabral-and-rodney",
+      "description": "The Weapon of Theory, national liberation and culture, and How Europe Underdeveloped Africa.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "frantz-fanon",
+        "jose-carlos-mariategui",
+        "nkrumah-and-lumumba",
+        "slavery-race-and-capital",
+        "walter-rodney",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Nyerere, Neto, Machel and Mandela",
+      "order": 80,
+      "url": "/african-socialist-leaders",
+      "description": "Ujamaa and the Arusha Declaration, the MPLA and FRELIMO, and the ANC Freedom Charter tradition.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "cabral-and-rodney",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Manchester 1945: The Congress That Changed the Language of Empire",
+      "order": 81,
+      "url": "/manchester-1945",
+      "description": "In October 1945, in a town hall in Manchester, a Gold Coast railway worker stood up to describe the kind of politics the gathering wanted.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Algerian War: Independence and Its Witnesses",
+      "order": 82,
+      "url": "/algeria",
+      "description": "On the night of 1 November 1954 the National Liberation Front, or FLN, made a peace offer at the moment it declared war.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "frantz-fanon"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Nasser and the Revolution from Above: Egypt, 1952–1970",
+      "order": 83,
+      "url": "/egypt",
+      "description": "The broadcast of 23 July 1952 was careful to sound like an instruction rather than a coup.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Party and the Spear: Communists, Workers and the South African Liberation Struggle, 1921–1964",
+      "order": 84,
+      "url": "/south-africa",
+      "description": "The Communist Party of South Africa was founded in Cape Town on 30 July 1921 by a merger of socialist bodies.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "labour-repression-and-organising"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Land, Terror and the National Question: Ethiopia's Revolution, 1974–1991",
+      "order": 85,
+      "url": "/ethiopia",
+      "description": "In November 1969 a fourth-year arts student at Addis Ababa University published an article in the student journal Struggle asking whether Ethiopia was one country or several.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Carnation Revolution and the End of Portuguese Africa, 1974–1988",
+      "order": 86,
+      "url": "/portugal-africa",
+      "description": "On 27 April 1974, two days after a coup by middle-ranking officers ended Portugal's dictatorship, the central committee of the Mozambique Liberation Front, known as FRELIMO, issued a...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "colonialism-and-underdevelopment",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Bandung to Havana: The Afro-Asian Left, 1955–1966",
+      "order": 87,
+      "url": "/bandung",
+      "description": "On 18 April 1955 Sukarno, the host of the Asian-African Conference at Bandung, opened a meeting of delegates from twenty-nine Asian and African states.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "epeli-hauofa",
+        "samir-amin",
+        "vijay-prashad"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Oppressed Peoples and Oppressed Nations, Unite!: Anti-Colonial Internationalism, 1919–1952",
+      "order": 88,
+      "url": "/anti-colonial",
+      "description": "On the morning of 10 February 1927, in the Palais d'Egmont in Brussels, a delegate from the Chinese Nationalist Party, or Kuomintang, addressed a congress that had gathered anticolonial...",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "epeli-hauofa",
+        "samir-amin",
+        "vijay-prashad"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VII: National Liberation and Anti-Colonial Struggle"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Marxist-Leninist Parties Worldwide",
+      "order": 89,
+      "url": "/ml-parties-worldwide",
+      "description": "A regional directory of communist and socialist parties, ruling parties in detail, and international coordinating bodies.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "african-socialist-leaders",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VIII: The Contemporary Left"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Movement Media Outlets",
+      "order": 90,
+      "url": "/movement-media",
+      "description": "Podcasts, channels, periodicals, publishers and official party media that promote Marxism-Leninism and socialism.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "edward-s-herman",
+        "john-pilger",
+        "mark-fisher",
+        "ml-parties-worldwide",
+        "noam-chomsky"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VIII: The Contemporary Left"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "Video and Audiovisual Sources",
+      "order": 91,
+      "url": "/video-sources",
+      "description": "A directory of video and audio material hosted by the movements and states that made it, with access limitations disclosed.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "movement-media",
+        "noam-chomsky"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VIII: The Contemporary Left"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-22"
+    },
+    {
+      "title": "The New Left in the West: From 1956 to the Years of Lead",
+      "order": 92,
+      "url": "/new-left",
+      "description": "First-hand sources on The New Left in the West: From 1956 to the Years of Lead: first-hand documents, the evidence, scholarly interpretations and the limits of the record.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "antonio-gramsci",
+        "contents-by-part",
+        "david-graeber",
+        "howard-zinn",
+        "mark-fisher",
+        "murray-bookchin",
+        "noam-chomsky",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part VIII: The Contemporary Left"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Half the Sky? Women in the Socialist States and Movements",
+      "order": 93,
+      "url": "/women-crosscutting",
+      "description": "In 1920 Alexandra Kollontai, a Bolshevik and People's Commissar for Social Welfare, gave a name to a burden the revolution had promised to lift.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "emma-goldman",
+        "silvia-federici"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Red Scarf and the Oath: Children and Youth in Revolutionary Movements",
+      "order": 94,
+      "url": "/youth",
+      "description": "On 2 October 1920 Lenin stood before the Third All-Russia Congress of the Russian Young Communist League, the Komsomol, and reduced its purpose to one word.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Faith and the Socialist Claim",
+      "order": 95,
+      "url": "/religion",
+      "description": "On 2 November 1850 the first issue of a London periodical put a claim on the table that neither clergy nor radicals found comfortable.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Private and the Political: LGBTQ+ People in Socialist Movements and States",
+      "order": 96,
+      "url": "/lgbtq",
+      "description": "In May 1934 a Scottish-born journalist working in Moscow sat down to write to Stalin.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "One Big Union: The IWW in the United States, 1905–1920",
+      "order": 97,
+      "url": "/iww",
+      "description": "On 18 November 1915, a man awaiting execution wrote a will in his cell.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "david-graeber",
+        "emma-goldman",
+        "industrial-labour-and-the-factory",
+        "labour-repression-and-organising"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Workshop and the Union: Workers' Control from the Clyde to Chile",
+      "order": 98,
+      "url": "/unions",
+      "description": "At the congress of the Confédération générale du travail at Amiens in 1906, the vote on a charter was 830 for, eight against and one abstention.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "david-graeber",
+        "harry-braverman",
+        "labour-repression-and-organising",
+        "ownership-and-control"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Cooperative Idea: Rochdale, the Commonwealth and the Commune",
+      "order": 99,
+      "url": "/cooperatives",
+      "description": "On 21 December 1844 a group of weavers and artisans—traditionally said to number twenty-eight—opened a shop in Toad Lane, Rochdale, in the north of England.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "elinor-ostrom",
+        "murray-bookchin",
+        "origins-of-capitalism",
+        "ownership-and-control",
+        "peter-kropotkin",
+        "silvia-federici",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "The Cost of the Promise: Socialism and the Environment",
+      "order": 100,
+      "url": "/environment",
+      "description": "Friedrich Engels walked the industrial districts of Manchester in the 1840s and wrote down what he saw.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-calculation-debate",
+        "elinor-ostrom",
+        "jason-hickel",
+        "john-bellamy-foster",
+        "mike-davis",
+        "murray-bookchin",
+        "planning-incentives-and-shortage",
+        "what-capitalism-achieved",
+        "what-history-establishes",
+        "why-markets-returned"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Science of Control: Cybernetics, Genetics and the Socialist Plan",
+      "order": 101,
+      "url": "/cybernetics",
+      "description": "Norbert Wiener coined the word cybernetics for a study of control and communication in machines and living things.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-calculation-debate"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Living in Truth: Dissent and Samizdat in the Soviet Bloc, 1962–1989",
+      "order": 102,
+      "url": "/samizdat",
+      "description": "Every morning a greengrocer in Czechoslovakia placed a printed notice in his shop window, the revolutionary slogan that shopkeepers were expected to display.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "why-states-centralised"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The Cell and the Page: Prison and Exile Testimony",
+      "order": 103,
+      "url": "/prison",
+      "description": "In an Odessa prison, a blacksmith welded iron rings onto Leo Deutsch's ankles.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "angela-davis",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "The 'state capitalist' debate and the theory of transition",
+      "order": 104,
+      "url": "/transition-debate",
+      "description": "In 1918 Rosa Luxemburg sat in Wronki prison, writing a book she did not live to finish.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-calculation-debate",
+        "economic-transition",
+        "ownership-and-control",
+        "what-history-establishes",
+        "why-markets-returned",
+        "why-movements-fragmented"
+      ],
+      "tags": [
+        "Marxism",
+        "Part IX: Themes and Experiences"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-23"
+    },
+    {
+      "title": "Why Revolutions Succeeded",
+      "order": 105,
+      "url": "/why-revolutions-succeeded",
+      "description": "The victories came in Russia, China, Vietnam and Cuba rather than in the advanced industrial societies some Marxists expected. This chapter sets out what the book's evidence supports and what it cannot prove.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "why-states-centralised"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Why States Centralised",
+      "order": 106,
+      "url": "/why-states-centralised",
+      "description": "From Kronstadt to the Prague Spring, revolutionary governments concentrated authority. Structural pressure, institutional design and deliberate coercion have to be separated.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "antonio-gramsci",
+        "authors-and-traditions",
+        "contents-by-part",
+        "domenico-losurdo",
+        "michael-parenti",
+        "mikhail-bakunin",
+        "rosa-luxemburg",
+        "who-controlled-the-workplace",
+        "why-revolutions-succeeded"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Who Controlled the Workplace?",
+      "order": 107,
+      "url": "/who-controlled-the-workplace",
+      "description": "Election of councils, appointment of directors, plan targets and wage systems: the gap between a right on paper and authority over production.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "harry-braverman",
+        "labour-repression-and-organising",
+        "ownership-and-control",
+        "planning-incentives-and-shortage",
+        "richard-wolff",
+        "why-revolutions-succeeded",
+        "why-states-centralised"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Why Markets Returned",
+      "order": 108,
+      "url": "/why-markets-returned",
+      "description": "Why centrally planned economies brought back trade, prices and private enterprise, and what the surviving evidence can and cannot show.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "economic-calculation-debate",
+        "economic-transition",
+        "janos-kornai",
+        "what-capitalism-achieved",
+        "what-history-establishes"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Why Movements Fragmented",
+      "order": 109,
+      "url": "/why-movements-fragmented",
+      "description": "The arguments that divided socialists from the First International to the New Left, and what the documentary record can settle about them.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "what-history-establishes"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "What History Establishes",
+      "order": 110,
+      "url": "/what-history-establishes",
+      "description": "A concluding synthesis organized around ideas, power, institutions, outcomes and transformation, with an explicit account of the book's epistemic limits.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "contents-by-part",
+        "domenico-losurdo",
+        "eric-hobsbawm",
+        "howard-zinn",
+        "why-revolutions-succeeded"
+      ],
+      "tags": [
+        "Marxism",
+        "Part X: Synthesis and Interpretation"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Prices Without Markets: The Calculation Question",
+      "order": 111,
+      "url": "/economic-calculation-debate",
+      "description": "Stalin allowed that the law of value operated under socialism while denying that it regulated production. The sources assembled here show what that distinction meant in practice.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "contents-by-part",
+        "economic-transition",
+        "elinor-ostrom",
+        "janos-kornai",
+        "john-bellamy-foster",
+        "michael-hudson",
+        "oskar-lange",
+        "paul-sweezy",
+        "planning-incentives-and-shortage",
+        "who-controlled-the-workplace",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Marxism",
+        "Part XI: Political Economy"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "The Plan and the Shortage: Targets, Responses and Scarcity",
+      "order": 112,
+      "url": "/planning-incentives-and-shortage",
+      "description": "A miner's record, a ten per cent quota rise and a party report on empty shelves: how plans were made, how they were answered and why goods remained scarce.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "contents-by-part",
+        "economic-calculation-debate",
+        "janos-kornai",
+        "oskar-lange"
+      ],
+      "tags": [
+        "Marxism",
+        "Part XI: Political Economy"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Who Owned What: Legal Title, Control and the Meaning of Social Ownership",
+      "order": 113,
+      "url": "/ownership-and-control",
+      "description": "Constitutions named the owner. Statutes and letters show who hired, who invested and who could overrule a workplace.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "contents-by-part",
+        "david-harvey",
+        "elinor-ostrom",
+        "jane-kelsey",
+        "janos-kornai",
+        "michael-hudson",
+        "oskar-lange",
+        "richard-wolff",
+        "who-controlled-the-workplace",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Marxism",
+        "Part XI: Political Economy"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Authors and Intellectual Traditions",
+      "order": 114,
+      "url": "/authors-and-traditions",
+      "description": "A research collection of socialist thinkers, political economists, historians and critics of capitalism, with profiles, bibliographies and verified sources.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "angela-davis",
+        "antonio-gramsci",
+        "contents-by-part",
+        "david-graeber",
+        "david-harvey",
+        "domenico-losurdo",
+        "edward-s-herman",
+        "elinor-ostrom",
+        "ellen-meiksins-wood",
+        "emma-goldman",
+        "epeli-hauofa",
+        "eric-hobsbawm",
+        "frantz-fanon",
+        "harry-braverman",
+        "howard-zinn",
+        "jane-kelsey",
+        "janos-kornai",
+        "jason-hickel",
+        "john-bellamy-foster",
+        "john-pilger",
+        "jose-carlos-mariategui",
+        "jose-maria-sison",
+        "mark-fisher",
+        "michael-hudson",
+        "michael-parenti",
+        "mike-davis",
+        "mikhail-bakunin",
+        "murray-bookchin",
+        "noam-chomsky",
+        "oskar-lange",
+        "paul-sweezy",
+        "peter-kropotkin",
+        "richard-wolff",
+        "rosa-luxemburg",
+        "samir-amin",
+        "silvia-federici",
+        "vijay-prashad",
+        "walter-rodney",
+        "william-blum",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Contents",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Crossing Between Systems: Transition as an Economic and Political Process",
+      "order": 114,
+      "url": "/economic-transition",
+      "description": "NEP, doi moi, Chinese reform, the Cuban Reordering Task and the collapse of 1989 to 1991, read through the sources the book already holds.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "contents-by-part",
+        "oskar-lange"
+      ],
+      "tags": [
+        "Marxism",
+        "Part XI: Political Economy"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-24"
+    },
+    {
+      "title": "Michael Parenti: Class Power, Imperialism and the Politics of Anti-Communism",
+      "order": 115,
+      "url": "/michael-parenti",
+      "description": "A research profile of the American political scientist: his class analysis, media critique, account of fascism and defence of existing socialist states, with his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "colonialism-and-underdevelopment",
+        "contents-by-part",
+        "david-harvey",
+        "domenico-losurdo",
+        "ellen-meiksins-wood",
+        "frantz-fanon",
+        "howard-zinn",
+        "jason-hickel",
+        "john-pilger",
+        "noam-chomsky",
+        "why-states-centralised",
+        "william-blum"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Domenico Losurdo: Liberalism, Class Struggle and the Communist Question",
+      "order": 117,
+      "url": "/domenico-losurdo",
+      "description": "A research profile of the Italian Marxist historian's counter-history of liberalism, his defence of existing socialism and the criticism it drew.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "theoretical-backbone",
+        "why-states-centralised"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Philosophy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Noam Chomsky: State Power, propaganda and Libertarian Socialism",
+      "order": 118,
+      "url": "/noam-chomsky",
+      "description": "A research profile of the linguist and political writer's critique of US foreign policy, media propaganda and his libertarian socialist alternative.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "edward-s-herman",
+        "khmer-rouge",
+        "new-left"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Libertarian Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Edward S. Herman: The Propaganda Model and Corporate Media",
+      "order": 119,
+      "url": "/edward-s-herman",
+      "description": "A research profile of the political economist's account of corporate media, the propaganda model and double standards in reporting, with the debate around it.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Michael Hudson: Rent, Debt and Financial Empire",
+      "order": 120,
+      "url": "/michael-hudson",
+      "description": "A research profile of the economist's critique of rentier capitalism, US financial empire and debt, with his institutional proposals and critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "david-graeber",
+        "economic-calculation-debate",
+        "jane-kelsey",
+        "what-capitalism-achieved",
+        "yanis-varoufakis"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Richard D. Wolff: Exploitation, Class and Democracy at Work",
+      "order": 121,
+      "url": "/richard-wolff",
+      "description": "A research profile of the Marxian economist's account of exploitation, workplace democracy and the crises of capitalism, with his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "what-capitalism-achieved",
+        "who-controlled-the-workplace"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Samir Amin: Unequal Development, Delinking and Eurocentrism",
+      "order": 122,
+      "url": "/samir-amin",
+      "description": "A research profile of the Egyptian Marxist economist's account of global capitalism, dependency and the struggle against Eurocentrism, with his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "David Harvey: Accumulation, Neoliberalism and the Right to the City",
+      "order": 123,
+      "url": "/david-harvey",
+      "description": "A research profile of the geographer's account of capital accumulation, the spatial fix, neoliberalism and urban struggle, with scholarly objections.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Walter Rodney: How Europe Underdeveloped Africa",
+      "order": 124,
+      "url": "/walter-rodney",
+      "description": "A research profile of the Guyanese historian's account of colonial extraction, underdevelopment and Black Power, with scholarly debate over his work.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Frantz Fanon: Colonial Violence, Liberation and the National Bourgeoisie",
+      "order": 125,
+      "url": "/frantz-fanon",
+      "description": "A research profile of the psychiatrist and anti-colonial writer's account of colonial domination, its psychological effects and the pitfalls of national liberation.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "cabral-and-rodney",
+        "colonialism-and-underdevelopment",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "William Blum: Killing Hope and the Record of US Intervention",
+      "order": 126,
+      "url": "/william-blum",
+      "description": "A research profile of the journalist's catalogue of US interventions, his anti-imperialist argument and the scholarly criticism of his method.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Howard Zinn: History From the Bottom Up",
+      "order": 127,
+      "url": "/howard-zinn",
+      "description": "A research profile of the historian's method, his political commitments, A People's History of the United States and the scholarly objections to it.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "new-left"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Historiography"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Vijay Prashad: The Third World Project and the Global South",
+      "order": 128,
+      "url": "/vijay-prashad",
+      "description": "A research profile of the historian's account of Third World internationalism, imperialism and contemporary struggle, with his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "colonialism-and-underdevelopment",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "John Pilger: Investigative Journalism Against Empire",
+      "order": 129,
+      "url": "/john-pilger",
+      "description": "A research profile of the journalist's reporting on Cambodia, East Timor and Western foreign policy, his documentary method and his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "khmer-rouge"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Antonio Gramsci: Cultural Hegemony and the Modern Prince",
+      "order": 130,
+      "url": "/antonio-gramsci",
+      "description": "A research profile of the Italian Marxist's account of hegemony, the party, and the dispute over how his Prison Notebooks were edited and used.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Philosophy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Eric Hobsbawm: Social History, Capitalism and the Short Twentieth Century",
+      "order": 131,
+      "url": "/eric-hobsbawm",
+      "description": "A research profile of the Marxist historian's periodisation, labour history and membership of the Communist Party, with scholarly objections.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Historiography"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Harry Braverman: Deskilling and the Capitalist Labour Process",
+      "order": 132,
+      "url": "/harry-braverman",
+      "description": "A research profile of the Marxist economist's account of scientific management, the separation of conception from execution and the degradation of work.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Ellen Meiksins Wood: Capitalism, Democracy and Empire",
+      "order": 133,
+      "url": "/ellen-meiksins-wood",
+      "description": "A research profile of the historian's account of capitalism's distinct social relations, its origins and its relation to democracy and empire.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "origins-of-capitalism"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Silvia Federici: Unpaid Labour, Enclosure and the Witch Hunts",
+      "order": 134,
+      "url": "/silvia-federici",
+      "description": "A research profile of the feminist theorist's account of social reproduction, primitive accumulation and the commons, with scholarly objections.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "black-women-communists",
+        "contents-by-part",
+        "origins-of-capitalism",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Feminism"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Angela Davis: Race, Class, Gender and Abolition",
+      "order": 135,
+      "url": "/angela-davis",
+      "description": "A research profile of the Marxist feminist's analysis of race, class, imprisonment and abolition, with her major works and critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "black-women-communists",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Black Radical Thought",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Mark Fisher: Capitalist Realism and Cultural Power",
+      "order": 136,
+      "url": "/mark-fisher",
+      "description": "A research profile of the cultural theorist's claim that capitalism has become unthinkable to replace, its sources and the criticisms it drew.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "new-left"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Contemporary Critical Thought",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Paul Sweezy: Monopoly Capital and the Transformation Problem",
+      "order": 137,
+      "url": "/paul-sweezy",
+      "description": "A research profile of the Marxist economist and Monthly Review editor, his theory of monopoly capital and the debates around value and prices.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "economic-calculation-debate",
+        "theoretical-backbone"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Marxist Political Economy",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Mike Davis: Famine, Slums and Urban Capitalism",
+      "order": 138,
+      "url": "/mike-davis",
+      "description": "A research profile of the historian's account of colonial famine, capitalist urban development and the politics of the city, with criticism of his figures.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Historiography"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Jason Hickel: Global Inequality, Extraction and Degrowth",
+      "order": 139,
+      "url": "/jason-hickel",
+      "description": "A research profile of the economic anthropologist's account of imperialist appropriation, global inequality and the case for degrowth, with critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "environment"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Ecological Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "John Bellamy Foster: The Metabolic Rift and Ecological Marxism",
+      "order": 140,
+      "url": "/john-bellamy-foster",
+      "description": "A research profile of the Marxist sociologist's account of the rift between society and nature, monopoly-finance capital and his critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "environment"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Ecological Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Rosa Luxemburg: Accumulation, Mass Strikes and Socialist Democracy",
+      "order": 141,
+      "url": "/rosa-luxemburg",
+      "description": "A research profile of the Marxist theorist's critique of imperialism, reformism and party centralism, with her economic arguments and their critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "theoretical-backbone",
+        "why-states-centralised"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Classical Marxism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "José Carlos Mariátegui: Indigenous Socialism and Peruvian Reality",
+      "order": 142,
+      "url": "/jose-carlos-mariategui",
+      "description": "A research profile of the Peruvian Marxist's account of the Indian question, the land question and the socialist tradition he founded in Latin America.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "anti-colonial",
+        "authors-and-traditions",
+        "contents-by-part",
+        "peru"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Peter Kropotkin: Mutual Aid and Anarchist Communism",
+      "order": 143,
+      "url": "/peter-kropotkin",
+      "description": "A research profile of the geographer and anarchist's account of cooperation, decentralised federation and the critique of the state.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "cooperatives"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Libertarian Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Mikhail Bakunin: Collectivist Anarchism and the State",
+      "order": 144,
+      "url": "/mikhail-bakunin",
+      "description": "A research profile of the anarchist's critique of state socialism, his role in the First International and the scholarly disputes around his politics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "first-international"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Libertarian Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Emma Goldman: Anarchism, Freedom and the Critique of the State",
+      "order": 145,
+      "url": "/emma-goldman",
+      "description": "A research profile of the anarchist writer's politics of individual freedom, her critique of marriage and the state, and her break with the Bolsheviks.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "women-crosscutting"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Libertarian Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Murray Bookchin: Social Ecology and Libertarian Municipalism",
+      "order": 146,
+      "url": "/murray-bookchin",
+      "description": "A research profile of the social ecologist's account of hierarchy, cities and face-to-face democracy, and his break with anarchism.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "environment",
+        "new-left"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Ecological Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "José María Sison: National Democracy and the Philippine Revolution",
+      "order": 147,
+      "url": "/jose-maria-sison",
+      "description": "A research profile of the Filipino Marxist's theory of national democracy, the CPP's 1968 refounding and the disputes over his account of Philippine society.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "anti-colonial",
+        "authors-and-traditions",
+        "contents-by-part",
+        "philippines-japan"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Jane Kelsey: The New Zealand Experiment and Its Critics",
+      "order": 148,
+      "url": "/jane-kelsey",
+      "description": "A research profile of the legal scholar's analysis of neoliberal restructuring in Aotearoa New Zealand, its social consequences and the debate around her account.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Epeli Hauʻofa: Oceania, Development and the Sea of Islands",
+      "order": 149,
+      "url": "/epeli-hauofa",
+      "description": "A research profile of the Tongan-Fijian writer's critique of development discourse and his account of Pacific identity and resistance.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "anti-colonial",
+        "authors-and-traditions",
+        "contents-by-part"
+      ],
+      "tags": [
+        "Anti-Imperialist Thought",
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Oskar Lange: Market Socialism and the Calculation Debate",
+      "order": 150,
+      "url": "/oskar-lange",
+      "description": "A research profile of the Polish economist's model of a socialist pricing board, its debate with Mises and Hayek, and later criticism of the model.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "alec-nove",
+        "authors-and-traditions",
+        "contents-by-part",
+        "economic-calculation-debate"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Economic Alternatives"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Alec Nove: Feasible Socialism and the Limits of Planning",
+      "order": 151,
+      "url": "/alec-nove",
+      "description": "A research profile of the economic historian's account of how actually existing socialist economies worked and what a feasible alternative would require.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "economic-calculation-debate",
+        "planning-incentives-and-shortage"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Economic Alternatives"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "János Kornai: Shortage, Soft Budgets and the Socialist Firm",
+      "order": 152,
+      "url": "/janos-kornai",
+      "description": "A research profile of the Hungarian economist's account of chronic scarcity and incentive structures in state socialist economies, and its critics.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "planning-incentives-and-shortage"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Economic Alternatives"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Elinor Ostrom: Governing the Commons Beyond State and Market",
+      "order": 153,
+      "url": "/elinor-ostrom",
+      "description": "A research profile of the political economist's evidence for self-governed common-pool resources and its relevance to socialist economic alternatives.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "cooperatives",
+        "economic-calculation-debate"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Part XII: Authors and Intellectual Traditions",
+        "Socialist Economic Alternatives"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "Yanis Varoufakis: Financial Capitalism and Technofeudalism",
+      "order": 154,
+      "url": "/yanis-varoufakis",
+      "description": "A research profile of the economist's account of the euro crisis, technocratic power and the claim that capitalism has been displaced by cloud rent.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Contemporary Critical Thought",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    },
+    {
+      "title": "David Graeber: Debt, Bureaucracy and Direct Action",
+      "order": 155,
+      "url": "/david-graeber",
+      "description": "A research profile of the anthropologist and anarchist's account of debt, meaningless work and collective action, with scholarly criticism.",
+      "status": "stable",
+      "editUrl": null,
+      "historyUrl": null,
+      "linkedFrom": [
+        "authors-and-traditions",
+        "contents-by-part",
+        "new-left",
+        "what-capitalism-achieved"
+      ],
+      "tags": [
+        "Authors and Intellectual Traditions",
+        "Libertarian Socialism",
+        "Part XII: Authors and Intellectual Traditions"
+      ],
+      "healthIgnore": [],
+      "lastUpdated": "2026-11-26"
+    }
+  ],
+  "aliases": {}
+}

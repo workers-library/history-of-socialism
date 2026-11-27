@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Political Compass — History of Socialism</title>
+<meta name="description" content="Explore your political positions across ten dimensions in an educational, private assessment.">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead"><div class="mast-inner">
+  <a class="brand" href="#" id="home"><span class="brand-mark" aria-hidden="true"><svg viewBox="0 0 36 36" fill="none"><circle cx="18" cy="18" r="15"/><path d="M18 3v30M3 18h30M8 8l20 20M28 8 8 28"/><circle cx="18" cy="18" r="6" fill="currentColor" stroke="none"/></svg></span><span><b>Political compass</b><small>HISTORY OF SOCIALISM / STUDY TOOLS</small></span></a>
+  <div class="mast-actions"><a href="/history-of-socialism/" class="book-link">Back to the book <span aria-hidden="true">↗</span></a></div>
+</div></header>
+<main id="main" tabindex="-1">
+<section id="view-intro" class="page intro-page">
+  <div class="hero">
+    <div class="hero-copy"><div class="eyebrow"><span class="status-dot"></span> POLITICAL EDUCATION / 01</div><h1>Politics is more<br>than <em>left and right.</em></h1><p class="hero-lede">Explore where you stand on ten dimensions of political thought, from economic ownership and civil liberties to ecology and justice.</p><div class="hero-actions"><button class="btn primary" id="start" type="button">Begin assessment <span aria-hidden="true">→</span></button><button class="btn text-btn" id="view-saved" hidden type="button">Open saved report →</button><a href="#dimensions-intro" class="text-link">Explore the dimensions ↓</a></div><div class="hero-meta"><span><b>100</b> statements</span><span><b>10</b> dimensions</span><span><b>12–15</b> min</span></div><p class="privacy-note"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="10" width="14" height="10" rx="2"/><path d="M8 10V7a4 4 0 0 1 8 0v3"/></svg> Private by design. Responses stay in this browser.</p></div>
+    <div class="hero-visual"><div class="visual-head"><div><span class="visual-kicker">THE FRAMEWORK</span><h2>Ten dimensions</h2></div><span class="visual-tag">01 — 10</span></div><div id="axis-strip" class="framework"></div><div class="visual-footer"><span>← First pole</span><span>Second pole →</span></div><p>Each line represents a separate question about political institutions. No score is shown until you answer.</p></div>
+  </div>
+  <section class="intro-section" id="dimensions-intro"><div class="section-intro"><span class="eyebrow">01 / WHAT YOU'LL EXPLORE</span><h2>Ten ways to understand politics.</h2><p>Separate dimensions make differences visible that a single left–right label can obscure.</p></div><div class="dimension-grid" id="mini-list"></div></section>
+  <section class="intro-section how"><div class="section-intro"><span class="eyebrow">02 / THE PROCESS</span><h2>From answers to understanding.</h2></div><div class="how-grid"><article><span>01</span><h3>Respond</h3><p>Read each statement and select the answer closest to your position. Change answers at any time.</p></article><article><span>02</span><h3>Explore</h3><p>See your ten scores and compare them with provisional political traditions, without being assigned an ideology.</p></article><article><span>03</span><h3>Investigate</h3><p>Inspect the evidence, scoring rules, limitations and further reading. Export your data or print the report.</p></article></div></section>
+  <aside class="notice"><strong>A learning tool, not a diagnosis.</strong><p>This assessment has not been validated through a human pilot. Its axes, scoring conventions and tradition profiles are provisional. Your results describe your answers to these statements, not your identity.</p></aside>
+</section>
+<section id="view-quiz" class="page quiz-page" hidden>
+  <div class="quiz-layout"><aside class="quiz-sidebar"><div class="eyebrow">ASSESSMENT / PROGRESS</div><div class="progress-heading"><b id="answered-count">0 / 100</b><span id="percent">0%</span></div><div class="progress" role="progressbar" aria-label="Statements answered" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><div id="progress"></div></div><p class="small muted">Statements answered</p><nav id="quiz-nav" aria-label="Assessment dimensions"></nav><div class="sidebar-bottom"><span id="save-status" class="small muted" role="status">Progress saved on this device.</span><button id="pause" type="button" class="btn secondary">Save &amp; exit</button></div></aside>
+  <div class="question-area"><div class="quiz-breadcrumb"><span id="axis-label">Economy</span><span id="counter">Question 01 of 100</span></div><div class="question-card"><div class="eyebrow" id="question-step">STATEMENT 01</div><h1 id="statement" tabindex="-1" aria-live="polite"></h1><p class="question-instruction">To what extent do you agree with this statement?</p><div id="answers" class="answers" role="group" aria-label="Choose your response"></div><div class="quiz-foot"><button class="btn secondary" id="back" type="button">← Previous</button><span class="key-hint">1–5 to select · Enter to continue</span><button class="btn primary" id="next" type="button" disabled>Continue →</button></div></div><div class="quiz-under"><span>There are no right or wrong answers.</span><label><input type="checkbox" id="auto-advance" checked> Auto-advance</label></div></div></div>
+</section>
+<section id="view-result" class="page result-page" hidden>
+  <header class="report-heading"><div><div class="eyebrow"><span class="status-dot"></span> ASSESSMENT COMPLETE / PERSONAL REPORT</div><h1>Your political profile<span>.</span></h1><p>Explore your responses, compare traditions and understand the limits of the assessment.</p><span id="restored" class="small muted" hidden>Restored from this browser.</span></div><div class="report-actions"><button class="btn secondary" id="copy" type="button">Copy summary</button><button class="btn secondary" id="retry" type="button">Retake</button><button class="btn primary" id="print-top" type="button">Print / PDF ↗</button><span id="copy-status" role="status" class="small muted"></span></div></header>
+  <div id="report-body"></div>
+</section>
+</main>
+<footer class="footer"><div><span>History of Socialism <span class="muted">/ Educational project</span></span><span class="muted">Independent dimensions by design, not validated factors.</span></div></footer>
+<script src="vendor/chart.umd.min.js"></script><script type="module" src="js/app.js"></script>
+</body></html>

@@ -1,0 +1,1753 @@
+---
+title: "Primary-Text Bibliography"
+description: "Sources cited in each chapter, grouped by chapter and taken from the manuscript as it currently stands."
+order: 3
+last_updated: 2026-11-22
+tags: ["Part I: Foundations", "Marxism"]
+---
+
+This bibliography lists the sources cited in each chapter. Entries are drawn from the chapter text and grouped by chapter. All URLs are taken from the manuscript as it currently stands.
+
+## The Theoretical Backbone
+
+- <[Source: cuba.cu](http://www.cuba.cu/gobierno/documentos/2011/ing/l160711i.html)>
+- <[Source: academic.oup.com](https://academic.oup.com/book/28460/chapter/229054563)>
+- <[Source: cepr.org](https://cepr.org/voxeu/columns/soviet-economy-1917-1991-its-life-and-afterlife)>
+- <[Source: en.tapchicongsan.org.vn](https://en.tapchicongsan.org.vn/web/english/economy/detail/-/asset_publisher/mqd1ARxqSObP/content/new-economic-spotlights-in-the-documents-of-the-13th-national-congress)>
+- <[Source: en.tapchicongsan.org.vn](https://en.tapchicongsan.org.vn/web/english/economy/detail/-/asset_publisher/mqd1ARxqSObP/content/socialist-oriented-market-economy-continuation-of-renewal-process)>
+- <[Source: en.tapchicongsan.org.vn](https://en.tapchicongsan.org.vn/web/english/focus/detail/-/asset_publisher/FMhwM2oQCZEZ/content/the-great-campaign-on-moral-building-ho-chi-minh-thought-on-morality)>
+- <[Source: english.court.gov.cn](https://english.court.gov.cn/2022-10/27/c_824969.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/top_news/2017/10/24/content_281475919837140.htm)>
+- <[Source: foreignlanguages.press](https://foreignlanguages.press/wp-content/uploads/2026/10/PCP-%E2%80%93-Fundamental-Documents.pdf)>
+- <[Source: foreignlanguages.press](https://foreignlanguages.press/wp-content/uploads/2026/10/RIM-%E2%80%93-Declaration-1984.pdf)>
+- <[Source: m.tapchiqptd.vn](https://m.tapchiqptd.vn/en/theory-and-practice/ho-chi-minhs-thought-the-road-map-for-vietnams-era-of-national-rise-27050.html)>
+- <[Source: manoa.hawaii.edu](https://manoa.hawaii.edu/koreanstudies/wp-content/uploads/2024/10/DPRK-Constitution-2019-EN.pdf)>
+- <[Source: media.unesco.org](https://media.unesco.org/sites/default/files/webform/r2e002/b275ee0713503da6d20d20f93a528acc4af930fd.pdf)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/Entries/althusser)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/Entries/engels)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/entries/exploitation)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/entries/marx)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/entries/marxism-analytical)>
+- <[Internet Archive snapshot: karl marxs theory of history](https://web.archive.org/web/20260202160142/https://press.princeton.edu/books/paperback/9780691070681/karl-marxs-theory-of-history)>
+- <[Source: bannedthought.net](https://www.bannedthought.net/International/RIM/AWTW/1995-20/ll_mlm_20_eng.htm)>
+- <[Source: departments.bucknell.edu](https://www.departments.bucknell.edu/russian/const/77cons01.html)>
+- <[Source: idcpc.org.cn](https://www.idcpc.org.cn/english2023/tjzl/cpcjj/PartyConstitution/202307/t20230727_157812.html)>
+- <[Marxists Internet Archive: brezhnevondraftconstitutionussr](https://www.marxists.org/archive/brezhnev/1977/oct/brezhnevondraftconstitutionussr.pdf)>
+- <[Marxists Internet Archive: eurocomm](https://www.marxists.org/archive/harman/1977/09/eurocomm.htm)>
+- <[Marxists Internet Archive: marxtheory](https://www.marxists.org/archive/harman/1981/xx/marxtheory.htm)>
+- <[Marxists Internet Archive: base super](https://www.marxists.org/archive/harman/1986/xx/base-super.html)>
+- <[Marxists Internet Archive: ch07a](https://www.marxists.org/archive/jordan/ideology/ch07a.htm)>
+- <[Marxists Internet Archive: Let Us Firmly Equip Ourselves With The Theory Of Juche Oriented Social](https://www.marxists.org/archive/kim-jong-il/works/Let-Us-Firmly-Equip-Ourselves-With-The-Theory-Of-Juche-Oriented-Socialist-Economic-Management.pdf)>
+- <[Marxists Internet Archive: On The Juche Idea](https://www.marxists.org/archive/kim-jong-il/works/On-The-Juche-Idea.pdf)>
+- <[Marxists Internet Archive: Selected Works 15](https://www.marxists.org/archive/kim-jong-il/works/Selected-Works-15.pdf)>
+- <[Marxists Internet Archive: The Songun Based Revolutionary Line Is A Great Revolutionary Line Of O](https://www.marxists.org/archive/kim-jong-il/works/The-Songun-Based-Revolutionary-Line-Is-A-Great-Revolutionary-Line-Of-Our-Era-And-An-Ever-Victorious-Banner-Of-Our-Revolution.pdf)>
+- <[Marxists Internet Archive: lenin comintern](https://www.marxists.org/archive/korsch/1924/lenin-comintern.htm)>
+- <[Marxists Internet Archive: witbd ch04](https://www.marxists.org/archive/lenin/works/1901/witbd/ch04.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/archive/lenin/works/1901/witbd/ii.htm)>
+- <[Marxists Internet Archive: iii](https://www.marxists.org/archive/lenin/works/1901/witbd/iii.htm)>
+- <[Marxists Internet Archive: staterev ch01](https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm)>
+- <[Marxists Internet Archive: staterev ch02](https://www.marxists.org/archive/lenin/works/1917/staterev/ch02.htm)>
+- <[Marxists Internet Archive: staterev ch03](https://www.marxists.org/archive/lenin/works/1917/staterev/ch03.htm)>
+- <[Marxists Internet Archive: staterev ch04](https://www.marxists.org/archive/lenin/works/1917/staterev/ch04.htm)>
+- <[Marxists Internet Archive: staterev ch05](https://www.marxists.org/archive/lenin/works/1917/staterev/ch05.htm)>
+- <[Marxists Internet Archive: tasks ch07](https://www.marxists.org/archive/lenin/works/1917/tasks/ch07.htm)>
+- <[Marxists Internet Archive: lwc ch02](https://www.marxists.org/archive/lenin/works/1920/lwc/ch02.htm)>
+- <[Marxists Internet Archive: lwc ch05](https://www.marxists.org/archive/lenin/works/1920/lwc/ch05.htm)>
+- <[Marxists Internet Archive: lwc ch06](https://www.marxists.org/archive/lenin/works/1920/lwc/ch06.htm)>
+- <[Marxists Internet Archive: labour](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm)>
+- <[Marxists Internet Archive: communist manifesto ch01](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)>
+- <[Marxists Internet Archive: communist manifesto ch02](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm)>
+- <[Marxists Internet Archive: preface](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/preface.htm)>
+- <[Marxists Internet Archive: preface](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch06](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch16](https://www.marxists.org/archive/marx/works/1867-c1/ch16.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch17](https://www.marxists.org/archive/marx/works/1867-c1/ch17.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch18](https://www.marxists.org/archive/marx/works/1867-c1/ch18.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch24](https://www.marxists.org/archive/marx/works/1867-c1/ch24.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch26](https://www.marxists.org/archive/marx/works/1867-c1/ch26.htm)>
+- <[Marxists Internet Archive: gotha](https://www.marxists.org/archive/marx/works/1875/gotha)>
+- <[Marxists Internet Archive: gotha ch01](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm)>
+- <[Marxists Internet Archive: anti duhring ch10](https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch10.htm)>
+- <[Marxists Internet Archive: anti duhring ch11](https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch11.htm)>
+- <[Marxists Internet Archive: anti duhring ch24](https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch24.htm)>
+- <[Marxists Internet Archive: soc utop ch02](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm)>
+- <[Marxists Internet Archive: soc utop ch03](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm)>
+- <[Marxists Internet Archive: int mat](https://www.marxists.org/archive/marx/works/1880/soc-utop/int-mat.htm)>
+- <[Marxists Internet Archive: don ch02](https://www.marxists.org/archive/marx/works/1883/don/ch02.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm)>
+- <[Marxists Internet Archive: 1894 c3 ch14](https://www.marxists.org/archive/marx/works/1894-c3/ch14.htm)>
+- <[Marxists Internet Archive: 1894 c3 ch15](https://www.marxists.org/archive/marx/works/1894-c3/ch15.htm)>
+- <[Marxists Internet Archive: Capital Volume I](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/trotsky/index.htm)>
+- <[Marxists Internet Archive: The Theory and Practice of Leninism Stalin](https://www.marxists.org/history/international/comintern/ci/publications/The-Theory-and-Practice-of-Leninism_Stalin.pdf)>
+- <[Marxists Internet Archive: proposal](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/proposal.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sino-soviet-split/index.htm)>
+- <[Marxists Internet Archive: constitution ussr 1977](https://www.marxists.org/history/ussr/government/constitution/1977/constitution-ussr-1977.pdf)>
+- <[Marxists Internet Archive: mswv1 17](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm)>
+- <[Marxists Internet Archive: mswv2 11](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_11.htm)>
+- <[Marxists Internet Archive: mswv2 37](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_37.htm)>
+- <[Marxists Internet Archive: mswv3 13](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_13.htm)>
+- <[Marxists Internet Archive: mswv8 66](https://www.marxists.org/reference/archive/mao/selected-works/volume-8/mswv8_66.htm)>
+- <[Marxists Internet Archive: red book ch11](https://www.marxists.org/reference/archive/mao/works/red-book/ch11.htm)>
+- <[Marxists Internet Archive: red book ch22](https://www.marxists.org/reference/archive/mao/works/red-book/ch22.htm)>
+- <[Marxists Internet Archive: introduction](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/introduction.htm)>
+- <[Marxists Internet Archive: 01 25](https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm)>
+- <[Marxists Internet Archive: 11 25](https://www.marxists.org/reference/archive/stalin/works/1936/11/25.htm)>
+- <[Marxists Internet Archive: 12 05](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm)>
+- <[Marxists Internet Archive: 1938 09](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm)>
+- <[Marxists Internet Archive: economic problems ch02](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch02.htm)>
+- <[Marxists Internet Archive: economic problems ch04](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch04.htm)>
+- <[Marxists Internet Archive: economic problems ch08](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch08.htm)>
+- <[Marxists Internet Archive: sayer1](https://www.marxists.org/reference/subject/philosophy/works/en/sayer1.htm)>
+- <[Marxists Internet Archive: eurocommunism](https://www.marxists.org/reference/subject/philosophy/works/it/eurocommunism.htm)>
+- <[Marxists Internet Archive: alienation](https://www.marxists.org/subject/alienation)>
+- <[Marxists Internet Archive: pe ch26](https://www.marxists.org/subject/economy/authors/pe/pe-ch26.htm)>
+- <[Marxists Internet Archive: pe ch28](https://www.marxists.org/subject/economy/authors/pe/pe-ch28.htm)>
+- <[Marxists Internet Archive: pe ch29](https://www.marxists.org/subject/economy/authors/pe/pe-ch29.htm)>
+- <[Marxists Internet Archive: pe ch30](https://www.marxists.org/subject/economy/authors/pe/pe-ch30.htm)>
+- <[Marxists Internet Archive: pe ch32](https://www.marxists.org/subject/economy/authors/pe/pe-ch32.htm)>
+- <[Marxists Internet Archive: pe ch34](https://www.marxists.org/subject/economy/authors/pe/pe-ch34.htm)>
+- <[Marxists Internet Archive: pe ch40](https://www.marxists.org/subject/economy/authors/pe/pe-ch40.htm)>
+- <[Source: mined.gob.cu](https://www.mined.gob.cu/wp-content/uploads/2021/09/CONCEPTUALIZACION-DEL-MODELO-ECONOMICO-Y-SOCIAL-CUBANO-DE-DESARROLLO-SOCIALISTA-y-LINEAMIENTOS-DE-LA-POLITICA-ECONOMICA-Y-SOCIAL-DEL-PARTIDO-Y-LA-REVOLUCION-PARA-EL-PERIODO-2021.pdf)>
+
+## Karl Marx and Friedrich Engels
+
+- <[Source: books.google.be](https://books.google.be/books?id=pGTJAwAAQBAJ)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/Entries/althusser)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/Entries/engels)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/entries/exploitation)>
+- <[Source: plato.stanford.edu](https://plato.stanford.edu/entries/marx)>
+- <[Internet Archive snapshot: karl marxs theory of history](https://web.archive.org/web/20260202160142/https://press.princeton.edu/books/paperback/9780691070681/karl-marxs-theory-of-history)>
+- <[Source: historicalmaterialism.org](https://www.historicalmaterialism.org/article/engels-after-marx-a-critical-defence)>
+- <[Marxists Internet Archive: marxtheory](https://www.marxists.org/archive/harman/1981/xx/marxtheory.htm)>
+- <[Marxists Internet Archive: labour](https://www.marxists.org/archive/marx/works/1844/manuscripts/labour.htm)>
+- <[Marxists Internet Archive: preface](https://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1845/condition-working-class/index.htm)>
+- <[Marxists Internet Archive: ch01a](https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm)>
+- <[Marxists Internet Archive: theses](https://www.marxists.org/archive/marx/works/1845/theses/theses.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1847/poverty-philosophy/index.htm)>
+- <[Marxists Internet Archive: communist manifesto ch01](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm)>
+- <[Marxists Internet Archive: communist manifesto ch02](https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch02.htm)>
+- <[Marxists Internet Archive: 18th brumaire ch01](https://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm)>
+- <[Marxists Internet Archive: 52 03 05](https://www.marxists.org/archive/marx/works/1852/letters/52_03_05.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1857/grundrisse/index.htm)>
+- <[Marxists Internet Archive: preface](https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch06](https://www.marxists.org/archive/marx/works/1867-c1/ch06.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch07](https://www.marxists.org/archive/marx/works/1867-c1/ch07.htm)>
+- <[Marxists Internet Archive: 1867 c1 ch32](https://www.marxists.org/archive/marx/works/1867-c1/ch32.htm)>
+- <[Marxists Internet Archive: civil war france ch05](https://www.marxists.org/archive/marx/works/1871/civil-war-france/ch05.htm)>
+- <[Marxists Internet Archive: gotha ch01](https://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1875/gotha/index.htm)>
+- <[Marxists Internet Archive: anti duhring ch24](https://www.marxists.org/archive/marx/works/1877/anti-duhring/ch24.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1877/anti-duhring/index.htm)>
+- <[Marxists Internet Archive: notes](https://www.marxists.org/archive/marx/works/1877/anti-duhring/notes.htm)>
+- <[Marxists Internet Archive: soc utop ch02](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch02.htm)>
+- <[Marxists Internet Archive: soc utop ch03](https://www.marxists.org/archive/marx/works/1880/soc-utop/ch03.htm)>
+- <[Marxists Internet Archive: burial](https://www.marxists.org/archive/marx/works/1883/death/burial.htm)>
+- <[Marxists Internet Archive: justice](https://www.marxists.org/archive/marx/works/1883/death/justice.htm)>
+- <[Marxists Internet Archive: don ch09](https://www.marxists.org/archive/marx/works/1883/don/ch09.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1883/don/index.htm)>
+- <[Marxists Internet Archive: ch02d](https://www.marxists.org/archive/marx/works/1884/origin-family/ch02d.htm)>
+- <[Marxists Internet Archive: origin family ch09](https://www.marxists.org/archive/marx/works/1884/origin-family/ch09.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1884/origin-family/index.htm)>
+- <[Marxists Internet Archive: 1885 c2 ch00](https://www.marxists.org/archive/marx/works/1885-c2/ch00.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/marx/works/1885-c2/index.htm)>
+- <[Marxists Internet Archive: ludwig feuerbach ch04](https://www.marxists.org/archive/marx/works/1886/ludwig-feuerbach/ch04.htm)>
+- <[Marxists Internet Archive: 90 09 21](https://www.marxists.org/archive/marx/works/1890/letters/90_09_21.htm)>
+- <[Marxists Internet Archive: 1894 c3 ch14](https://www.marxists.org/archive/marx/works/1894-c3/ch14.htm)>
+- <[Marxists Internet Archive: pref](https://www.marxists.org/archive/marx/works/1894-c3/pref.htm)>
+- <[Marxists Internet Archive: 94 01 25](https://www.marxists.org/archive/marx/works/1894/letters/94_01_25.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/e/n.htm#engels)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/m/a.htm#marx)>
+- <[Marxists Internet Archive: young marx](https://www.marxists.org/reference/archive/althusser/1961/young-marx.htm)>
+- <[Source: versobooks.com](https://www.versobooks.com/blogs/news/5042-on-the-paris-commune-part-2)>
+
+## Lenin and Stalin
+
+- <[Marxists Internet Archive: historical significance stalins economic problems socialism ussr](http://www.marxists.org/archive/bland/1994/x01/historical-significance-stalins-economic-problems-socialism-ussr.pdf)>
+- <[Marxists Internet Archive](http://www.marxists.org/history/erol/periodicals/theoretical-review/19822701.htm)>
+- <[Marxists Internet Archive: witbd](http://www.marxists.org/history/etol/writers/otoole/2015/xx/witbd.htm)>
+- <[Marxists Internet Archive: stalin](http://www.marxists.org/history/usa/pubs/sojournertruth/stalin.pdf)>
+- <[Marxists Internet Archive: x01](http://www.marxists.org/reference/archive/stalin/works/1920/10/x01.htm)>
+- <[Marxists Internet Archive: 05 02](http://www.marxists.org/reference/archive/stalin/works/1921/05/02.htm)>
+- <[Internet Archive snapshot: book 47328](https://web.archive.org/web/20260722012622/https://academic.oup.com/book/47328)>
+- <[Source: edu.lvivcenter.org](https://edu.lvivcenter.org/en/documents/response-from-workers-of-the-ussr-to-stalin-s-article-overwhelmed-by-success-1930)>
+- <[Source: eh.net](https://eh.net/book_reviews/the-years-of-hunger-soviet-agriculture-1931-1933)>
+- <[Source: eprints.glos.ac.uk](https://eprints.glos.ac.uk/5334/1/Women%27s%20Experiences%20of%201937.pdf)>
+- <[Internet Archive snapshot: magnetic mountain stalinism civilization](https://web.archive.org/web/20250815145406/https://history.princeton.edu/about/publications/magnetic-mountain-stalinism-civilization)>
+- <[Source: isreview.org](https://isreview.org/issue/86/lenin-and-his-biographers/index.html)>
+- <[Source: link.springer.com](https://link.springer.com/book/10.1057/9780230273979)>
+- <[Source: press.umich.edu](https://press.umich.edu/Books/L/Lenin-s-Last-Struggle)>
+- <[Internet Archive snapshot: 45 2](https://web.archive.org/web/20251110110234/https://reviews.history.ac.uk/review/45-2/)>
+- <[Source: socialhistoryportal.org](https://socialhistoryportal.org/news/articles/109291)>
+- <[Source: soviethistory.msu.edu](https://soviethistory.msu.edu/1936/great-terror/great-terror-texts/letter-on-the-removal-of-ezhov/)>
+- <[Source: soviethistory.msu.edu](https://soviethistory.msu.edu/1936/great-terror/great-terror-texts/mass-repressions)>
+- <[Source: soviethistory.msu.edu](https://soviethistory.msu.edu/1947/cominform-and-the-soviet-bloc/cominform-and-the-soviet-bloc-texts/report-on-the-international-situation-to-the-cominform)>
+- <[Source: h-net.org](https://www.h-net.org/reviews/showrev.php?id=1735)>
+- <[Source: inlibra.com](https://www.inlibra.com/document/download/pdf/uuid/55028b32-3d25-3c07-a511-c3d4f771d85b)>
+- <[Source: lrb.co.uk](https://www.lrb.co.uk/the-paper/v18/n21/eric-hobsbawm/out-of-the-great-dark-whale)>
+- <[Source: lrb.co.uk](https://www.lrb.co.uk/the-paper/v22/n05/j.-arch-getty/palaces-on-monday)>
+- <[Marxists Internet Archive: russ rev 2 01](https://www.marxists.org/archive/arnot-page/1937/russ_rev_2/01.htm)>
+- <[Marxists Internet Archive: russ rev 2 02](https://www.marxists.org/archive/arnot-page/1937/russ_rev_2/02.htm)>
+- <[Marxists Internet Archive: russ rev 2 03](https://www.marxists.org/archive/arnot-page/1937/russ_rev_2/03.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/bland/1999/x01/x01.htm)>
+- <[Marxists Internet Archive: lat 8](https://www.marxists.org/archive/grant/1969/lat/8.htm)>
+- <[Marxists Internet Archive: world ch11](https://www.marxists.org/archive/james-clr/works/world/ch11.htm)>
+- <[Marxists Internet Archive: 24 abs](https://www.marxists.org/archive/khrushchev/1956/02/24-abs.htm)>
+- <[Marxists Internet Archive: 02 24](https://www.marxists.org/archive/khrushchev/1956/02/24.htm)>
+- <[Marxists Internet Archive: vii8xi](https://www.marxists.org/archive/lenin/works/1899/dcr8vii/vii8xi.htm)>
+- <[Marxists Internet Archive: viii8vi](https://www.marxists.org/archive/lenin/works/1899/dcr8viii/viii8vi.htm)>
+- <[Marxists Internet Archive: devel](https://www.marxists.org/archive/lenin/works/1899/devel)>
+- <[Marxists Internet Archive: witbd](https://www.marxists.org/archive/lenin/works/1901/witbd)>
+- <[Marxists Internet Archive](https://www.marxists.org/archive/lenin/works/1901/witbd/ii.htm)>
+- <[Marxists Internet Archive: iii](https://www.marxists.org/archive/lenin/works/1901/witbd/iii.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/archive/lenin/works/1901/witbd/iv.htm)>
+- <[Marxists Internet Archive: onestep](https://www.marxists.org/archive/lenin/works/1904/onestep)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/works/1908/mec/index.htm)>
+- <[Marxists Internet Archive: self det](https://www.marxists.org/archive/lenin/works/1914/self-det)>
+- <[Marxists Internet Archive: self det](https://www.marxists.org/archive/lenin/works/1914/self-det/)>
+- <[Marxists Internet Archive: self det ch02](https://www.marxists.org/archive/lenin/works/1914/self-det/ch02.htm)>
+- <[Marxists Internet Archive: self det ch09](https://www.marxists.org/archive/lenin/works/1914/self-det/ch09.htm)>
+- <[Marxists Internet Archive: self det ch10](https://www.marxists.org/archive/lenin/works/1914/self-det/ch10.htm)>
+- <[Marxists Internet Archive: imp hsc](https://www.marxists.org/archive/lenin/works/1916/imp-hsc)>
+- <[Marxists Internet Archive: imp hsc ch01](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch01.htm)>
+- <[Marxists Internet Archive: imp hsc ch02](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch02.htm)>
+- <[Marxists Internet Archive: imp hsc ch03](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch03.htm)>
+- <[Marxists Internet Archive: imp hsc ch04](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm)>
+- <[Marxists Internet Archive: imp hsc ch06](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch06.htm)>
+- <[Marxists Internet Archive: imp hsc ch07](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm)>
+- <[Marxists Internet Archive: imp hsc ch08](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm)>
+- <[Marxists Internet Archive: imp hsc ch09](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch09.htm)>
+- <[Marxists Internet Archive: imp hsc ch10](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch10.htm)>
+- <[Marxists Internet Archive: imperialism](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/imperialism.pdf)>
+- <[Marxists Internet Archive: pref01](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref01.htm)>
+- <[Marxists Internet Archive: pref02](https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm)>
+- <[Marxists Internet Archive: apr 04](https://www.marxists.org/archive/lenin/works/1917/apr/04.htm)>
+- <[Marxists Internet Archive: apr 09](https://www.marxists.org/archive/lenin/works/1917/apr/09.htm)>
+- <[Marxists Internet Archive: staterev](https://www.marxists.org/archive/lenin/works/1917/staterev)>
+- <[Marxists Internet Archive: staterev ch01](https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm)>
+- <[Marxists Internet Archive: staterev ch03](https://www.marxists.org/archive/lenin/works/1917/staterev/ch03.htm)>
+- <[Marxists Internet Archive: staterev ch05](https://www.marxists.org/archive/lenin/works/1917/staterev/ch05.htm)>
+- <[Marxists Internet Archive: staterev ch06](https://www.marxists.org/archive/lenin/works/1917/staterev/ch06.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/works/1917/staterev/index.htm)>
+- <[Marxists Internet Archive: x03](https://www.marxists.org/archive/lenin/works/1918/mar/x03.htm)>
+- <[Marxists Internet Archive: prrk](https://www.marxists.org/archive/lenin/works/1918/prrk)>
+- <[Marxists Internet Archive: lwc](https://www.marxists.org/archive/lenin/works/1920/lwc)>
+- <[Marxists Internet Archive: lwc ch04](https://www.marxists.org/archive/lenin/works/1920/lwc/ch04.htm)>
+- <[Marxists Internet Archive: lwc ch06](https://www.marxists.org/archive/lenin/works/1920/lwc/ch06.htm)>
+- <[Marxists Internet Archive: lwc ch07](https://www.marxists.org/archive/lenin/works/1920/lwc/ch07.htm)>
+- <[Marxists Internet Archive: lwc ch08](https://www.marxists.org/archive/lenin/works/1920/lwc/ch08.htm)>
+- <[Marxists Internet Archive: lwc ch10](https://www.marxists.org/archive/lenin/works/1920/lwc/ch10.htm)>
+- <[Marxists Internet Archive: apr 21](https://www.marxists.org/archive/lenin/works/1921/apr/21.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/lenin/works/1921/apr/x01.htm)>
+- <[Marxists Internet Archive: may 26](https://www.marxists.org/archive/lenin/works/1921/may/26.htm)>
+- <[Marxists Internet Archive: oct 17](https://www.marxists.org/archive/lenin/works/1921/oct/17.htm)>
+- <[Marxists Internet Archive: oct 29](https://www.marxists.org/archive/lenin/works/1921/oct/29.htm)>
+- <[Marxists Internet Archive: autonomy](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/autonomy.htm)>
+- <[Marxists Internet Archive: congress](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/congress.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/index.htm)>
+- <[Marxists Internet Archive: jan 06](https://www.marxists.org/archive/lenin/works/1923/jan/06.htm)>
+- <[Marxists Internet Archive: mar 02](https://www.marxists.org/archive/lenin/works/1923/mar/02.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/works/cw/index.htm)>
+- <[Marxists Internet Archive: prfv36pp](https://www.marxists.org/archive/lenin/works/cw/prfv36pp.htm)>
+- <[Marxists Internet Archive: what itd](https://www.marxists.org/archive/lenin/works/download/what-itd.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/works/lifework/worklife/index.htm)>
+- <[Marxists Internet Archive: statelaw](https://www.marxists.org/archive/pashukanis/1936/04/statelaw.htm)>
+- <[Marxists Internet Archive: 9yrslo5](https://www.marxists.org/archive/shachtma/1932/05/9yrslo5.htm)>
+- <[Marxists Internet Archive: nc07](https://www.marxists.org/archive/shachtma/1943/fnc/nc07.htm)>
+- <[Marxists Internet Archive: apdx b3](https://www.marxists.org/archive/trotsky/1930/hrr/apdx-b3.htm)>
+- <[Marxists Internet Archive: pr10](https://www.marxists.org/archive/trotsky/1931/tpr/pr10.htm)>
+- <[Marxists Internet Archive: prge](https://www.marxists.org/archive/trotsky/1931/tpr/prge.htm)>
+- <[Marxists Internet Archive: ussrconst](https://www.marxists.org/archive/trotsky/1936/04/ussrconst.htm)>
+- <[Marxists Internet Archive: revbet](https://www.marxists.org/archive/trotsky/1936/revbet)>
+- <[Marxists Internet Archive: revbet ch01](https://www.marxists.org/archive/trotsky/1936/revbet/ch01.htm)>
+- <[Marxists Internet Archive: revbet ch03](https://www.marxists.org/archive/trotsky/1936/revbet/ch03.htm)>
+- <[Marxists Internet Archive: revbet ch05](https://www.marxists.org/archive/trotsky/1936/revbet/ch05.htm)>
+- <[Marxists Internet Archive: revbet ch11](https://www.marxists.org/archive/trotsky/1936/revbet/ch11.htm)>
+- <[Marxists Internet Archive: lenins last works](https://www.marxists.org/ebooks/lenin/lenins_last_works.pdf)>
+- <[Marxists Internet Archive](https://www.marxists.org/encyclopedia/events/t/w.htm)>
+- <[Marxists Internet Archive: unsecret](https://www.marxists.org/history/erol/1956-1960/unsecret.htm)>
+- <[Marxists Internet Archive: nunes dialectical](https://www.marxists.org/history/erol/new-zealand/nunes-marx-mao/nunes-dialectical.pdf)>
+- <[Marxists Internet Archive: thatcher](https://www.marxists.org/history/etol/revhist/backiss/vol9/no2/thatcher.html)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/2nd-congress/index.htm)>
+- <[Marxists Internet Archive: v13 n11 nov 1936 CI grn riaz OC](https://www.marxists.org/history/international/comintern/ci/vol-13/v13-n11-nov-1936-CI-grn-riaz-OC.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/index.htm)>
+- <[Marxists Internet Archive: 1944 amendments](https://www.marxists.org/history/ussr/government/constitution/1944/1944-amendments.htm)>
+- <[Marxists Internet Archive: stalin 04](https://www.marxists.org/reference/archive/stalin/biographies/1947/stalin/04.htm)>
+- <[Marxists Internet Archive: 03a](https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm)>
+- <[Marxists Internet Archive: 11 19](https://www.marxists.org/reference/archive/stalin/works/1918/11/19.htm)>
+- <[Marxists Internet Archive: 10 10](https://www.marxists.org/reference/archive/stalin/works/1920/10/10.htm)>
+- <[Marxists Internet Archive: 03 24](https://www.marxists.org/reference/archive/stalin/works/1923/03/24.htm)>
+- <[Marxists Internet Archive: 1924 12](https://www.marxists.org/reference/archive/stalin/works/1924/12.htm)>
+- <[Marxists Internet Archive: foundations leninism ch01](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch01.htm)>
+- <[Marxists Internet Archive: foundations leninism ch04](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch04.htm)>
+- <[Marxists Internet Archive: foundations leninism ch08](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch08.htm)>
+- <[Marxists Internet Archive: foundations leninism ch09](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch09.htm)>
+- <[Marxists Internet Archive: 01 25](https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm)>
+- <[Marxists Internet Archive: 03 18](https://www.marxists.org/reference/archive/stalin/works/1929/03/18.htm)>
+- <[Marxists Internet Archive: 01 21](https://www.marxists.org/reference/archive/stalin/works/1930/01/21.htm)>
+- <[Marxists Internet Archive: 03 02](https://www.marxists.org/reference/archive/stalin/works/1930/03/02.htm)>
+- <[Marxists Internet Archive: 11 25](https://www.marxists.org/reference/archive/stalin/works/1936/11/25.htm)>
+- <[Marxists Internet Archive: 12 05](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm)>
+- <[Marxists Internet Archive: 1938 09](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm)>
+- <[Marxists Internet Archive: x01 ch11](https://www.marxists.org/reference/archive/stalin/works/1939/x01/ch11.htm)>
+- <[Marxists Internet Archive: economic problems](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems)>
+- <[Marxists Internet Archive: economic problems ch06](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch06.htm)>
+- <[Marxists Internet Archive: economic problems ch08](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch08.htm)>
+- <[Marxists Internet Archive: economic problems ch12](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch12.htm)>
+- <[Marxists Internet Archive: economic problems ch13](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch13.htm)>
+- <[Marxists Internet Archive: economic problems ch14](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch14.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/index.htm)>
+- <[Marxists Internet Archive: decades index](https://www.marxists.org/reference/archive/stalin/works/decades-index.htm)>
+- <[Marxists Internet Archive: t12 06](https://www.marxists.org/russkij/stalin/t12/t12_06.htm)>
+- <[Marxists Internet Archive: ch1 2](https://www.marxists.org/subject/stalinism/origins-future/ch1-2.htm)>
+- <[Marxists Internet Archive: diamat](https://www.marxists.org/svenska/stalin/1938/diamat.html)>
+- <[Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/09668130801999912)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/magnetic-mountain/epub-pdf)>
+
+## Stalin
+
+- <[Internet Archive snapshot: book 47822](https://web.archive.org/web/20261023005959/https://academic.oup.com/book/47822)>
+- <[Internet Archive: lethistoryjudge00roya](https://archive.org/details/lethistoryjudge00roya)>
+- <[Source: chronicle.uchicago.edu](https://chronicle.uchicago.edu/940428/fitzpatrick.shtml)>
+- <[Source: dccollection.share.library.harvard.edu](https://dccollection.share.library.harvard.edu/items/show/13048)>
+- <[DOI: 001.0001](https://doi.org/10.1093/oso/9780195101973.001.0001)>
+- <[Source: forrester.domains.swarthmore.edu](https://forrester.domains.swarthmore.edu/alum-readings/2003/ginzburg.html)>
+- <[Source: journals.library.ualberta.ca](https://journals.library.ualberta.ca/csp/index.php/csp/en/article/view/21772)>
+- <[Source: newleftreview.org](https://newleftreview.org/issues/ii35/articles/ronald-suny-soviet-ice-breaker)>
+- <[Internet Archive snapshot: viewcontent.cgi](https://web.archive.org/web/20261114045128/https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1032&context=mcnair)>
+- <[Source: soviethistory.msu.edu](https://soviethistory.msu.edu/1936/great-terror/great-terror-texts/mass-repressions/)>
+- <[Cambridge University Press: 52C318A8B7C414E1FA438FB2944D139D](https://www.cambridge.org/core/journals/slavic-review/article/russian-peasants-and-soviet-power-a-study-of-collectivization-by-moshe-lewin-translated-by-irene-nove-with-john-biggart-preface-by-alec-nove-evanston-northwestern-university-press-1968-539-pp-1500/52C318A8B7C414E1FA438FB2944D139D)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/bland/1999/x01/x01.htm)>
+- <[Marxists Internet Archive: 02 24](https://www.marxists.org/archive/khrushchev/1956/02/24.htm)>
+- <[Marxists Internet Archive: autonomy](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/autonomy.htm)>
+- <[Marxists Internet Archive: congress](https://www.marxists.org/archive/lenin/works/1922/dec/testamnt/congress.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/trotsky/1936/revbet/index.htm)>
+- <[Marxists Internet Archive: nov1960](https://www.marxists.org/reference/archive/hoxha/works/nov1960.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/index.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1901/09/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1901/11/x01.htm)>
+- <[Marxists Internet Archive: 09 01](https://www.marxists.org/reference/archive/stalin/works/1904/09/01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1904/09/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1904/10/x01.htm)>
+- <[Marxists Internet Archive: 01 01](https://www.marxists.org/reference/archive/stalin/works/1905/01/01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1905/01/x01.htm)>
+- <[Marxists Internet Archive: 02 13](https://www.marxists.org/reference/archive/stalin/works/1905/02/13.htm)>
+- <[Marxists Internet Archive: 02 15](https://www.marxists.org/reference/archive/stalin/works/1905/02/15.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1905/05/x01.htm)>
+- <[Marxists Internet Archive: 07 15](https://www.marxists.org/reference/archive/stalin/works/1905/07/15.htm)>
+- <[Marxists Internet Archive: 08 15](https://www.marxists.org/reference/archive/stalin/works/1905/08/15.htm)>
+- <[Marxists Internet Archive: 15 2](https://www.marxists.org/reference/archive/stalin/works/1905/08/15_2.htm)>
+- <[Marxists Internet Archive: 10 15](https://www.marxists.org/reference/archive/stalin/works/1905/10/15.htm)>
+- <[Marxists Internet Archive: 15 2](https://www.marxists.org/reference/archive/stalin/works/1905/10/15_2.htm)>
+- <[Marxists Internet Archive: 10 19](https://www.marxists.org/reference/archive/stalin/works/1905/10/19.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1905/10/x01.htm)>
+- <[Marxists Internet Archive: 11 20](https://www.marxists.org/reference/archive/stalin/works/1905/11/20.htm)>
+- <[Marxists Internet Archive: 01 07](https://www.marxists.org/reference/archive/stalin/works/1906/01/07.htm)>
+- <[Marxists Internet Archive: 03 08](https://www.marxists.org/reference/archive/stalin/works/1906/03/08.htm)>
+- <[Marxists Internet Archive: 03 29](https://www.marxists.org/reference/archive/stalin/works/1906/03/29.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1906/03/x01.htm)>
+- <[Marxists Internet Archive: 04 13](https://www.marxists.org/reference/archive/stalin/works/1906/04/13.htm)>
+- <[Marxists Internet Archive: 04 17](https://www.marxists.org/reference/archive/stalin/works/1906/04/17.htm)>
+- <[Marxists Internet Archive: 07 13](https://www.marxists.org/reference/archive/stalin/works/1906/07/13.htm)>
+- <[Marxists Internet Archive: 07 14](https://www.marxists.org/reference/archive/stalin/works/1906/07/14.htm)>
+- <[Marxists Internet Archive: 11 14](https://www.marxists.org/reference/archive/stalin/works/1906/11/14.htm)>
+- <[Marxists Internet Archive: 12 04](https://www.marxists.org/reference/archive/stalin/works/1906/12/04.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1906/12/x01.htm)>
+- <[Marxists Internet Archive: x02](https://www.marxists.org/reference/archive/stalin/works/1906/12/x02.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1906/x01/x01.htm)>
+- <[Marxists Internet Archive: 02 10](https://www.marxists.org/reference/archive/stalin/works/1907/02/10.htm)>
+- <[Marxists Internet Archive: 02 18](https://www.marxists.org/reference/archive/stalin/works/1907/02/18.htm)>
+- <[Marxists Internet Archive: 03 13](https://www.marxists.org/reference/archive/stalin/works/1907/03/13.htm)>
+- <[Marxists Internet Archive: 03 17](https://www.marxists.org/reference/archive/stalin/works/1907/03/17.htm)>
+- <[Marxists Internet Archive: 03 22](https://www.marxists.org/reference/archive/stalin/works/1907/03/22.htm)>
+- <[Marxists Internet Archive: 04 08](https://www.marxists.org/reference/archive/stalin/works/1907/04/08.htm)>
+- <[Marxists Internet Archive: 04 10](https://www.marxists.org/reference/archive/stalin/works/1907/04/10.htm)>
+- <[Marxists Internet Archive: 04 13](https://www.marxists.org/reference/archive/stalin/works/1907/04/13.htm)>
+- <[Marxists Internet Archive: 06 20](https://www.marxists.org/reference/archive/stalin/works/1907/06/20.htm)>
+- <[Marxists Internet Archive: 20 2](https://www.marxists.org/reference/archive/stalin/works/1907/06/20_2.htm)>
+- <[Marxists Internet Archive: 09 22](https://www.marxists.org/reference/archive/stalin/works/1907/09/22.htm)>
+- <[Marxists Internet Archive: 09 29](https://www.marxists.org/reference/archive/stalin/works/1907/09/29.htm)>
+- <[Marxists Internet Archive: 01 13](https://www.marxists.org/reference/archive/stalin/works/1908/01/13.htm)>
+- <[Marxists Internet Archive: 02 03](https://www.marxists.org/reference/archive/stalin/works/1908/02/03.htm)>
+- <[Marxists Internet Archive: 03 02](https://www.marxists.org/reference/archive/stalin/works/1908/03/02.htm)>
+- <[Marxists Internet Archive: 03 09](https://www.marxists.org/reference/archive/stalin/works/1908/03/09.htm)>
+- <[Marxists Internet Archive: 03 16](https://www.marxists.org/reference/archive/stalin/works/1908/03/16.htm)>
+- <[Marxists Internet Archive: 03 30](https://www.marxists.org/reference/archive/stalin/works/1908/03/30.htm)>
+- <[Marxists Internet Archive: 04 21](https://www.marxists.org/reference/archive/stalin/works/1908/04/21.htm)>
+- <[Marxists Internet Archive: 07 20](https://www.marxists.org/reference/archive/stalin/works/1908/07/20.htm)>
+- <[Marxists Internet Archive: 20 2](https://www.marxists.org/reference/archive/stalin/works/1908/07/20_2.htm)>
+- <[Marxists Internet Archive: 08 01](https://www.marxists.org/reference/archive/stalin/works/1909/08/01.htm)>
+- <[Marxists Internet Archive: 08 02](https://www.marxists.org/reference/archive/stalin/works/1909/08/02.htm)>
+- <[Marxists Internet Archive: 08 27](https://www.marxists.org/reference/archive/stalin/works/1909/08/27.htm)>
+- <[Marxists Internet Archive: 12 13](https://www.marxists.org/reference/archive/stalin/works/1909/12/13.htm)>
+- <[Marxists Internet Archive: 12 20](https://www.marxists.org/reference/archive/stalin/works/1909/12/20.htm)>
+- <[Marxists Internet Archive: 01 22](https://www.marxists.org/reference/archive/stalin/works/1910/01/22.htm)>
+- <[Marxists Internet Archive: 03 23](https://www.marxists.org/reference/archive/stalin/works/1910/03/23.htm)>
+- <[Marxists Internet Archive: 12 31](https://www.marxists.org/reference/archive/stalin/works/1910/12/31.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1912/03/x01.htm)>
+- <[Marxists Internet Archive: 04 15](https://www.marxists.org/reference/archive/stalin/works/1912/04/15.htm)>
+- <[Marxists Internet Archive: 15 2](https://www.marxists.org/reference/archive/stalin/works/1912/04/15_2.htm)>
+- <[Marxists Internet Archive: 15 3](https://www.marxists.org/reference/archive/stalin/works/1912/04/15_3.htm)>
+- <[Marxists Internet Archive: 15 4](https://www.marxists.org/reference/archive/stalin/works/1912/04/15_4.htm)>
+- <[Marxists Internet Archive: 04 17](https://www.marxists.org/reference/archive/stalin/works/1912/04/17.htm)>
+- <[Marxists Internet Archive: 04 19](https://www.marxists.org/reference/archive/stalin/works/1912/04/19.htm)>
+- <[Marxists Internet Archive: 19 2](https://www.marxists.org/reference/archive/stalin/works/1912/04/19_2.htm)>
+- <[Marxists Internet Archive: 04 22](https://www.marxists.org/reference/archive/stalin/works/1912/04/22.htm)>
+- <[Marxists Internet Archive: 22 2](https://www.marxists.org/reference/archive/stalin/works/1912/04/22_2.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1912/04/x01.htm)>
+- <[Marxists Internet Archive: 10 19](https://www.marxists.org/reference/archive/stalin/works/1912/10/19.htm)>
+- <[Marxists Internet Archive: 10 24](https://www.marxists.org/reference/archive/stalin/works/1912/10/24.htm)>
+- <[Marxists Internet Archive: 10 25](https://www.marxists.org/reference/archive/stalin/works/1912/10/25.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1912/10/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1912/12/x01.htm)>
+- <[Marxists Internet Archive: 01 12](https://www.marxists.org/reference/archive/stalin/works/1913/01/12.htm)>
+- <[Marxists Internet Archive: 12 2](https://www.marxists.org/reference/archive/stalin/works/1913/01/12_2.htm)>
+- <[Marxists Internet Archive: 02 26](https://www.marxists.org/reference/archive/stalin/works/1913/02/26.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1913/02/x01.htm)>
+- <[Marxists Internet Archive: 03a](https://www.marxists.org/reference/archive/stalin/works/1913/03a.htm)>
+- <[Marxists Internet Archive: 03 14](https://www.marxists.org/reference/archive/stalin/works/1917/03/14.htm)>
+- <[Marxists Internet Archive: 03 16](https://www.marxists.org/reference/archive/stalin/works/1917/03/16.htm)>
+- <[Marxists Internet Archive: 03 18](https://www.marxists.org/reference/archive/stalin/works/1917/03/18.htm)>
+- <[Marxists Internet Archive: 03 25](https://www.marxists.org/reference/archive/stalin/works/1917/03/25.htm)>
+- <[Marxists Internet Archive: 03 28](https://www.marxists.org/reference/archive/stalin/works/1917/03/28.htm)>
+- <[Marxists Internet Archive: 04 14](https://www.marxists.org/reference/archive/stalin/works/1917/04/14.htm)>
+- <[Marxists Internet Archive: 04 24](https://www.marxists.org/reference/archive/stalin/works/1917/04/24.htm)>
+- <[Marxists Internet Archive: 26 2](https://www.marxists.org/reference/archive/stalin/works/1917/07/26_2.htm)>
+- <[Marxists Internet Archive: 10 16](https://www.marxists.org/reference/archive/stalin/works/1917/10/16.htm)>
+- <[Marxists Internet Archive: 10 24](https://www.marxists.org/reference/archive/stalin/works/1917/10/24.htm)>
+- <[Marxists Internet Archive: 12 15](https://www.marxists.org/reference/archive/stalin/works/1917/12/15.htm)>
+- <[Marxists Internet Archive: 01 15](https://www.marxists.org/reference/archive/stalin/works/1918/01/15.htm)>
+- <[Marxists Internet Archive: 04 03](https://www.marxists.org/reference/archive/stalin/works/1918/04/03.htm)>
+- <[Marxists Internet Archive: 04 25](https://www.marxists.org/reference/archive/stalin/works/1918/04/25.htm)>
+- <[Marxists Internet Archive: 09 18](https://www.marxists.org/reference/archive/stalin/works/1918/09/18.htm)>
+- <[Marxists Internet Archive: 10 29](https://www.marxists.org/reference/archive/stalin/works/1918/10/29.htm)>
+- <[Marxists Internet Archive: 11 19](https://www.marxists.org/reference/archive/stalin/works/1918/11/19.htm)>
+- <[Marxists Internet Archive: 31b](https://www.marxists.org/reference/archive/stalin/works/1919/01/31b.htm)>
+- <[Marxists Internet Archive: 31c](https://www.marxists.org/reference/archive/stalin/works/1919/01/31c.htm)>
+- <[Marxists Internet Archive: 04 23](https://www.marxists.org/reference/archive/stalin/works/1919/04/23.htm)>
+- <[Marxists Internet Archive: 07 08](https://www.marxists.org/reference/archive/stalin/works/1919/07/08.htm)>
+- <[Marxists Internet Archive: 01 07](https://www.marxists.org/reference/archive/stalin/works/1920/01/07.htm)>
+- <[Marxists Internet Archive: 04 23](https://www.marxists.org/reference/archive/stalin/works/1920/04/23.htm)>
+- <[Marxists Internet Archive: 23 2](https://www.marxists.org/reference/archive/stalin/works/1920/04/23_2.htm)>
+- <[Marxists Internet Archive: 07 11](https://www.marxists.org/reference/archive/stalin/works/1920/07/11.htm)>
+- <[Marxists Internet Archive: 10 10](https://www.marxists.org/reference/archive/stalin/works/1920/10/10.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1920/10/x01.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1920/11/06.htm)>
+- <[Marxists Internet Archive: 11 13](https://www.marxists.org/reference/archive/stalin/works/1920/11/13.htm)>
+- <[Marxists Internet Archive: 01 05](https://www.marxists.org/reference/archive/stalin/works/1921/01/05.htm)>
+- <[Marxists Internet Archive: 02 10](https://www.marxists.org/reference/archive/stalin/works/1921/02/10.htm)>
+- <[Marxists Internet Archive: 05 02](https://www.marxists.org/reference/archive/stalin/works/1921/05/02.htm)>
+- <[Marxists Internet Archive: 07 06](https://www.marxists.org/reference/archive/stalin/works/1921/07/06.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1921/07/x01.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1921/11/06.htm)>
+- <[Marxists Internet Archive: 12 30](https://www.marxists.org/reference/archive/stalin/works/1922/12/30.htm)>
+- <[Marxists Internet Archive: 03 14](https://www.marxists.org/reference/archive/stalin/works/1923/03/14.htm)>
+- <[Marxists Internet Archive: 03 24](https://www.marxists.org/reference/archive/stalin/works/1923/03/24.htm)>
+- <[Marxists Internet Archive: 06 09](https://www.marxists.org/reference/archive/stalin/works/1923/06/09.htm)>
+- <[Marxists Internet Archive: 12 02](https://www.marxists.org/reference/archive/stalin/works/1923/12/02.htm)>
+- <[Marxists Internet Archive: 01 16](https://www.marxists.org/reference/archive/stalin/works/1924/01/16.htm)>
+- <[Marxists Internet Archive: 01 28](https://www.marxists.org/reference/archive/stalin/works/1924/01/28.htm)>
+- <[Marxists Internet Archive: 01 30](https://www.marxists.org/reference/archive/stalin/works/1924/01/30.htm)>
+- <[Marxists Internet Archive: 05 24](https://www.marxists.org/reference/archive/stalin/works/1924/05/24.htm)>
+- <[Marxists Internet Archive: 06 17](https://www.marxists.org/reference/archive/stalin/works/1924/06/17.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1924/06/x01.htm)>
+- <[Marxists Internet Archive: 07 03](https://www.marxists.org/reference/archive/stalin/works/1924/07_03.htm)>
+- <[Marxists Internet Archive: 09 20](https://www.marxists.org/reference/archive/stalin/works/1924/09/20.htm)>
+- <[Marxists Internet Archive: 10 22](https://www.marxists.org/reference/archive/stalin/works/1924/10/22.htm)>
+- <[Marxists Internet Archive: 10 26](https://www.marxists.org/reference/archive/stalin/works/1924/10/26.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1924/11/x01.htm)>
+- <[Marxists Internet Archive: 11 19](https://www.marxists.org/reference/archive/stalin/works/1924/11_19.htm)>
+- <[Marxists Internet Archive: 1924 12](https://www.marxists.org/reference/archive/stalin/works/1924/12.htm)>
+- <[Marxists Internet Archive: foundations leninism ch01](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch01.htm)>
+- <[Marxists Internet Archive: foundations leninism ch02](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch02.htm)>
+- <[Marxists Internet Archive: foundations leninism ch03](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch03.htm)>
+- <[Marxists Internet Archive: foundations leninism ch04](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch04.htm)>
+- <[Marxists Internet Archive: foundations leninism ch05](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch05.htm)>
+- <[Marxists Internet Archive: foundations leninism ch06](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch06.htm)>
+- <[Marxists Internet Archive: foundations leninism ch07](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch07.htm)>
+- <[Marxists Internet Archive: foundations leninism ch08](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch08.htm)>
+- <[Marxists Internet Archive: foundations leninism ch09](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch09.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/index.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1924/x01/x01.htm)>
+- <[Marxists Internet Archive: 03 30](https://www.marxists.org/reference/archive/stalin/works/1925/03/30.htm)>
+- <[Marxists Internet Archive: 05 09](https://www.marxists.org/reference/archive/stalin/works/1925/05/09.htm)>
+- <[Marxists Internet Archive: 05 18](https://www.marxists.org/reference/archive/stalin/works/1925/05/18.htm)>
+- <[Marxists Internet Archive: 06 30](https://www.marxists.org/reference/archive/stalin/works/1925/06/30.htm)>
+- <[Marxists Internet Archive: 11 07](https://www.marxists.org/reference/archive/stalin/works/1925/11/07.htm)>
+- <[Marxists Internet Archive: 12 18](https://www.marxists.org/reference/archive/stalin/works/1925/12/18.htm)>
+- <[Marxists Internet Archive: 01 25](https://www.marxists.org/reference/archive/stalin/works/1926/01/25.htm)>
+- <[Marxists Internet Archive: 04 13](https://www.marxists.org/reference/archive/stalin/works/1926/04/13.htm)>
+- <[Marxists Internet Archive: 10 26](https://www.marxists.org/reference/archive/stalin/works/1926/10/26.htm)>
+- <[Marxists Internet Archive: 11 01](https://www.marxists.org/reference/archive/stalin/works/1926/11/01.htm)>
+- <[Marxists Internet Archive: 11 22](https://www.marxists.org/reference/archive/stalin/works/1926/11/22.htm)>
+- <[Marxists Internet Archive: ecci speech](https://www.marxists.org/reference/archive/stalin/works/1926/ecci-speech.htm)>
+- <[Marxists Internet Archive: 04 15](https://www.marxists.org/reference/archive/stalin/works/1927/04/15.htm)>
+- <[Marxists Internet Archive: 09 27](https://www.marxists.org/reference/archive/stalin/works/1927/09/27.htm)>
+- <[Marxists Internet Archive: 10 23](https://www.marxists.org/reference/archive/stalin/works/1927/10/23.htm)>
+- <[Marxists Internet Archive: 11 23](https://www.marxists.org/reference/archive/stalin/works/1927/11/23.htm)>
+- <[Marxists Internet Archive: 12 02](https://www.marxists.org/reference/archive/stalin/works/1927/12/02.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1928/01/x01.htm)>
+- <[Marxists Internet Archive: 02 13](https://www.marxists.org/reference/archive/stalin/works/1928/02/13.htm)>
+- <[Marxists Internet Archive: 06 12](https://www.marxists.org/reference/archive/stalin/works/1928/06/12.htm)>
+- <[Marxists Internet Archive: 10 19](https://www.marxists.org/reference/archive/stalin/works/1928/10/19.htm)>
+- <[Marxists Internet Archive: 11 19](https://www.marxists.org/reference/archive/stalin/works/1928/11/19.htm)>
+- <[Marxists Internet Archive: may 28](https://www.marxists.org/reference/archive/stalin/works/1928/may/28.htm)>
+- <[Marxists Internet Archive: 03 18](https://www.marxists.org/reference/archive/stalin/works/1929/03/18.htm)>
+- <[Marxists Internet Archive: 04 22](https://www.marxists.org/reference/archive/stalin/works/1929/04/22.htm)>
+- <[Marxists Internet Archive: 11 03](https://www.marxists.org/reference/archive/stalin/works/1929/11/03.htm)>
+- <[Marxists Internet Archive: 12 27](https://www.marxists.org/reference/archive/stalin/works/1929/12/27.htm)>
+- <[Marxists Internet Archive: x02](https://www.marxists.org/reference/archive/stalin/works/1929/x01/x02.htm)>
+- <[Marxists Internet Archive: 01 17](https://www.marxists.org/reference/archive/stalin/works/1930/01/17.htm)>
+- <[Marxists Internet Archive: 01 21](https://www.marxists.org/reference/archive/stalin/works/1930/01/21.htm)>
+- <[Marxists Internet Archive: 02 09](https://www.marxists.org/reference/archive/stalin/works/1930/02/09.htm)>
+- <[Marxists Internet Archive: 03 02](https://www.marxists.org/reference/archive/stalin/works/1930/03/02.htm)>
+- <[Marxists Internet Archive: 06 17](https://www.marxists.org/reference/archive/stalin/works/1930/06/17.htm)>
+- <[Marxists Internet Archive: 12 12](https://www.marxists.org/reference/archive/stalin/works/1930/12/12.htm)>
+- <[Marxists Internet Archive: aug 27](https://www.marxists.org/reference/archive/stalin/works/1930/aug/27.htm)>
+- <[Marxists Internet Archive: 01 12](https://www.marxists.org/reference/archive/stalin/works/1931/01/12.htm)>
+- <[Marxists Internet Archive: 02 04](https://www.marxists.org/reference/archive/stalin/works/1931/02/04.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1931/05/x01.htm)>
+- <[Marxists Internet Archive: 06 23](https://www.marxists.org/reference/archive/stalin/works/1931/06/23.htm)>
+- <[Marxists Internet Archive: dec 13](https://www.marxists.org/reference/archive/stalin/works/1931/dec/13.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1931/x01/x01.htm)>
+- <[Marxists Internet Archive: 01 15](https://www.marxists.org/reference/archive/stalin/works/1932/01/15.htm)>
+- <[Marxists Internet Archive: 04 03](https://www.marxists.org/reference/archive/stalin/works/1932/04/03.htm)>
+- <[Marxists Internet Archive: 05 03](https://www.marxists.org/reference/archive/stalin/works/1932/05/03.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1932/05/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1932/10/x01.htm)>
+- <[Marxists Internet Archive: 01 07](https://www.marxists.org/reference/archive/stalin/works/1933/01/07.htm)>
+- <[Marxists Internet Archive: 01 11](https://www.marxists.org/reference/archive/stalin/works/1933/01/11.htm)>
+- <[Marxists Internet Archive: 02 19](https://www.marxists.org/reference/archive/stalin/works/1933/02/19.htm)>
+- <[Marxists Internet Archive: 12 25](https://www.marxists.org/reference/archive/stalin/works/1933/12/25.htm)>
+- <[Marxists Internet Archive: 01 26](https://www.marxists.org/reference/archive/stalin/works/1934/01/26.htm)>
+- <[Marxists Internet Archive: 01 31](https://www.marxists.org/reference/archive/stalin/works/1934/01/31.htm)>
+- <[Marxists Internet Archive: 07 19](https://www.marxists.org/reference/archive/stalin/works/1934/07/19.htm)>
+- <[Marxists Internet Archive: 12 01](https://www.marxists.org/reference/archive/stalin/works/1934/12/01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1934/x01/x01.htm)>
+- <[Marxists Internet Archive: 02 15](https://www.marxists.org/reference/archive/stalin/works/1935/02/15.htm)>
+- <[Marxists Internet Archive: 11 17](https://www.marxists.org/reference/archive/stalin/works/1935/11/17.htm)>
+- <[Marxists Internet Archive: 12 04](https://www.marxists.org/reference/archive/stalin/works/1935/12/04.htm)>
+- <[Marxists Internet Archive: 03 01](https://www.marxists.org/reference/archive/stalin/works/1936/03/01.htm)>
+- <[Marxists Internet Archive: 09 06](https://www.marxists.org/reference/archive/stalin/works/1936/09/06.htm)>
+- <[Marxists Internet Archive: 11 25](https://www.marxists.org/reference/archive/stalin/works/1936/11/25.htm)>
+- <[Marxists Internet Archive: 12 05](https://www.marxists.org/reference/archive/stalin/works/1936/12/05.htm)>
+- <[Marxists Internet Archive: 03 03](https://www.marxists.org/reference/archive/stalin/works/1937/03/03.htm)>
+- <[Marxists Internet Archive: 12 11](https://www.marxists.org/reference/archive/stalin/works/1937/12/11.htm)>
+- <[Marxists Internet Archive: 01 18](https://www.marxists.org/reference/archive/stalin/works/1938/01/18.htm)>
+- <[Marxists Internet Archive: 02 16](https://www.marxists.org/reference/archive/stalin/works/1938/02/16.htm)>
+- <[Marxists Internet Archive: 19 2](https://www.marxists.org/reference/archive/stalin/works/1938/04/19-2.htm)>
+- <[Marxists Internet Archive: 19 3](https://www.marxists.org/reference/archive/stalin/works/1938/04/19-3.htm)>
+- <[Marxists Internet Archive: 04 19](https://www.marxists.org/reference/archive/stalin/works/1938/04/19.htm)>
+- <[Marxists Internet Archive: 1938 09](https://www.marxists.org/reference/archive/stalin/works/1938/09.htm)>
+- <[Marxists Internet Archive: 01 10](https://www.marxists.org/reference/archive/stalin/works/1939/01/10.htm)>
+- <[Marxists Internet Archive: 02 23](https://www.marxists.org/reference/archive/stalin/works/1939/02/23.htm)>
+- <[Marxists Internet Archive: 03 10](https://www.marxists.org/reference/archive/stalin/works/1939/03/10.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/1939/x01/index.htm)>
+- <[Marxists Internet Archive: 07 03](https://www.marxists.org/reference/archive/stalin/works/1941/07/03.htm)>
+- <[Marxists Internet Archive: 10 19](https://www.marxists.org/reference/archive/stalin/works/1941/10/19.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1941/11/06.htm)>
+- <[Marxists Internet Archive: 11 07](https://www.marxists.org/reference/archive/stalin/works/1941/11/07.htm)>
+- <[Marxists Internet Archive: 02 23](https://www.marxists.org/reference/archive/stalin/works/1942/02/23.htm)>
+- <[Marxists Internet Archive: 04 12](https://www.marxists.org/reference/archive/stalin/works/1942/04/12.htm)>
+- <[Marxists Internet Archive: 05 01](https://www.marxists.org/reference/archive/stalin/works/1942/05/01.htm)>
+- <[Marxists Internet Archive: 10 03](https://www.marxists.org/reference/archive/stalin/works/1942/10/03.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1942/11/06.htm)>
+- <[Marxists Internet Archive: 11 07](https://www.marxists.org/reference/archive/stalin/works/1942/11/07.htm)>
+- <[Marxists Internet Archive: 11 13](https://www.marxists.org/reference/archive/stalin/works/1942/11/13.htm)>
+- <[Marxists Internet Archive: 01 25](https://www.marxists.org/reference/archive/stalin/works/1943/01/25.htm)>
+- <[Marxists Internet Archive: 02 02](https://www.marxists.org/reference/archive/stalin/works/1943/02/02.htm)>
+- <[Marxists Internet Archive: 02 23](https://www.marxists.org/reference/archive/stalin/works/1943/02/23.htm)>
+- <[Marxists Internet Archive: 04 22](https://www.marxists.org/reference/archive/stalin/works/1943/04/22.htm)>
+- <[Marxists Internet Archive: 05 01](https://www.marxists.org/reference/archive/stalin/works/1943/05/01.htm)>
+- <[Marxists Internet Archive: 05 04](https://www.marxists.org/reference/archive/stalin/works/1943/05/04.htm)>
+- <[Marxists Internet Archive: 05 07](https://www.marxists.org/reference/archive/stalin/works/1943/05/07.htm)>
+- <[Marxists Internet Archive: 05 28](https://www.marxists.org/reference/archive/stalin/works/1943/05/28.htm)>
+- <[Marxists Internet Archive: 06 17](https://www.marxists.org/reference/archive/stalin/works/1943/06/17.htm)>
+- <[Marxists Internet Archive: 07 24](https://www.marxists.org/reference/archive/stalin/works/1943/07/24.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1943/11/06.htm)>
+- <[Marxists Internet Archive: 06s](https://www.marxists.org/reference/archive/stalin/works/1943/11/06s.htm)>
+- <[Marxists Internet Archive: 11 07](https://www.marxists.org/reference/archive/stalin/works/1943/11/07.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1943/x01/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1944/01/x01.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1944/04/x01.htm)>
+- <[Marxists Internet Archive: 05 01](https://www.marxists.org/reference/archive/stalin/works/1944/05/01.htm)>
+- <[Marxists Internet Archive: 06 13](https://www.marxists.org/reference/archive/stalin/works/1944/06/13.htm)>
+- <[Marxists Internet Archive: 11 05](https://www.marxists.org/reference/archive/stalin/works/1944/11/05.htm)>
+- <[Marxists Internet Archive: 11 06](https://www.marxists.org/reference/archive/stalin/works/1944/11/06.htm)>
+- <[Marxists Internet Archive: 11 07](https://www.marxists.org/reference/archive/stalin/works/1944/11/07.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/stalin/works/1945/01/x01.htm)>
+- <[Marxists Internet Archive: 02 23](https://www.marxists.org/reference/archive/stalin/works/1945/02/23.htm)>
+- <[Marxists Internet Archive: 03 29](https://www.marxists.org/reference/archive/stalin/works/1945/03/29.htm)>
+- <[Marxists Internet Archive: 04 15](https://www.marxists.org/reference/archive/stalin/works/1945/04/15.htm)>
+- <[Marxists Internet Archive: 04 21](https://www.marxists.org/reference/archive/stalin/works/1945/04/21.htm)>
+- <[Marxists Internet Archive: 04 27](https://www.marxists.org/reference/archive/stalin/works/1945/04/27.htm)>
+- <[Marxists Internet Archive: 05 09](https://www.marxists.org/reference/archive/stalin/works/1945/05/09.htm)>
+- <[Marxists Internet Archive: 09v](https://www.marxists.org/reference/archive/stalin/works/1945/05/09v.htm)>
+- <[Marxists Internet Archive: 05 24](https://www.marxists.org/reference/archive/stalin/works/1945/05/24.htm)>
+- <[Marxists Internet Archive: 06 25](https://www.marxists.org/reference/archive/stalin/works/1945/06/25.htm)>
+- <[Marxists Internet Archive: 09 02](https://www.marxists.org/reference/archive/stalin/works/1945/09/02.htm)>
+- <[Marxists Internet Archive: 02 09](https://www.marxists.org/reference/archive/stalin/works/1946/02/09.htm)>
+- <[Marxists Internet Archive: 03 15](https://www.marxists.org/reference/archive/stalin/works/1946/03/15.htm)>
+- <[Marxists Internet Archive: 12 21](https://www.marxists.org/reference/archive/stalin/works/1946/12/21.htm)>
+- <[Marxists Internet Archive: 05 17](https://www.marxists.org/reference/archive/stalin/works/1948/05/17.htm)>
+- <[Marxists Internet Archive: 07 14](https://www.marxists.org/reference/archive/stalin/works/1948/07/14.htm)>
+- <[Marxists Internet Archive: 10 12](https://www.marxists.org/reference/archive/stalin/works/1948/10/12.htm)>
+- <[Marxists Internet Archive: 01 27](https://www.marxists.org/reference/archive/stalin/works/1949/01/27.htm)>
+- <[Marxists Internet Archive: 10 13](https://www.marxists.org/reference/archive/stalin/works/1949/10/13.htm)>
+- <[Marxists Internet Archive: 02 17](https://www.marxists.org/reference/archive/stalin/works/1950/02/17.htm)>
+- <[Marxists Internet Archive: 10 01](https://www.marxists.org/reference/archive/stalin/works/1950/10/01.htm)>
+- <[Marxists Internet Archive: x02](https://www.marxists.org/reference/archive/stalin/works/1950/11/x02.htm)>
+- <[Marxists Internet Archive: jun 20](https://www.marxists.org/reference/archive/stalin/works/1950/jun/20.htm)>
+- <[Marxists Internet Archive: 10 06](https://www.marxists.org/reference/archive/stalin/works/1951/10/06.htm)>
+- <[Marxists Internet Archive: 12 31](https://www.marxists.org/reference/archive/stalin/works/1951/12/31.htm)>
+- <[Marxists Internet Archive: economic problems ch02](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch02.htm)>
+- <[Marxists Internet Archive: economic problems ch03](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch03.htm)>
+- <[Marxists Internet Archive: economic problems ch04](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch04.htm)>
+- <[Marxists Internet Archive: economic problems ch05](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch05.htm)>
+- <[Marxists Internet Archive: economic problems ch06](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch06.htm)>
+- <[Marxists Internet Archive: economic problems ch07](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch07.htm)>
+- <[Marxists Internet Archive: economic problems ch08](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch08.htm)>
+- <[Marxists Internet Archive: economic problems ch09](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch09.htm)>
+- <[Marxists Internet Archive: economic problems ch10](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch10.htm)>
+- <[Marxists Internet Archive: economic problems ch11](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch11.htm)>
+- <[Marxists Internet Archive: economic problems ch12](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch12.htm)>
+- <[Marxists Internet Archive: economic problems ch14](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/ch14.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/1951/economic-problems/index.htm)>
+- <[Marxists Internet Archive: 03 31](https://www.marxists.org/reference/archive/stalin/works/1952/03/31.htm)>
+- <[Marxists Internet Archive: 08 20](https://www.marxists.org/reference/archive/stalin/works/1952/08/20.htm)>
+- <[Marxists Internet Archive: 10 14](https://www.marxists.org/reference/archive/stalin/works/1952/10/14.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/index.htm)>
+- <[Marxists Internet Archive: biography](https://www.marxists.org/reference/archive/stalin/works/collected/volume1/biography.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume1/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume10/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume11/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume12/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume13/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume14/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume15/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume16/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume2/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume3/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume4/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume5/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume6/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume7/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume8/index.htm)>
+- <[Marxists Internet Archive: preface cql](https://www.marxists.org/reference/archive/stalin/works/collected/volume8/preface-cql.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/collected/volume9/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/correspondence/01/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/correspondence/02/index.htm)>
+- <[Marxists Internet Archive: decades index](https://www.marxists.org/reference/archive/stalin/works/decades-index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/stalin/works/war/index.htm)>
+- <[Marxists Internet Archive: qstalin](https://www.marxists.org/subject/china/documents/polemic/qstalin.htm)>
+- <[Source: penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/299269/stalin-by-stephen-kotkin/)>
+- <[Source: sciencespo.fr](https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/news/mass-crimes-under-stalin-1930-1953/)>
+- <[Source: r.jina.ai](https://r.jina.ai/https://www.theguardian.com/cities/2016/apr/12/story-of-cities-20-the-secret-history-of-magnitogorsk-russias-steel-city)>
+- <[Source: ualberta.ca](https://www.ualberta.ca/en/canadian-institute-of-ukrainian-studies/news-and-events/news-at-the-cius/2018/march/oleh-wolowyna-measuring-mortality-in-the-holodomor.html)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/magnetic-mountain/paper)>
+
+## Mao Zedong and the Chinese Revolution
+
+- <[Source: politics.people.com.cn](http://politics.people.com.cn/n1/2023/1226/c1024-40147163.html)>
+- <[Source: frankdikotter.com](http://www.frankdikotter.com/books/maos-great-famine/synopsis.html)>
+- <[Marxists Internet Archive: mao selected works 1](http://www.marxists.org/ebooks/mao/mao-selected-works-1.pdf)>
+- <[Marxists Internet Archive: mswv6 38](http://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_38.htm)>
+- <[Source: culturalrevolution.pitt.edu](https://culturalrevolution.pitt.edu/)>
+- <[Source: dspace.library.uvic.ca](https://dspace.library.uvic.ca/server/api/core/bitstreams/55e34fd6-fb1e-4cc4-8faf-8a42bb8d6a77/content)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202312/28/content_WS658cae7ec6d0868f4e8e28fa.html)>
+- <[Source: foreignlanguages.press](https://foreignlanguages.press/wp-content/uploads/2026/10/RIM-%E2%80%93-Declaration-1984.pdf)>
+- <[Internet Archive snapshot: j.1728 4457.2011.00398.x](https://web.archive.org/web/20230718140302/https://onlinelibrary.wiley.com/doi/10.1111/j.1728-4457.2011.00398.x)>
+- <[Source: ourworldindata.org](https://ourworldindata.org/famines)>
+- <[Source: pacificaffairs.ubc.ca](https://pacificaffairs.ubc.ca/book-reviews/tombstone-the-great-chinese-famine-1958-1962-by-yang-jisheng-translated-from-the-chinese-by-stacy-mosher-and-guo-jian-edited-by-edward-friedman-guo-jian-and-stacy-mosher-introduction-by-edward)>
+- <[Source: pure.johnshopkins.edu](https://pure.johnshopkins.edu/en/publications/famine-in-china-1958-61/)>
+- <[Source: ucsdmodernchinesehistory.wordpress.com](https://ucsdmodernchinesehistory.wordpress.com/2010/01/29/396)>
+- <[Source: us.macmillan.com](https://us.macmillan.com/books/9780374533991/tombstone)>
+- <[Source: bannedthought.net](https://www.bannedthought.net/International/RIM/AWTW/1985-1/AWTW-01-DeclarationAdAndMembers.pdf)>
+- <[Cambridge University Press: 32E5530258C063FE060C1A8C60A23C05](https://www.cambridge.org/core/books/abs/cambridge-economic-history-of-china/political-economy-of-chinas-great-leap-famine/32E5530258C063FE060C1A8C60A23C05)>
+- <[Cambridge University Press: F39E361A42764CBB9F94071C2CB822E0](https://www.cambridge.org/core/journals/china-quarterly/article/abs/agency-and-famine-in-chinas-sichuan-province-19581962/F39E361A42764CBB9F94071C2CB822E0)>
+- <[Cambridge University Press: 550C79E7B5FCA3C53398EFC](https://www.cambridge.org/core/journals/china-quarterly/article/dealing-with-responsibility-for-the-great-leap-famine-in-the-peoples-republic-of-china/550C79E7B5FC769402092A3C53398EFC)>
+- <[Cambridge University Press: 3CF47A28C732B4365D2413C88813DC6E](https://www.cambridge.org/core/journals/china-quarterly/article/mao-zedong-and-the-famine-of-19591960-a-study-in-wilfulness/3CF47A28C732B4365D2413C88813DC6E)>
+- <[Source: hup.harvard.edu](https://www.hup.harvard.edu/books/9780674027480)>
+- <[Source: inlibra.com](https://www.inlibra.com/en/document/view/detail/uuid/93a56d7c-36a4-3e9a-9345-575dc8c001f8)>
+- <[JSTOR: j.ctvk12s4j](https://www.jstor.org/stable/j.ctvk12s4j)>
+- <[Marxists Internet Archive: Quotations from Chairman Mao Tse tung](https://www.marxists.org/ebooks/mao/Quotations_from_Chairman_Mao_Tse-tung.pdf)>
+- <[Marxists Internet Archive: cpaml 3 worlds](https://www.marxists.org/history/erol/australia/cpaml-3-worlds.pdf)>
+- <[Marxists Internet Archive: mao 3 worlds](https://www.marxists.org/history/erol/china/mao-3-worlds.htm)>
+- <[Marxists Internet Archive: cpml 3](https://www.marxists.org/history/erol/ncm-5/cpml-3.htm)>
+- <[Marxists Internet Archive: lom 3](https://www.marxists.org/history/erol/ncm-5/lom-3.htm)>
+- <[Marxists Internet Archive: section1](https://www.marxists.org/history/erol/ncm-5/theory-3-worlds/section1.htm)>
+- <[Marxists Internet Archive: cwp cpc reversal](https://www.marxists.org/history/erol/ncm-7/cwp-cpc-reversal.htm)>
+- <[Marxists Internet Archive: rcp maoism](https://www.marxists.org/history/erol/ncm-7/rcp-maoism.pdf)>
+- <[Marxists Internet Archive: maoism two lines](https://www.marxists.org/history/erol/uk.ebbingtide/maoism-two-lines.pdf)>
+- <[Marxists Internet Archive: mao](https://www.marxists.org/history/erol/uk.hightide/mao.htm)>
+- <[Marxists Internet Archive: 2 lines](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/2-lines.htm)>
+- <[Marxists Internet Archive: prolrev](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/prolrev.htm)>
+- <[Marxists Internet Archive: yugoslavia](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/yugoslavia.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sino-soviet-split/index.htm)>
+- <[Marxists Internet Archive: 1981 15](https://www.marxists.org/reference/archive/deng-xiaoping/1981/15.htm)>
+- <[Marxists Internet Archive: 1981 166](https://www.marxists.org/reference/archive/deng-xiaoping/1981/166.htm)>
+- <[Marxists Internet Archive: 12 25](https://www.marxists.org/reference/archive/hua-guofeng/1976/12/25.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/hua-guofeng/1977/x01/x01.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/lin-biao/1965/09/peoples_war/index.htm)>
+- <[Marxists Internet Archive: 12 16](https://www.marxists.org/reference/archive/lin-biao/1966/12/16.htm)>
+- <[Marxists Internet Archive: 04 01](https://www.marxists.org/reference/archive/lin-biao/1969/04/01.htm)>
+- <[Marxists Internet Archive: date index](https://www.marxists.org/reference/archive/mao/selected-works/date-index.htm)>
+- <[Marxists Internet Archive: mao selected military writings 1963](https://www.marxists.org/reference/archive/mao/selected-works/military-writings/mao-selected-military-writings-1963.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/index.htm)>
+- <[Marxists Internet Archive: mswv1 16](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm)>
+- <[Marxists Internet Archive: mswv1 17](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm)>
+- <[Marxists Internet Archive: mswv1 2](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_2.htm)>
+- <[Marxists Internet Archive: mswv1 6](https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_6.htm)>
+- <[Marxists Internet Archive: mswv2 09](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_09.htm)>
+- <[Marxists Internet Archive: mswv2 23](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_23.htm)>
+- <[Marxists Internet Archive: mswv2 26](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm)>
+- <[Marxists Internet Archive: mswv3 13](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_13.htm)>
+- <[Marxists Internet Archive: mswv3 25](https://www.marxists.org/reference/archive/mao/selected-works/volume-3/mswv3_25.htm)>
+- <[Marxists Internet Archive: mswv4 58](https://www.marxists.org/reference/archive/mao/selected-works/volume-4/mswv4_58.htm)>
+- <[Marxists Internet Archive: mswv4 65](https://www.marxists.org/reference/archive/mao/selected-works/volume-4/mswv4_65.htm)>
+- <[Marxists Internet Archive: mswv5 51](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_51.htm)>
+- <[Marxists Internet Archive: mswv5 58](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_58.htm)>
+- <[Marxists Internet Archive: red book ch02](https://www.marxists.org/reference/archive/mao/works/red-book/ch02.htm)>
+- <[Marxists Internet Archive: red book ch03](https://www.marxists.org/reference/archive/mao/works/red-book/ch03.htm)>
+- <[Marxists Internet Archive: red book ch05](https://www.marxists.org/reference/archive/mao/works/red-book/ch05.htm)>
+- <[Marxists Internet Archive: red book ch08](https://www.marxists.org/reference/archive/mao/works/red-book/ch08.htm)>
+- <[Marxists Internet Archive: red book ch11](https://www.marxists.org/reference/archive/mao/works/red-book/ch11.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/mao/works/red-book/index.htm)>
+- <[Marxists Internet Archive: quotes](https://www.marxists.org/reference/archive/mao/works/red-book/quotes.htm)>
+- <[Marxists Internet Archive: history 01](https://www.marxists.org/subject/china/documents/cpc/history/01.htm)>
+- <[Marxists Internet Archive: history 02](https://www.marxists.org/subject/china/documents/cpc/history/02.htm)>
+- <[Marxists Internet Archive: history 03](https://www.marxists.org/subject/china/documents/cpc/history/03.htm)>
+- <[Marxists Internet Archive: cpsu](https://www.marxists.org/subject/china/documents/polemic/cpsu.htm)>
+- <[Marxists Internet Archive: splitters](https://www.marxists.org/subject/china/documents/polemic/splitters.htm)>
+- <[Marxists Internet Archive: PR1967 28](https://www.marxists.org/subject/china/peking-review/1967/PR1967-28.pdf)>
+- <[Marxists Internet Archive: PR1972 07a](https://www.marxists.org/subject/china/peking-review/1972/PR1972-07a.htm)>
+- <[Marxists Internet Archive: PR1975 15a](https://www.marxists.org/subject/china/peking-review/1975/PR1975-15a.htm)>
+- <[Marxists Internet Archive: situation in rim maoistroad n1](https://www.marxists.org/subject/india/cpiml-naxalbari/2011/situation-in-rim-maoistroad-n1.pdf)>
+- <[Marxists Internet Archive: Reso2 120501](https://www.marxists.org/subject/india/cpiml-naxalbari/Reso2-120501.pdf)>
+- <[Source: penguinrandomhouse.com](https://www.penguinrandomhouse.com/books/324126/blood-red-sunset-by-ma-bo)>
+- <[Internet Archive snapshot](https://web.archive.org/web/20260210085440/https://www.simonandschuster.com/books/Maos-China-and-After/Maurice-Meisner/9780684856353)>
+- <[Source: sup.org](https://www.sup.org/books/asian-studies/calamity-and-reform-china)>
+- <[Source: sup.org](https://www.sup.org/books/asian-studies/peasant-nationalism-and-communist-power)>
+- <[Source: taylorfrancis.com](https://www.taylorfrancis.com/books/mono/10.4324/9781315286419/china-revolution-mark-selden)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/communist-neo-traditionalism/pdf)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/the-gender-of-memory/hardcover)>
+
+## The Constitution of the People's Republic of China
+
+- <[Source: npc.gov.cn](http://www.npc.gov.cn/npc/c12434/dzlfxzgcl70nlflc/202108/t20210824_313204.html)>
+- <[Source: en.wikisource.org](https://en.wikisource.org/wiki/Constitution_of_the_People%27s_Republic_of_China_%281954%29)>
+- <[Source: en.wikisource.org](https://en.wikisource.org/wiki/Constitution_of_the_People%27s_Republic_of_China_%281954%29)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/china_abc/2014/08/23/content_281474982987272.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/laws_regulations/2014/08/23/content_281474982987458.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/white_paper/2014/09/09/content_281474986284659.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202212/20/content_WS63a0f6dbc6d0a757729e4946.html)>
+- <[Source: journals.library.columbia.edu](https://journals.library.columbia.edu/index.php/cjal/article/view/3287)>
+- <[Source: journals.openedition.org](https://journals.openedition.org/chinaperspectives/8646)>
+- <[Cambridge University Press: B412DDAEAFD9579CF24F11DFDD0AE002](https://www.cambridge.org/core/journals/asian-journal-of-comparative-law/article/anticorruption-in-a-partystate-constitutional-implications-of-chinas-supervisory-reform/B412DDAEAFD9579CF24F11DFDD0AE002)>
+- <[Cambridge University Press: 3E88396D1C6BB354FAD6F54B5E24B0F8](https://www.cambridge.org/core/journals/china-quarterly/article/abs/chinas-changing-constitution/3E88396D1C6BB354FAD6F54B5E24B0F8)>
+- <[Cambridge University Press: B9773E5744B8D799463BF08BDAD34E54](https://www.cambridge.org/core/journals/china-quarterly/article/abs/some-key-aspects-of-the-1982-draft-constitution-of-the-peoples-republic-of-china/B9773E5744B8D799463BF08BDAD34E54)>
+- <[Source: chinalawtranslate.com](https://www.chinalawtranslate.com/en/Amendment-to-the-P.R.C.-Constitution-)(2018>
+- <[Source: crteducazione.org](https://www.crteducazione.org/wp-content/uploads/2025/03/CHN_Constitution_1975_EN.pdf)>
+- <[Source: npc.gov.cn](http://www.npc.gov.cn/zgrdw/npc/zt/qt/gjxfz/2014-12/03/content_1888059_2.htm)>
+- <[Internet Archive snapshot: china 2018 constitutional amendment adopted](https://web.archive.org/web/20260204135431/https://www.loc.gov/item/global-legal-monitor/2018-05-18/china-2018-constitutional-amendment-adopted/)>
+- <[Marxists Internet Archive: history 01](https://www.marxists.org/subject/china/documents/cpc/history/01.htm)>
+- <[Source: tsinghuachinalawreview.law.tsinghua.edu.cn](https://www.tsinghuachinalawreview.law.tsinghua.edu.cn/issues/info/10189)>
+
+## The DPRK, Vietnam and Cuba
+
+- <[Source: kcna.kp](http://www.kcna.kp/en/article/detail/414cd8b2a5bcb6e64318461db3e34bf0.shtml)>
+- <[Source: kcna.kp](http://www.kcna.kp/en/article/detail/cd71a50d4dfee191b7e6bd81967ecdb1.shtml)>
+- <[Source: naenara.com.kp](http://www.naenara.com.kp/Exhibition/party/en)>
+- <[Source: naenara.com.kp](http://www.naenara.com.kp/exhibition/party80/en)>
+- <[Source: naenara.com.kp](http://www.naenara.com.kp/main/index/en/politics?arg_val=constitution1)>
+- <[Source: academic.oup.com](https://academic.oup.com/ahr/article/127/3/1502/6851038)>
+- <[Internet Archive snapshot: viewcontent.cgi](https://web.archive.org/web/20240405134333/https://aura.antioch.edu/cgi/viewcontent.cgi?article=1823&context=etds)>
+- <[Source: cornellpress.cornell.edu](https://cornellpress.cornell.edu/book/9781501705687/everyday-life-in-the-north-korean-revolution-19451950/)>
+- <[Source: cup.columbia.edu](https://cup.columbia.edu/author-interviews/haggard-noland-famine-north-korea/)>
+- <[DOI: 1984](https://doi.org/10.1080/14672715.1984.10409805)>
+- <[Source: vuir.vu.edu.au](https://vuir.vu.edu.au/31724/)>
+- <[Source: en.baochinhphu.vn](https://en.baochinhphu.vn/14th-party-central-committee-convenes-first-plenum-to-elect-general-secretary-11126012308185391.htm)>
+- <[Source: en.baochinhphu.vn](https://en.baochinhphu.vn/full-resolution-of-14th-national-party-congress-111260214171856653.htm)>
+- <[Source: en.granma.cu](https://en.granma.cu/cuba/2021-02-16/central-report-to-the-eighth-congress-of-the-communist-party-of-cuba)>
+- <[Source: en.granma.cu](https://en.granma.cu/cuba/2021-03-02/new-constitution-defended-by-the-major)>
+- <[Source: en.granma.cu](https://en.granma.cu/cuba/2026-06-19/economic-and-social-transformations-presented-to-cuban-parliament)>
+- <[Source: manoa.hawaii.edu](https://manoa.hawaii.edu/koreanstudies/wp-content/uploads/2024/10/DPRK-Constitution-2019-EN.pdf)>
+- <[Source: pcc.cu](https://pcc.cu/9no-congreso-pcc-elcongresodetodos)>
+- <[Source: sinonk.com](https://sinonk.com/2013/12/16/interview-with-suzy-kim/)>
+- <[Source: adaferrer.net](https://www.adaferrer.net/cuba-an-american-history)>
+- <[Source: bannedthought.net](https://www.bannedthought.net/Vietnam/Academic/DoiMoi/Fforde-DoiMoi-TenYearsAfter1986Congress-1997-OCR-sm.pdf)>
+- <[Internet Archive snapshot: nothing to envy](https://web.archive.org/web/20260115093936/https://www.barbarademick.com/book/nothing-to-envy/)>
+- <[Cambridge University Press: C2E4A593E3BB7FF436F32F3566168AFF](https://www.cambridge.org/core/books/north-korea/C2E4A593E3BB7FF436F32F3566168AFF)>
+- <[Source: constituteproject.org](https://www.constituteproject.org/constitution/Cuba_2019)>
+- <[Source: constituteproject.org](https://www.constituteproject.org/constitution/Socialist_Republic_of_Vietnam_2013)>
+- <[Source: hrnk.org](https://www.hrnk.org/wp-content/uploads/pdfs/nkhr-resource-center/DPRK_Constitution.pdf)>
+- <[Marxists Internet Archive](https://www.marxists.org/archive/kim-il-sung/2020/20200729120144.pdf)>
+- <[Marxists Internet Archive: On The Juche Idea](https://www.marxists.org/archive/kim-jong-il/works/On-The-Juche-Idea.pdf)>
+- <[Marxists Internet Archive: Our Socialism Centred On The Masses Shall Not Perish](https://www.marxists.org/archive/kim-jong-il/works/Our-Socialism-Centred-On-The-Masses-Shall-Not-Perish.pdf)>
+- <[Marxists Internet Archive: The Historical Lesson In Building Socialism And The General Line Of Ou](https://www.marxists.org/archive/kim-jong-il/works/The-Historical-Lesson-In-Building-Socialism-And-The-General-Line-Of-Our-Party.pdf)>
+- <[Marxists Internet Archive: The Songun Based Revolutionary Line Is A Great Revolutionary Line Of O](https://www.marxists.org/archive/kim-jong-il/works/The-Songun-Based-Revolutionary-Line-Is-A-Great-Revolutionary-Line-Of-Our-Era-And-An-Ever-Victorious-Banner-Of-Our-Revolution.pdf)>
+- <[Marxists Internet Archive: 10 16](https://www.marxists.org/history/cuba/archive/castro/1953/10/16.htm)>
+- <[Marxists Internet Archive: 05 01](https://www.marxists.org/history/cuba/archive/castro/1961/05/01.htm)>
+- <[Marxists Internet Archive: 12 02](https://www.marxists.org/history/cuba/archive/castro/1961/12/02.htm)>
+- <[Marxists Internet Archive: oct 18 1967](https://www.marxists.org/history/cuba/archive/castro/1967/10/oct-18-1967.htm)>
+- <[Marxists Internet Archive: 02 18](https://www.marxists.org/reference/archive/ho-chi-minh/works/1930/02/18.htm)>
+- <[Marxists Internet Archive: declaration independence](https://www.marxists.org/reference/archive/ho-chi-minh/works/1945/declaration-independence.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/reference/archive/ho-chi-minh/works/1960/04/x01.htm)>
+- <[Source: newyorker.com](https://www.newyorker.com/magazine/2009/11/02/the-good-cook)>
+- <[Source: parlamentocubano.gob.cu](https://www.parlamentocubano.gob.cu/index.php/codigo-de-las-familias/)>
+- <[Source: piie.com](https://www.piie.com/bookstore/famine-north-korea-markets-aid-and-reform)>
+- <[Source: r.jina.ai](https://r.jina.ai/https://www.theguardian.com/books/2021/sep/04/cuba-american-history-review-ada-ferrer)>
+
+## Xi Jinping and China in the New Era
+
+- <[Internet Archive snapshot: c 904217](https://web.archive.org/web/20251105064026/https://en.qstheory.cn/2023-07/21/c_904217.htm)>
+- <[Source: english.scio.gov.cn](http://english.scio.gov.cn/2017-10/19/content_41769624.htm)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/archive/whitepaper/201908/17/content_WS5d57573cc6d0c6695ff7ed6c.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/archive/whitepaper/202009/17/content_WS5f62cef6c6d0f7257693c192.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/archive/whitepaper/202107/14/content_WS60ee599bc6d0df57f98dcd8c.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/202505/09/content_WS681d3938c6d0868f4e8f25c2.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/202510/24/content_WS68fb1080c6d00ca5f9a06fed.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/202605/25/content_WS6a13d7bbc6d00ca5f9a0b395.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/202607/01/content_WS6a4526f8c6d00ca5f9a0bf95.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/202610/26/content_WS6adf676bc6d00ca5f9a0df2e.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/top_news/2018/03/17/content_281476080621599.htm)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/topnews/202107/01/content_WS60ddd47ec6d0df57f98dc472.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/topnews/202210/16/content_WS634b89a1c6d0a757729e1493.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/news/topnews/202210/22/content_WS6353d824c6d0a757729e18ae.html)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/premier/news/2015/03/04/content_281475065652878.htm)>
+- <[Source: english.www.gov.cn](http://english.www.gov.cn/statecouncil/ministries/202212/29/content_WS63acd911c6d0a757729e4db3.html)>
+- <[DOI: j.lanwpc.2023.100702](https://doi.org/10.1016/j.lanwpc.2023.100702)>
+- <[DOI](https://doi.org/10.1142/s1793930523000296)>
+- <[Internet Archive snapshot: c 607580](https://web.archive.org/web/20240707142152/http://en.qstheory.cn/2020-09/18/c_607580.htm)>
+- <[Internet Archive snapshot: c 607581](https://web.archive.org/web/20260222040419/https://en.qstheory.cn/2020-09/21/c_607581.htm)>
+- <[Internet Archive snapshot: c 692748](https://web.archive.org/web/20211224030914/http://en.qstheory.cn/2021-12/24/c_692748.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2022-08/12/c_1222027.htm)>
+- <[Internet Archive snapshot: c 1004960](https://web.archive.org/web/20260108195649/https://en.qstheory.cn/2024-01/05/c_1004960.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2025-05/07/c_1222005.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2026-06/10/c_1186537.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2026-06/29/c_1190590.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2026-08/05/c_1201934.htm)>
+- <[Source: en.qstheory.cn](https://en.qstheory.cn/2026-08/07/c_1201945.htm)>
+- <[Internet Archive snapshot: c 1223043](https://web.archive.org/web/20261106222106/https://en.qstheory.cn/2026-11/02/c_1223043.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/19thcpccongress)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/Homepage/202210/24/content_WS641af593c6d0f528699db898.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/publications/2015/03/30/content_281475080041500.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/publications/2017/06/20/content_281475691873460.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/whitepaper/202208/10/content_WS62f34f46c6d02e533532f0ac.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/atts/stream/files/606bc6cac6d0cc300eea77be)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202310/11/content_WS6525f80ac6d0868f4e8e0200.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202407/18/content_WS6698d829c6d0868f4e8e93d1.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202407/18/content_WS669906cdc6d0868f4e8e93db.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202407/23/content_WS669ee398c6d0868f4e8e9591.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202408/01/content_WS66ab8349c6d0868f4e8e9aa1.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202505/01/content_WS68137daec6d0868f4e8f23fc.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202507/30/content_WS68897fcec6d0868f4e8f48ac.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202509/01/content_WS68b58afbc6d0868f4e8f53cd.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/11/content_WS68e9be87c6d00ca5f9a06aec.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/15/content_WS68ef601cc6d00ca5f9a06d2e.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/23/content_WS68f991afc6d00ca5f9a06f86.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/23/content_WS68fa3825c6d00ca5f9a06fbe.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/24/content_WS68fb10fec6d00ca5f9a06fef.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/24/content_WS68fb6f9bc6d00ca5f9a07016.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/28/content_WS6900adb9c6d00ca5f9a07216.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202510/31/content_WS6903f4b4c6d00ca5f9a07327.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202511/20/content_WS691e51dec6d00ca5f9a07ae3.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202512/13/content_WS693d6652c6d00ca5f9a08116.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202512/15/content_WS693fd017c6d00ca5f9a0819c.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202512/30/content_WS695323d7c6d00ca5f9a08515.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202601/02/content_WS69571dc1c6d00ca5f9a08610.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202601/12/content_WS6964dcc4c6d00ca5f9a0888c.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202602/10/content_WS698ae458c6d00ca5f9a0903e.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202603/02/content_WS69a4e992c6d00ca5f9a096bd.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202606/13/content_WS6a2cc797c6d00ca5f9a0b905.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202606/13/content_WS6a2d3aa1c6d00ca5f9a0b90a.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202609/13/content_WS6aa6203ac6d00ca5f9a0d2b0.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202609/30/content_WS6abcf464c6d00ca5f9a0d8cf.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202610/17/content_WS6ad3135bc6d00ca5f9a0dbe2.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202610/29/content_WS6ae348a0c6d00ca5f9a0df80.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/202610/30/content_WS6ae4aa49c6d00ca5f9a0dfcf.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/top_news/2017/10/24/content_281475919751341.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/top_news/2017/10/24/content_281475919837140.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/top_news/2017/11/17/content_281475945550012.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/top_news/2018/01/19/content_281476019558364.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202005/28/content_WS5ecf67d3c6d0b3f0e9498dc7.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202103/11/content_WS604a0ef1c6d0719374afaa5b.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202111/11/content_WS618d247ac6d0df57f98e4d38.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202111/17/content_WS61945ecbc6d0df57f98e5141.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202210/25/content_WS6357ce07c6d0a757729e1bfb.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202210/25/content_WS6357e5c6c6d0a757729e1c01.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202210/28/content_WS63620a10c6d0a757729e22f0.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202211/11/content_WS636e27a2c6d0a757729e2e60.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202211/11/content_WS636e31efc6d0a757729e2e63.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202212/27/content_WS63aae802c6d0a757729e4d37.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202301/05/content_WS63b67a50c6d0a757729e5220.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202303/10/content_WS640a9f49c6d0a757729e7ee1.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/topnews/202303/15/content_WS64111103c6d0f528699db48a.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/news/videos/202112/20/content_WS61c03c5cc6d09c94e48a27c3.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/policies/featured/202503/07/content_WS67cb05cbc6d0868f4e8f093d.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/policies/latestreleases/202103/23/content_WS605926e8c6d0719374afb365.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/policies/latestreleases/202111/16/content_WS6193a935c6d0df57f98e50b0.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/policies/latestreleases/202303/24/content_WS641d5344c6d0f528699dc1f4.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/policies/latestreleases/202407/21/content_WS669d0255c6d0868f4e8e94f8.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/state_council/ministries/2018/03/13/content_281476076512662.htm)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/statecouncil/ministries/202007/01/content_WS5efc443bc6d05a0f897067ba.html)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/statecouncil/ministries/202212/08/content_WS63913c92c6d0a757729e4135.html)>
+- <[Internet Archive snapshot: 0067205X](https://web.archive.org/web/20230427022558/https://journals.sagepub.com/doi/10.1177/0067205X221107410)>
+- <[Source: link.springer.com](https://link.springer.com/article/10.1007/s11366-020-09665-9)>
+- <[Source: news.un.org](https://news.un.org/en/story/2022/08/1125932)>
+- <[PubMed Central: PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC10085878/)>
+- <[Cambridge University Press: 367588D4875DEB](https://www.cambridge.org/core/journals/china-quarterly/article/balances-norms-and-institutions-why-elite-politics-in-the-ccp-have-not-institutionalized/367588D4875D0986929867E78633983B)>
+- <[Cambridge University Press: C311C96EB52F5186599E67112E5CB821](https://www.cambridge.org/core/journals/china-quarterly/article/from-power-balance-to-dominant-faction-in-xi-jinpings-china/C311C96EB52F5186599E67112E5CB821)>
+- <[Source: law.georgetown.edu](https://www.law.georgetown.edu/law-asia/wp-content/uploads/sites/31/2021/02/GT-HK-Report-Accessible.pdf)>
+- <[Source: legco.gov.hk](https://www.legco.gov.hk/en/education/understand/timeline.html)>
+- <[Source: legco.gov.hk](https://www.legco.gov.hk/general/english/procedur/companion/chapter_3/mcp-part1-ch3-n1-e.pdf)>
+- <[Source: nbr.org](https://www.nbr.org/wp-content/uploads/pdfs/publications/ap16-2_davis_apr2021.pdf)>
+- <[Source: ohchr.org](https://www.ohchr.org/sites/default/files/documents/countries/2022-08-31/22-08-31-final-assesment.pdf)>
+- <[Taylor & Francis: 2016.1245505](https://www.tandfonline.com/doi/full/10.1080/10670564.2016.1245505)>
+- <[The Lancet: fulltext](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2822%2900873-X/fulltext)>
+- <[Source: xinhuanet.com](https://www.xinhuanet.com/english/download/Xi_Jinping%27s_report_at_19th_CPC_National_Congress.pdf)>
+
+## The Global Survey
+
+- <[Source: dokumen.pub](https://dokumen.pub/lenins-comintern-revisited.html)>
+- <[Source: johnriddell.com](https://johnriddell.com/wp-content/uploads/2015/01/comintern-in-1922.pdf)>
+- <[Source: muse.jhu.edu](https://muse.jhu.edu/book/30313)>
+- <[Source: nsarchive.gwu.edu](https://nsarchive.gwu.edu/briefing-book/russia-programs/2021-12-21/end-soviet-union-1991)>
+- <[Source: constituteproject.org](https://www.constituteproject.org/constitution/Laos_2003?lang=en)>
+- <[Source: cvce.eu](https://www.cvce.eu/en/obj/treaty_of_friendship_cooperation_and_mutual_assistance_warsaw_14_may_1955-en-b1234dbc-f53b-4505-9d86-277e4f5c20d4.html)>
+- <[Marxists Internet Archive: guerrilla warfare](https://www.marxists.org/archive/guevara/1963/09/guerrilla-warfare.htm)>
+- <[Marxists Internet Archive: 04 16](https://www.marxists.org/archive/guevara/1967/04/16.htm)>
+- <[Marxists Internet Archive: 02 24](https://www.marxists.org/archive/khrushchev/1956/02/24.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/mengistu/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/pieck/index.htm)>
+- <[Marxists Internet Archive: togliatti parliament](https://www.marxists.org/archive/togliatti/1956/togliatti-parliament.htm)>
+- <[Marxists Internet Archive: unityanddiversity](https://www.marxists.org/archive/togliatti/1961/unityanddiversity.htm)>
+- <[Marxists Internet Archive: memorandum](https://www.marxists.org/archive/togliatti/1964/memorandum.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/togliatti/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/trotsky/1928/3rd/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/trotsky/1936/revbet/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/ulbricht/index.htm)>
+- <[Marxists Internet Archive: 7 6](https://www.marxists.org/history/erol/ncm-1/workers-advocate/7-6.html)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/erol/periodicals/revolution/index.htm)>
+- <[Marxists Internet Archive: is 30june](https://www.marxists.org/history/etol/document/icl-spartacists/prs4-yugo/is-30june.html)>
+- <[Marxists Internet Archive: v04n07 w35 jul 1943 fourth int](https://www.marxists.org/history/etol/newspape/fi/vol04/no07/v04n07-w35-jul-1943-fourth-int.pdf)>
+- <[Marxists Internet Archive: v12n05w112 sep oct 1951 fourth int](https://www.marxists.org/history/etol/newspape/fi/vol12/no05/v12n05w112-sep-oct-1951-fourth-int.pdf)>
+- <[Marxists Internet Archive: comintern](https://www.marxists.org/history/etol/newspape/ni/vol09/no06/comintern.htm)>
+- <[Marxists Internet Archive: 2nd congress ch07](https://www.marxists.org/history/international/comintern/2nd-congress/ch07.htm)>
+- <[Marxists Internet Archive: 3rd comintern congress report](https://www.marxists.org/history/international/comintern/3rd-congress/3rd-comintern-congress-report.pdf)>
+- <[Marxists Internet Archive: v02 n07 dec 1924 jan 1925 CI](https://www.marxists.org/history/international/comintern/5th-congress/v02-n07-dec-1924-jan-1925-CI.pdf)>
+- <[Marxists Internet Archive: 6th congress colonies](https://www.marxists.org/history/international/comintern/6th-congress/6th-congress-colonies.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/6th-congress/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/7th-congress/index.htm)>
+- <[Marxists Internet Archive: Resolutions and theses of the IV congress CI](https://www.marxists.org/history/international/comintern/ci/publications/Resolutions-and-theses-of-the-IV-congress-%20CI.pdf)>
+- <[Marxists Internet Archive: volume1 1919 1922](https://www.marxists.org/history/international/comintern/documents/volume1-1919-1922.pdf)>
+- <[Marxists Internet Archive: volume2 1923 1928](https://www.marxists.org/history/international/comintern/documents/volume2-1923-1928.pdf)>
+- <[Marxists Internet Archive: volume3 1929 1943](https://www.marxists.org/history/international/comintern/documents/volume3-1929-1943.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sections/britain/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sections/index.htm)>
+- <[Marxists Internet Archive: chinadel1962](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/chinadel1962.htm)>
+- <[Marxists Internet Archive: proposal](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/proposal.htm)>
+- <[Marxists Internet Archive: replytothorez](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/replytothorez.htm)>
+- <[Marxists Internet Archive: togliatti](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/togliatti.htm)>
+- <[Marxists Internet Archive: openletter](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpsu/openletter.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sino-soviet-split/index.htm)>
+- <[Marxists Internet Archive: 1957declaration](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/1957declaration.htm)>
+- <[Marxists Internet Archive: 1960statement](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/1960statement.htm)>
+- <[Marxists Internet Archive: bfc bcp 1963](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/bfc-bcp-1963.htm)>
+- <[Marxists Internet Archive: kwp1964](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/kwp1964.htm)>
+- <[Marxists Internet Archive: rwp1964](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/rwp1964.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/hoxha/index.htm)>
+- <[Marxists Internet Archive: works index](https://www.marxists.org/reference/archive/hoxha/works-index.htm)>
+- <[Marxists Internet Archive: 09 06](https://www.marxists.org/reference/archive/hoxha/works/1960/09/06.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/hoxha/works/1976/khruschevites/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/hoxha/works/1978/yugoslavia/index.htm)>
+- <[Marxists Internet Archive: env2 1](https://www.marxists.org/reference/archive/hoxha/works/euroco/env2-1.htm)>
+- <[Marxists Internet Archive: imp ch3](https://www.marxists.org/reference/archive/hoxha/works/imp_rev/imp_ch3.htm)>
+- <[Marxists Internet Archive: toc](https://www.marxists.org/reference/archive/hoxha/works/imp_rev/toc.htm)>
+- <[Marxists Internet Archive: nov1960](https://www.marxists.org/reference/archive/hoxha/works/nov1960.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/cabral/index.htm)>
+- <[Marxists Internet Archive: cc report](https://www.marxists.org/subject/africa/cuba/cc-report.pdf)>
+- <[Marxists Internet Archive: frelimo 3rd](https://www.marxists.org/subject/africa/frelimo/frelimo-3rd.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/frelimo/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/index.htm)>
+- <[Marxists Internet Archive: alvor agreement](https://www.marxists.org/subject/africa/mpla/alvor-agreement.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/mpla/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/nyerere/index.htm)>
+- <[Internet Archive snapshot: excerpts from chinese address to u n session on raw materials](https://web.archive.org/web/20250819092512/https://www.nytimes.com/1974/04/12/archives/excerpts-from-chinese-address-to-u-n-session-on-raw-materials.html)>
+- <[Source: wilsoncenter.org](https://www.wilsoncenter.org/event/the-sino-soviet-split-1956-1966-the-cold-war-the-communist-world)>
+
+## Che Guevara
+
+- <[Source: arsof-history.org](https://arsof-history.org/articles/v4n4_new_stage_begins_page_1.html)>
+- <[Source: developmentinpractice.org](https://developmentinpractice.org/reviews/che-guevara-economics-revolution)>
+- <[Source: globalvoices.org](https://globalvoices.org/2009/01/19/bolivia-loyola-guzman-supporting-the-no-vote)>
+- <[Source: nsarchive.gwu.edu](https://nsarchive.gwu.edu/sites/default/files/documents/28_1.pdf)>
+- <[Source: research-portal.uu.nl](https://research-portal.uu.nl/en/publications/che-guevara-and-guerrilla-warfare)>
+- <[Source: socialistproject.ca](https://socialistproject.ca/2024/05/economic-and-political-thoughts-of-ernesto-che-guevara)>
+- <[Source: granma.cu](https://www.granma.cu/cuba/2026-10-08/el-che-permanece-entre-los-jovenes-vivo-como-no-lo-queria-el-enemigo-08-10-2026-17-10-54)>
+- <[Source: granma.cu](https://www.granma.cu/cuba/2026-10-08/santa-clara-la-ciudad-del-che-08-10-2026-09-10-36)>
+- <[Source: granma.cu](https://www.granma.cu/cuba/2026-10-22/octubre-de-1962-fue-la-prueba-de-fuego-un-pais-pequeno-demostro-la-capacidad-de-resistencia-de-un-pueblo-22-10-2026-11-10-27)>
+- <[Marxists Internet Archive: motorcycle diaries ch01](https://www.marxists.org/archive/guevara/1952/motorcycle-diaries/ch01.htm)>
+- <[Marxists Internet Archive: motorcycle diaries ch06](https://www.marxists.org/archive/guevara/1952/motorcycle-diaries/ch06.htm)>
+- <[Marxists Internet Archive: motorcycle diaries ch07](https://www.marxists.org/archive/guevara/1952/motorcycle-diaries/ch07.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/1952/motorcycle-diaries/index.htm)>
+- <[Marxists Internet Archive: motorcycle diaries](https://www.marxists.org/archive/guevara/1952/motorcycle-diaries/motorcycle-diaries.pdf)>
+- <[Marxists Internet Archive: 02 05](https://www.marxists.org/archive/guevara/1959/02/05.htm)>
+- <[Marxists Internet Archive: 03 20](https://www.marxists.org/archive/guevara/1960/03/20.htm)>
+- <[Marxists Internet Archive: 05 17](https://www.marxists.org/archive/guevara/1960/05/17.htm)>
+- <[Marxists Internet Archive: 10 08](https://www.marxists.org/archive/guevara/1960/10/08.htm)>
+- <[Marxists Internet Archive: 02 15](https://www.marxists.org/archive/guevara/1961/02/15.htm)>
+- <[Marxists Internet Archive: 04 09](https://www.marxists.org/archive/guevara/1961/04/09.htm)>
+- <[Marxists Internet Archive: 08 08](https://www.marxists.org/archive/guevara/1961/08/08.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/1961/our-america/index.htm)>
+- <[Marxists Internet Archive: our america](https://www.marxists.org/archive/guevara/1961/our-america/our-america.pdf)>
+- <[Marxists Internet Archive: 12 29](https://www.marxists.org/archive/guevara/1962/12/29.htm)>
+- <[Marxists Internet Archive: against bureaucratism](https://www.marxists.org/archive/guevara/1963/02/against-bureaucratism.htm)>
+- <[Marxists Internet Archive: 05 04](https://www.marxists.org/archive/guevara/1963/05/04.htm)>
+- <[Marxists Internet Archive: 04b](https://www.marxists.org/archive/guevara/1963/05/04b.htm)>
+- <[Marxists Internet Archive: guerrilla warfare](https://www.marxists.org/archive/guevara/1963/09/guerrilla-warfare.htm)>
+- <[Marxists Internet Archive: guerrilla war method](https://www.marxists.org/archive/guevara/1963/misc/guerrilla-war-method.htm)>
+- <[Marxists Internet Archive: reminiscences ch01](https://www.marxists.org/archive/guevara/1963/reminiscences/ch01.htm)>
+- <[Marxists Internet Archive: reminiscences ch02](https://www.marxists.org/archive/guevara/1963/reminiscences/ch02.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/1963/reminiscences/index.htm)>
+- <[Marxists Internet Archive: prologue](https://www.marxists.org/archive/guevara/1963/reminiscences/prologue.htm)>
+- <[Marxists Internet Archive: reminiscences](https://www.marxists.org/archive/guevara/1963/reminiscences/reminiscences.pdf)>
+- <[Marxists Internet Archive: 11 alt](https://www.marxists.org/archive/guevara/1964/12/11-alt.htm)>
+- <[Marxists Internet Archive: 12 11](https://www.marxists.org/archive/guevara/1964/12/11.htm)>
+- <[Marxists Internet Archive: 02 24](https://www.marxists.org/archive/guevara/1965/02/24.htm)>
+- <[Marxists Internet Archive: man socialism alt](https://www.marxists.org/archive/guevara/1965/03/man-socialism-alt.htm)>
+- <[Marxists Internet Archive: man socialism](https://www.marxists.org/archive/guevara/1965/03/man-socialism.htm)>
+- <[Marxists Internet Archive: 04 01](https://www.marxists.org/archive/guevara/1965/04/01.htm)>
+- <[Marxists Internet Archive: 01 22](https://www.marxists.org/archive/guevara/1967/01/22.htm)>
+- <[Marxists Internet Archive: 03 27](https://www.marxists.org/archive/guevara/1967/03/27.htm)>
+- <[Marxists Internet Archive: 04 16](https://www.marxists.org/archive/guevara/1967/04/16.htm)>
+- <[Marxists Internet Archive: diary](https://www.marxists.org/archive/guevara/1967/bolivian-diary/diary.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/1967/bolivian-diary/index.htm)>
+- <[Marxists Internet Archive: che reader](https://www.marxists.org/archive/guevara/1967/che-reader/che-reader.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/1967/che-reader/index.htm)>
+- <[Marxists Internet Archive: biography](https://www.marxists.org/archive/guevara/biography.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/guevara/index.htm)>
+- <[Marxists Internet Archive: works](https://www.marxists.org/archive/guevara/works.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/g/u.htm#guevara-che)>
+- <[Marxists Internet Archive: oct 18 1967](https://www.marxists.org/history/cuba/archive/castro/1967/10/oct-18-1967.htm)>
+- <[Marxists Internet Archive: 10 08](https://www.marxists.org/history/cuba/archive/castro/1987/10/08.htm)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/collections/ernesto-che-guevara)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/products/che-guevara-cuba-and-road-to-socialism_by-rodriguez-guevara-tablada-clark-waters-barnes)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/products/che-guevara-speaks)>
+
+## Fidel Castro
+
+- <[Source: literacies.ca](http://literacies.ca/literacies/7-2007/pdf/elvy.pdf)>
+- <[Source: cuba.cu](http://www.cuba.cu/gobierno/discursos/1960/esp/f020960e.html)>
+- <[Source: cuba.cu](http://www.cuba.cu/gobierno/discursos/1962/esp/f040262e.html)>
+- <[Source: academic.oup.com](https://academic.oup.com/edited-volume/27993/chapter/211707775)>
+- <[Internet Archive: cubapursuitoffre0000unse](https://archive.org/details/cubapursuitoffre0000unse)>
+- <[Source: ascecubadatabase.org](https://ascecubadatabase.org/asce_proceedings/the-cuban-economic-crisis-of-the-1990s-and-the-external-sector)>
+- <[Source: ascecubadatabase.org](https://ascecubadatabase.org/asce_proceedings/the-situation-of-cuban-workers-during-the-special-period-in-peacetime)>
+- <[Source: ascecubadatabase.org](https://ascecubadatabase.org/asce_proceedings/the-situation-of-cuban-workers-during-the-special-period-in-peacetime/)>
+- <[JSTOR: rosa hernandez acosta on the cuban literacy campaign](https://daily.jstor.org/rosa-hernandez-acosta-on-the-cuban-literacy-campaign)>
+- <[Source: ecollections.law.fiu.edu](https://ecollections.law.fiu.edu/cgi/viewcontent.cgi?article=1569&context=lawreview)>
+- <[Source: en.granma.cu](https://en.granma.cu/cuba/2021-04-22/central-report-to-the-eighth-congress-of-the-communist-party-of-cuba)>
+- <[Source: en.granma.cu](https://en.granma.cu/cuba/2026-11-17/fidel-and-the-oral-essay-on-life)>
+- <[Source: en.granma.cu](https://en.granma.cu/reflections-of-fidel)>
+- <[Source: escholarship.org](https://escholarship.org/content/qt4zn2f4d0/qt4zn2f4d0.pdf)>
+- <[Source: ices.library.ubc.ca](https://ices.library.ubc.ca/index.php/criticaled/article/download/183269/184389)>
+- <[Source: links.org.au](https://links.org.au/system-or-siege-samuel-farber-misses-main-cause-cubas-problems)>
+- <[Source: muse.jhu.edu](https://muse.jhu.edu/article/447720/summary)>
+- <[Source: newpol.org](https://newpol.org/review/cuba-different/)>
+- <[Internet Archive snapshot: j.1468 0424.2011.01670.x](https://web.archive.org/web/20230221022303/https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0424.2011.01670.x)>
+- <[Source: repositorio.cepal.org](https://repositorio.cepal.org/server/api/core/bitstreams/3cd9b743-ba48-4d96-b9a9-b92185af21e2/content)>
+- <[Source: foreignaffairs.com](https://www.foreignaffairs.com/reviews/capsule-review/2012-01-01/cuba-revolution-1959-critical-assessment)>
+- <[Source: harvardeducationalreview.org](https://www.harvardeducationalreview.org/content/48/3/341)>
+- <[Source: latinamericanstudies.org](https://www.latinamericanstudies.org/academic/Moncada-order.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/espanol/castro/index.htm)>
+- <[Marxists Internet Archive: 26 july 1953](https://www.marxists.org/history/cuba/archive/castro/1953/07/26-july-1953.htm)>
+- <[Marxists Internet Archive: 10 16](https://www.marxists.org/history/cuba/archive/castro/1953/10/16.htm)>
+- <[Marxists Internet Archive: 01 jan 1959](https://www.marxists.org/history/cuba/archive/castro/1959/01/01-jan-1959.htm)>
+- <[Marxists Internet Archive: 01 03](https://www.marxists.org/history/cuba/archive/castro/1959/01/03.htm)>
+- <[Marxists Internet Archive: 05 17](https://www.marxists.org/history/cuba/archive/castro/1959/05/17.htm)>
+- <[Marxists Internet Archive: 09 26](https://www.marxists.org/history/cuba/archive/castro/1960/09/26.htm)>
+- <[Marxists Internet Archive: 04 23](https://www.marxists.org/history/cuba/archive/castro/1961/04/23.htm)>
+- <[Marxists Internet Archive: 05 01](https://www.marxists.org/history/cuba/archive/castro/1961/05/01.htm)>
+- <[Marxists Internet Archive: 12 02](https://www.marxists.org/history/cuba/archive/castro/1961/12/02.htm)>
+- <[Marxists Internet Archive: 11 02](https://www.marxists.org/history/cuba/archive/castro/1962/11/02.htm)>
+- <[Marxists Internet Archive: 03 oct 1965](https://www.marxists.org/history/cuba/archive/castro/1965/10/03-oct-1965.htm)>
+- <[Marxists Internet Archive: 01 15](https://www.marxists.org/history/cuba/archive/castro/1966/01/15.htm)>
+- <[Marxists Internet Archive: oct 18 1967](https://www.marxists.org/history/cuba/archive/castro/1967/10/oct-18-1967.htm)>
+- <[Marxists Internet Archive: 10 08](https://www.marxists.org/history/cuba/archive/castro/1987/10/08.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/cuba/archive/castro/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/cuba/index.htm)>
+- <[Marxists Internet Archive: June 02 8](https://www.marxists.org/history/etol/newspape/socialist-viewpoint-us/june_02/June_02_8.html)>
+- <[Marxists Internet Archive: marapr 08 23](https://www.marxists.org/history/etol/newspape/socialist-viewpoint-us/marapr_08/marapr_08_23.html)>
+- <[Source: parlamentocubano.gob.cu](https://www.parlamentocubano.gob.cu/index.php/historia-constitucional-cubana)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/collections/fidel-castro)>
+
+## Thomas Sankara
+
+- <[Source: history.osu.edu](https://history.osu.edu/making-new-people-politics-cinema-and-liberation-burkina-faso-1983-1987)>
+- <[Source: iupress.org](https://iupress.org/9780253053756/thomas-sankara/)>
+- <[Source: bloomsbury.com](https://www.bloomsbury.com/us/burkina-faso-9781786991386/)>
+- <[Marxists Internet Archive: sankara](https://www.marxists.org/archive/sankara/)>
+- <[Marxists Internet Archive: august 04](https://www.marxists.org/archive/sankara/1983/august/04.htm)>
+- <[Marxists Internet Archive: january 23](https://www.marxists.org/archive/sankara/1984/january/23.htm)>
+- <[Marxists Internet Archive: october 03](https://www.marxists.org/archive/sankara/1984/october/03.htm)>
+- <[Marxists Internet Archive: october 04](https://www.marxists.org/archive/sankara/1984/october/04.htm)>
+- <[Marxists Internet Archive: april 21](https://www.marxists.org/archive/sankara/1986/april/21.htm)>
+- <[Marxists Internet Archive: february 05](https://www.marxists.org/archive/sankara/1986/february/05.htm)>
+- <[Marxists Internet Archive: july 19](https://www.marxists.org/archive/sankara/1986/july/19.htm)>
+- <[Marxists Internet Archive: october 31](https://www.marxists.org/archive/sankara/1986/october/31.htm)>
+- <[Marxists Internet Archive: january 13](https://www.marxists.org/archive/sankara/1987/january/13.htm)>
+- <[Marxists Internet Archive: july 29](https://www.marxists.org/archive/sankara/1987/july/29.htm)>
+- <[Marxists Internet Archive: october 15](https://www.marxists.org/archive/sankara/1987/october/15.htm)>
+- <[Source: ohioswallow.com](https://www.ohioswallow.com/9780821421260/thomas-sankara/)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/products/thomas-sankara-parle-revolution-au-burkina-faso_1983-1987)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/products/thomas-sankara-speaks-burkina-faso-revolution_1983-87)>
+- <[Source: plutobooks.com](https://www.plutobooks.com/product/a-certain-amount-of-madness/)>
+- <[Taylor & Francis: 2013.816947](https://www.tandfonline.com/doi/full/10.1080/03056244.2013.816947)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/a-laube-de-lan-ii-de-revolution-naissance-dune-societe-nouvelle-interview-de-thomas-sankara-20-septembre-1985/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/brille-lor-de-poura-discours-de-thomas-sankara-18-octobre-1984-audio-extrait-video-texte/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/chronologie/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/decret-n-85-404-cnr-pres-portant-application-de-reorganisation-agraire-fonciere-burkina-faso/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/developpement-pret-a-porter-non-developpement-sur-mesure-oui-discours-du-thomas-sankara-du-4-aout-1986/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/discours-de-cloture-de-la-deuxieme-conference-nationale-des-cdr-dedougou-3-avril-1987/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/dossier-realise-dans-le-cadre-de-la-demande-denquete-parlementaire-sur-lassassinat-de-thomas-sankara-mai-2015/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/dossier-thomas-sankara-la-reouverture-du-dossier-tient-en-un-seul-acte-cest-lordre-de-poursuite-cest-tout-dixit-me-ambroise-farama-avocat-de-la-famille-sanka/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/gouvernements-conseil-national-de-revolution/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/histoire-du-burkina-faso/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/la-liberation-de-la-femme-une/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/la-liberation-de-la-femme-une/?lang=en)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/la-revolution-burkinabe-les-grandes-orientations/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/lapport-pai-parti-africain-de-lindependance-lavenement-de-revolution-interview-de-philippe-ouedraogo/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/lexperience-des-cdr-fut-hautement-positive-quil-faudrait-recommencer-si-loccasion-se-presentait-avec-un-meilleur-encadrement-au-plan-politique-notamment-interview-dinoussa-ouedraogo-an/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/nous-devons-accumuler-des-victoires-3-septembre-1986/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/ordonnance-n-84-050-cnr-pres-portant-reorganisation-agraire-fonciere-burkina-faso/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/plan-quinquennal-de-developpement-populaire-1986-1990/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/politique-culturelle-revolution-apercu-faits-majeurs-rdp-revolution-democratique-populaire/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/proces-verbal-de-lassemblee-generale-du-conseil-du-salut-du-peuple-du-21-au-26-novembre-1982/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/sa-politique/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/sankara-blaise-et-les-jeunes-de-po-temoignage-de-aperika-gomgnibou-agriculteur/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/souvenirs-de-revolution-livre-de-guinde-bonzi/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/susciter-lhomme-de-la-liberte-contre-lhomme-du-destin-discours-de-thomas-sankara-4-aout-1985/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/temoignages-sur-la-revolution/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/the-political-orientation-speech-thomas-sankara/?lang=en)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/thomas-sankara-parle-recueil-de-discours/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/vie-du-president-thomas-sankara-cest-lenfant-qui-a-construit-lhomme/)>
+
+## The Black Panther Party
+
+- <[Internet Archive: isbn](https://archive.org/details/isbn_9780863163272)>
+- <[Internet Archive: H. P. Newton The Huey P. Newton Reader djvu](https://archive.org/download/H.P.NewtonTheHueyP.NewtonReader/H.%20P.%20Newton%20-%20The%20Huey%20P.%20Newton%20Reader_djvu.txt)>
+- <[Internet Archive: Bobby Seale Seize the time the story of the Black Panther Party and Hu](https://archive.org/download/bobby-seale-seize-the-time-the-story-of-the-black-panther-party-and-huey-p.-newt/Bobby%20Seale%20-%20Seize%20the%20time_%20the%20story%20of%20the%20Black%20Panther%20Party%20and%20Huey%20P.%20Newton-Black%20Classic%20Press%20%281991%29_djvu.txt)>
+- <[Internet Archive: eldridgecleaverpostprison djvu](https://archive.org/download/eldridgecleaverpostprison/eldridgecleaverpostprison_djvu.txt)>
+- <[Internet Archive: Revolutionary Suicide Newton 1973 djvu](https://archive.org/download/revolutionary-suicide-newton-1973/Revolutionary-Suicide-Newton-1973_djvu.txt)>
+- <[Internet Archive: soul on ice eldridge cleaver 1968 dell publishing co ](https://archive.org/download/soul-on-ice-eldridge-cleaver-1968-dell-publishing-co-inc-57ab-98ab-9d-2a-5e-04b-/soul%20on%20ice%20--%20eldridge%20cleaver%20--%201968%20--%20dell%20publishing%20co_%2C%20inc_%20--%2057ab98ab9d2a5e04b7081cfbc3388245%20--%20Anna%E2%80%99s%20Archive_djvu.txt)>
+- <[Source: isreview.org](https://isreview.org/issue/100/roots-black-panther-party/index.html)>
+- <[Internet Archive snapshot: 8 359](https://web.archive.org/web/20251217235704/https://law.justia.com/cases/california/court-of-appeal/3d/8/359.html)>
+- <[Source: politicalprisonercoalition.org](https://politicalprisonercoalition.org/prisoner/huey-p-newton)>
+- <[Source: uncpress.org](https://uncpress.org/9780807895856/living-for-the-city/)>
+- <[Source: cwmorse.org](https://www.cwmorse.org/transcript-episode-2-the-black-panther-party-revolution-in-oakland-an-interview-with-donna-murch/)>
+- <[Marxists Internet Archive: 04 27](https://www.marxists.org/archive/hampton/1969/04/27.htm)>
+- <[Marxists Internet Archive: 05 19](https://www.marxists.org/archive/hampton/1969/05/19.htm)>
+- <[Marxists Internet Archive: class struggle godamnit](https://www.marxists.org/archive/hampton/1969/11/class-struggle-godamnit.htm)>
+- <[Marxists Internet Archive: power anywhere where theres people](https://www.marxists.org/archive/hampton/1969/misc/power-anywhere-where-theres-people.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/hampton/index.htm)>
+- <[Marxists Internet Archive: why dont you die for the people](https://www.marxists.org/archive/hampton/misc/why-dont-you-die-for-the-people.htm)>
+- <[Marxists Internet Archive: 05 02](https://www.marxists.org/archive/newton/1967/05/02.htm)>
+- <[Marxists Internet Archive: 05 15](https://www.marxists.org/archive/newton/1967/05/15.htm)>
+- <[Marxists Internet Archive: 06 20](https://www.marxists.org/archive/newton/1967/06/20.htm)>
+- <[Marxists Internet Archive: 06 29](https://www.marxists.org/archive/newton/1967/06/29.htm)>
+- <[Marxists Internet Archive: 07 03](https://www.marxists.org/archive/newton/1967/07/03.htm)>
+- <[Marxists Internet Archive: 07 20](https://www.marxists.org/archive/newton/1967/07/20.htm)>
+- <[Marxists Internet Archive: 03 01](https://www.marxists.org/archive/newton/1968/03/01.htm)>
+- <[Marxists Internet Archive: 11 16](https://www.marxists.org/archive/newton/1968/11/16.htm)>
+- <[Marxists Internet Archive: 01 17](https://www.marxists.org/archive/newton/1969/01/17.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/newton/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/usa/pubs/black-panther/index.htm)>
+- <[Marxists Internet Archive: 10 15](https://www.marxists.org/history/usa/workers/black-panthers/1966/10/15.htm)>
+- <[Marxists Internet Archive: paper panthers](https://www.marxists.org/history/usa/workers/black-panthers/1968/paper-panthers.htm)>
+- <[Marxists Internet Archive: 03 26](https://www.marxists.org/history/usa/workers/black-panthers/1969/03/26.htm)>
+- <[Marxists Internet Archive: dope](https://www.marxists.org/history/usa/workers/black-panthers/1970/dope.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/usa/workers/black-panthers/index.htm)>
+- <[Marxists Internet Archive: black power](https://www.marxists.org/history/usa/workers/black-panthers/unknown-date/black-power.htm)>
+- <[Marxists Internet Archive: party rules](https://www.marxists.org/history/usa/workers/black-panthers/unknown-date/party-rules.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/malcolm-x/index.htm)>
+- <[Marxists Internet Archive: mswv2 10](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_10.htm)>
+- <[Marxists Internet Archive: mswv2 11](https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_11.htm)>
+- <[Internet Archive snapshot: newton is cleared of charges in slaying](https://web.archive.org/web/20260109142910/https://www.nytimes.com/1971/12/16/archives/newton-is-cleared-of-charges-in-slaying.html)>
+- <[Source: thirteen.org](https://www.thirteen.org/programs/independent-lens/independent-lens-women-black-panthers/)>
+- <[Source: upress.umn.edu](https://www.upress.umn.edu/9780816676491/body-and-soul/)>
+
+## Malcolm X
+
+- <[Source: delumina.net](http://delumina.net/blog/2014/10/7/a-review-of-manning-marables-malcolm-x)>
+- <[Source: aeon.co](https://aeon.co/essays/how-alex-haley-wrote-and-reframed-the-life-of-malcolm-x)>
+- <[Internet Archive: The Autobiography of Malcolm X As Told to Alex Haley djvu](https://archive.org/download/the-autobiography-of-malcolm-x-as-told-to-alex-haley_202204/The%20Autobiography%20of%20Malcolm%20X_%20As%20Told%20to%20Alex%20Haley_djvu.txt)>
+- <[Internet Archive: The SupremeWisdom Vol.I djvu](https://archive.org/download/the-supreme-wisdom-vol.i/The%20SupremeWisdom%20Vol.I_djvu.txt)>
+- <[Internet Archive: Malcolm X Collected Speeches, Debates and Interviews 1960 1965 djvu](https://archive.org/stream/malcolm-x-collected-speeches-debates-and-interviews-1960-1965/Malcolm%20X%20Collected%20Speeches%2C%20Debates%20and%20Interviews%201960-1965_djvu.txt)>
+- <[Source: ccnmtl.columbia.edu](https://ccnmtl.columbia.edu/projects/mmt/mxp/speeches/mxa27.html)>
+- <[Source: link.springer.com](https://link.springer.com/article/10.1007/s12111-020-09487-2)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/05/harlem-freedom-rally-1960.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/06/a-b-spellman-interviews-malcolm-x-march.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/06/a-message-to-grassroots-november-10-1963.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/06/malcolm-x-at-yale-university-october-20.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/06/uc-berkeley-october-11-1963.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/a-worldwide-revolution-going-on-feb-15.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/at-audubon-ballroom-december-20-1964.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/interview-with-milton-henry-april-12.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/letter-from-mecca-april-20-1964_8547.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/not-just-american-problem-but-world.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/oaau-founding-rally-june-28-1964.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/prospects-for-freedom-in-1965-january-7.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/speech-to-african-summit-conference.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/speech-to-second-african-summit.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/stan-bernard-interviews-malcolm-x.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/the-ballot-or-bullet-april-3-1964.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/the-black-revolution-april-8-1964.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2013/07/university-of-ghana-may-13-1964_1.html)>
+- <[Source: malcolmxfiles.blogspot.com](https://malcolmxfiles.blogspot.com/2015/09/racism-cancer-that-is-destroying.html)>
+- <[Source: news.asu.edu](https://news.asu.edu/20160531-discoveries-religion-conflict-undergrad-research-malcolm-x)>
+- <[Source: news.asu.edu](https://news.asu.edu/20200413-discoveries-whose-book-it-anyway)>
+- <[Source: scholarlyediting.org](https://scholarlyediting.org/2014/editions/intro.haley.html)>
+- <[Source: aaihs.org](https://www.aaihs.org/marables-malcolm-a-revisitation)>
+- <[Source: democracynow.org](https://www.democracynow.org/2007/5/21/manning_marable_on_malcolm_x_a)>
+- <[Source: historians.org](https://www.historians.org/perspectives-article/manning-marable-1950-2011-september-2011)>
+- <[Source: icit-digital.org](https://www.icit-digital.org/articles/malcolm-x-s-speech-at-the-oaau-founding-rally-june-28-1964)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/gen_decl.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/gen_oaau.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/gen_zion.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/index.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/int_almus.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/int_bbass.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/int_pbert.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/let_elij.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/let_laac.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/let_mart.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/let_mecca.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/let_whit.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/tel_mart.htm)>
+- <[Source: malcolm-x.org](https://www.malcolm-x.org/docs/tel_rock.htm)>
+- <[Marxists Internet Archive: mx02](https://www.marxists.org/archive/novack/works/1967/julaug/mx02.htm)>
+- <[Marxists Internet Archive: mayjun 05 21](https://www.marxists.org/history/etol/newspape/socialist-viewpoint-us/mayjun_05/mayjun_05_21.htm)>
+- <[Marxists Internet Archive: v08n03 w63 2nd w63 mar apr 1965 young socialist ysa](https://www.marxists.org/history/etol/newspape/youngsocialist/1964-1965/v08n03-w63-%5B2nd-w63%5D-mar-apr-1965-young-socialist-ysa.pdf)>
+- <[Marxists Internet Archive: intro](https://www.marxists.org/history/etol/writers/breitman/1967/03/intro.htm)>
+- <[Marxists Internet Archive: 12.mp3](https://www.marxists.org/reference/archive/malcolm-x/1964/04/12.mp3)>
+- <[Marxists Internet Archive: afro amer](https://www.marxists.org/reference/archive/malcolm-x/1965/01/afro-amer.html)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/malcolm-x/index.htm)>
+
+## W. E. B. Du Bois and Paul Robeson
+
+- <[Internet Archive: blackreconstruct0000dubo](https://archive.org/details/blackreconstruct0000dubo)>
+- <[Internet Archive: hereistand00robe](https://archive.org/details/hereistand00robe)>
+- <[Source: standardebooks.org](https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk/text/single-page)>
+- <[Source: aaihs.org](https://www.aaihs.org/when-slaves-go-on-strike)>
+- <[Marxists Internet Archive: robeson](https://www.marxists.org/archive/robeson/)>
+- <[Marxists Internet Archive: 01 15](https://www.marxists.org/archive/robeson/1935/01/15.htm)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/robeson/1953/01/x01.htm)>
+- <[Marxists Internet Archive: bandung](https://www.marxists.org/archive/robeson/1955/04/bandung.htm)>
+- <[Marxists Internet Archive: 06 25](https://www.marxists.org/archive/robeson/1955/06/25.htm)>
+- <[Marxists Internet Archive: 06 12](https://www.marxists.org/archive/robeson/1956/06/12.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/r/o.htm#robeson-paul)>
+- <[Marxists Internet Archive: atc 4700](https://www.marxists.org/history/etol/newspape/atc/4700.html)>
+- <[Marxists Internet Archive: v04n05 may 1951 mm](https://www.marxists.org/history/usa/pubs/masses-mainstream/1951/v04n05-may-1951-mm.pdf)>
+- <[Marxists Internet Archive: 1958 04 37 4 political affairs](https://www.marxists.org/history/usa/pubs/political-affairs/1958-04-37-4-political-affairs.pdf)>
+- <[Marxists Internet Archive: PoliticalAffairs 1969 05 OCR sm](https://www.marxists.org/history/usa/pubs/political-affairs/PoliticalAffairs-1969-05-OCR-sm.pdf)>
+- <[Marxists Internet Archive: PoliticalAffairs 1970 09 OCR sm](https://www.marxists.org/history/usa/pubs/political-affairs/PoliticalAffairs-1970-09-OCR-sm.pdf)>
+- <[Marxists Internet Archive: reconstudy](https://www.marxists.org/history/usa/pubs/sojournertruth/reconstudy.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/usa/workers/civil-rights/crisis/index.htm)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/1/5/2/1/15210/15210-0.txt)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/1/5/2/6/15265/15265.txt)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/1/5/3/5/15359/15359.txt)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/3/1/2/5/31254/31254.txt)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/6/2/7/9/62799/62799-0.txt)>
+- <[Source: mirrorservice.org](https://www.mirrorservice.org/sites/ftp.ibiblio.org/pub/docs/books/gutenberg/6/6/3/9/66398/66398-0.txt)>
+- <[Source: neh.gov](https://www.neh.gov/project/transatlantic-slave-trade-database)>
+
+## Black Women Communists
+
+- <[Source: anthurium.miami.edu](https://anthurium.miami.edu/articles/10.33596/anth.380)>
+- <[Internet Archive: angeladavisanaut0000davi c3e7](https://archive.org/details/angeladavisanaut0000davi_c3e7)>
+- <[Internet Archive: Are Prisons Obsolete by Angela Y. Davis djvu](https://archive.org/download/ArePrisonsObsolete/Are%20Prisons%20Obsolete%20by%20Angela%20Y.%20Davis_djvu.txt)>
+- <[Internet Archive: assata shakur an biography djvu](https://archive.org/download/Assata/assata%20shakur%20an%20biography_djvu.txt)>
+- <[Source: archives.law.virginia.edu](https://archives.law.virginia.edu/dengrove/writeup/black-liberation-army-member-assata-shakur-tried-murder-and-assault-charges)>
+- <[Source: attachments.are.na](https://attachments.are.na/7908851/2bf9ee771eec90d3c7e99335a9e8eeb2.pdf?1594068994=)>
+- <[Source: chicagounbound.uchicago.edu](https://chicagounbound.uchicago.edu/uclf/vol1989/iss1/8)>
+- <[Source: gothamist.com](https://gothamist.com/news/50-years-after-shootout-killed-nj-cop-black-power-folk-hero-assata-shakur-has-a-complex-legacy)>
+- <[Source: journals.library.columbia.edu](https://journals.library.columbia.edu/index.php/cjrl/article/view/14736)>
+- <[Source: libcom.org](https://libcom.org/article/end-neglect-problems-negro-woman)>
+- <[Source: muse.jhu.edu](https://muse.jhu.edu/article/898163/summary)>
+- <[Source: notmytribe.com](https://notmytribe.com/solidarity/our-resources/assata-shakur-letter-to-the-pope)>
+- <[Source: theanarchistlibrary.org](https://theanarchistlibrary.org/library/sam-c-tenorio-assata-s-escape-as-disincarceral-practice)>
+- <[Source: aaihs.org](https://www.aaihs.org/claudia-jones-and-ending-the-neglect-of-black-women)>
+- <[Source: aaihs.org](https://www.aaihs.org/thinking-black-against-the-carceral-state-angela-davis-and-prisoner-defense-campaigns)>
+- <[Cambridge University Press: B4C126C71F00C194FF2CC9DF8BC3D559](https://www.cambridge.org/core/journals/international-review-of-social-history/article/you-are-not-alone-angela-davis-and-the-soviet-dreams-of-freedom/B4C126C71F00C194FF2CC9DF8BC3D559)>
+- <[Source: courtlistener.com](https://www.courtlistener.com/opinion/345441/state-of-new-jersey-v-chesimard-joanne-d-aka-assata-shakur)>
+- <[Source: dukeupress.edu](https://www.dukeupress.edu/left-of-karl-marx)>
+- <[JSTOR: community](https://www.jstor.org/stable/community.28036988)>
+- <[Marxists Internet Archive: jones statement](https://www.marxists.org/archive/jones-claudia/1953/jones-statement.pdf)>
+- <[Marxists Internet Archive: prison daily worker 1956 02 05](https://www.marxists.org/archive/jones-claudia/1956/prison-daily-worker-1956-02-05.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/jones-claudia/index.htm)>
+- <[Marxists Internet Archive: jones gazette](https://www.marxists.org/history/erol/uk.secondwave/jones-gazette.pdf)>
+- <[Marxists Internet Archive: janfeb 15 36](https://www.marxists.org/history/etol/newspape/socialist-viewpoint-us/janfeb_15/janfeb_15_36.html)>
+- <[Marxists Internet Archive: 1949 06v28n6 political affairs](https://www.marxists.org/history/usa/pubs/political-affairs/1949-06v28n6-political-affairs.pdf)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/history/usa/workers/black-panthers/1998/01/x01.htm)>
+- <[Marxists Internet Archive: housework](https://www.marxists.org/subject/women/authors/davis-angela/housework.htm)>
+- <[Source: politybooks.com](https://www.politybooks.com/bookdetail?book_slug=claudia-jones-visions-of-a-socialist-america--9781509549306)>
+- <[Taylor & Francis: 2020.1799600](https://www.tandfonline.com/doi/abs/10.1080/14743892.2020.1799600)>
+- <[Taylor & Francis: 2021.1877067](https://www.tandfonline.com/doi/abs/10.1080/14743892.2021.1877067)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/book/9780520293281/black-against-empire)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/golden-gulag/paper)>
+- <[Source: ucpress.edu](https://www.ucpress.edu/books/theres-something-happening-here/pdf)>
+
+## US Black Communist Leaders
+
+- <[Source: books.google.com](https://books.google.com/books/about/The_Assassination_of_Fred_Hampton.html)>
+- <[Source: brill.com](https://brill.com/view/journals/hima/24/2/article-p165_8.xml)>
+- <[DOI: wusa.12004](https://doi.org/10.1111/wusa.12004)>
+- <[Source: jmss.org](https://jmss.org/article/download/58336/pdf_3/159068)>
+- <[Source: lawcat.berkeley.edu](https://lawcat.berkeley.edu/record/389089?ln=en)>
+- <[Marxists Internet Archive: NegrosStruggleAgainstImperialism](https://www.marxists.org/archive/ford/1930/NegrosStruggleAgainstImperialism.pdf)>
+- <[Marxists Internet Archive: from daily worker nov7 1932](https://www.marxists.org/archive/ford/1932/from-daily-worker-nov7-1932.htm)>
+- <[Marxists Internet Archive: developing negro communist leaders](https://www.marxists.org/archive/ford/1937/developing-negro-communist-leaders.htm)>
+- <[Marxists Internet Archive: The Negro and the Democratic Front James Ford](https://www.marxists.org/archive/ford/1938/The-Negro-and-the-Democratic-Front_James-Ford.pdf)>
+- <[Marxists Internet Archive: foreword to douglass](https://www.marxists.org/archive/ford/1942/foreword-to-douglass.htm)>
+- <[Marxists Internet Archive: j w ford 1932 biography](https://www.marxists.org/archive/ford/j-w-ford-1932-biography.htm)>
+- <[Marxists Internet Archive: remembering james w ford](https://www.marxists.org/archive/ford/remembering-james-w-ford.htm)>
+- <[Marxists Internet Archive: 04 27](https://www.marxists.org/archive/hampton/1969/04/27.htm)>
+- <[Marxists Internet Archive: 05 19](https://www.marxists.org/archive/hampton/1969/05/19.htm)>
+- <[Marxists Internet Archive: class struggle godamnit](https://www.marxists.org/archive/hampton/1969/11/class-struggle-godamnit.htm)>
+- <[Marxists Internet Archive: power anywhere where theres people](https://www.marxists.org/archive/hampton/1969/misc/power-anywhere-where-theres-people.htm)>
+- <[Marxists Internet Archive: why dont you die for the people](https://www.marxists.org/archive/hampton/misc/why-dont-you-die-for-the-people.htm)>
+- <[Marxists Internet Archive: bourgeois liberal distortions](https://www.marxists.org/archive/haywood/1930/bourgeois-liberal-distortions.pdf)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/haywood/1933/09/x01.htm)>
+- <[Marxists Internet Archive: sep 09 1935 DW](https://www.marxists.org/archive/haywood/1935/sep-09-1935-DW.pdf)>
+- <[Marxists Internet Archive: agrarian reforms](https://www.marxists.org/archive/haywood/1946/agrarian-reforms.pdf)>
+- <[Marxists Internet Archive: crisis reformism](https://www.marxists.org/archive/haywood/1964/crisis-reformism.pdf)>
+- <[Marxists Internet Archive: x01](https://www.marxists.org/archive/haywood/1976/x01/x01.htm)>
+- <[Marxists Internet Archive: 04 11](https://www.marxists.org/archive/haywood/1984/04/11.htm)>
+- <[Marxists Internet Archive: black bolshevik ch06](https://www.marxists.org/archive/haywood/black-bolshevik/ch06.htm)>
+- <[Marxists Internet Archive: negro liberation ch07](https://www.marxists.org/archive/haywood/negro-liberation/ch07.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/h/a.htm#hampton)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/h/a.htm#haywood-harry)>
+- <[Marxists Internet Archive: haywood02](https://www.marxists.org/history/erol/1956-1960/haywood02.htm)>
+- <[Marxists Internet Archive: ol demos](https://www.marxists.org/history/erol/ncm-3/ol-demos.htm)>
+- <[Marxists Internet Archive: lom haywood](https://www.marxists.org/history/erol/ncm-7/lom-haywood.htm)>
+- <[Marxists Internet Archive: negro worker](https://www.marxists.org/history/international/comintern/negro-worker)>
+- <[Marxists Internet Archive: 03 26](https://www.marxists.org/history/usa/workers/black-panthers/1969/03/26.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/usa/workers/black-panthers/index.htm)>
+- <[Marxists Internet Archive: 08 40](https://www.marxists.org/portugues/haywood/1930/08/40.htm)>
+- <[Source: washingtonpost.com](https://www.washingtonpost.com/history/2021/02/20/william-oneal-fred-hampton-black-panther-fbi-informant/)>
+
+## Nkrumah and Lumumba
+
+- <[Source: journals.ufs.ac.za](https://journals.ufs.ac.za/index.php/jch/article/view/4176)>
+- <[Source: networks.h-net.org](https://networks.h-net.org/node/5293/reviews/12570531/stanard-de-witte-assassination-lumumba)>
+- <[Source: aarclibrary.org](https://www.aarclibrary.org/publib/church/reports/ir/pdf/ChurchIR_3A_Congo.pdf)>
+- <[Cambridge University Press: D6D1E076129B59DD106949D5D0CA1DE9](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/in-lieu-of-orthodoxy-the-socialist-theories-of-nkrumah-and-nyerere/D6D1E076129B59DD106949D5D0CA1DE9)>
+- <[Marxists Internet Archive: counter revolution ghana](https://www.marxists.org/subject/africa/cpgb/counter-revolution-ghana.pdf)>
+- <[Marxists Internet Archive: ghana committee](https://www.marxists.org/subject/africa/cpgb/ghana-committee.pdf)>
+- <[Marxists Internet Archive: statement](https://www.marxists.org/subject/africa/lumumba/1960/02/statement.htm)>
+- <[Marxists Internet Archive: independence](https://www.marxists.org/subject/africa/lumumba/1960/06/independence.htm)>
+- <[Marxists Internet Archive: independence1](https://www.marxists.org/subject/africa/lumumba/1960/06/independence1.htm)>
+- <[Marxists Internet Archive: 08 25](https://www.marxists.org/subject/africa/lumumba/1960/08/25.htm)>
+- <[Marxists Internet Archive: 08 31](https://www.marxists.org/subject/africa/lumumba/1960/08/31.htm)>
+- <[Marxists Internet Archive: pressec1](https://www.marxists.org/subject/africa/lumumba/1960/08/pressec1.htm)>
+- <[Marxists Internet Archive: pressec2](https://www.marxists.org/subject/africa/lumumba/1960/08/pressec2.htm)>
+- <[Marxists Internet Archive: appeal](https://www.marxists.org/subject/africa/lumumba/1960/09/appeal.htm)>
+- <[Marxists Internet Archive: radio](https://www.marxists.org/subject/africa/lumumba/1960/09/radio.htm)>
+- <[Marxists Internet Archive: letter](https://www.marxists.org/subject/africa/lumumba/1961/01/letter.htm)>
+- <[Marxists Internet Archive: letter](https://www.marxists.org/subject/africa/lumumba/1961/xx/letter.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/lumumba/index.htm)>
+- <[Marxists Internet Archive: lumumba bio](https://www.marxists.org/subject/africa/lumumba/lumumba-bio.pdf)>
+- <[Marxists Internet Archive: life](https://www.marxists.org/subject/africa/lumumba/reminiscences/bulabemba/life.htm)>
+- <[Marxists Internet Archive: goal](https://www.marxists.org/subject/africa/lumumba/reminiscences/khokhlov/goal.htm)>
+- <[Marxists Internet Archive: meetings](https://www.marxists.org/subject/africa/lumumba/reminiscences/ledda/meetings.htm)>
+- <[Marxists Internet Archive: last](https://www.marxists.org/subject/africa/lumumba/reminiscences/volodin/last.htm)>
+- <[Marxists Internet Archive: suchwas](https://www.marxists.org/subject/africa/lumumba/reminiscences/zhukov/suchwas.htm)>
+- <[Marxists Internet Archive: africas challenge](https://www.marxists.org/subject/africa/nkrumah/1960/africas-challenge.pdf)>
+- <[Marxists Internet Archive: speak freedom](https://www.marxists.org/subject/africa/nkrumah/1961/speak-freedom.htm)>
+- <[Marxists Internet Archive: africa must unite](https://www.marxists.org/subject/africa/nkrumah/1963/africa-must-unite.pdf)>
+- <[Marxists Internet Archive: oau speech](https://www.marxists.org/subject/africa/nkrumah/1963/oau-speech.pdf)>
+- <[Marxists Internet Archive: african socialism revisited](https://www.marxists.org/subject/africa/nkrumah/1967/african-socialism-revisited.htm)>
+- <[Marxists Internet Archive: dark days](https://www.marxists.org/subject/africa/nkrumah/1968/dark-days.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/nkrumah/index.htm)>
+- <[Marxists Internet Archive: conclusion](https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/conclusion.htm)>
+- <[Marxists Internet Archive: introduction](https://www.marxists.org/subject/africa/nkrumah/neo-colonialism/introduction.htm)>
+- <[Marxists Internet Archive: nkrumah bio 2](https://www.marxists.org/subject/africa/nkrumah/nkrumah-bio-2.pdf)>
+- <[Marxists Internet Archive: nkrumah bio](https://www.marxists.org/subject/africa/nkrumah/nkrumah-bio.pdf)>
+- <[Marxists Internet Archive: nkrumah](https://www.marxists.org/subject/africa/ussr/nkrumah.pdf)>
+- <[Internet Archive snapshot: hosted document](https://web.archive.org/web/20241013101324/https://www.scienceopen.com/hosted-document?doi=10.1080/03056240208704637)>
+
+## Cabral and Rodney
+
+- <[Source: aeh.uwpress.org](https://aeh.uwpress.org/content/50/2/1)>
+- <[Source: aeh.uwpress.org](https://aeh.uwpress.org/content/50/2/17)>
+- <[Source: aeh.uwpress.org](https://aeh.uwpress.org/content/50/2/22)>
+- <[Source: journals.codesria.org](https://journals.codesria.org/index.php/ad/en/article/download/727/816/882)>
+- <[Internet Archive snapshot: Wallerstein review of Rodney books](https://web.archive.org/web/20260105103324/https://krieger.jhu.edu/arrighi/wp-content/uploads/sites/29/2020/02/Wallerstein-review-of-Rodney-books.pdf)>
+- <[Source: read.dukeupress.edu](https://read.dukeupress.edu/small-axe/article-abstract/27/3%20%2872%29/95/383389/History-Method-and-Myth-Walter-Rodney-and-the)>
+- <[Source: read.dukeupress.edu](https://read.dukeupress.edu/small-axe/article-standard/27/3%20%2872%29/50/383391/The-Present-as-History-Walter-Rodney-and-the)>
+- <[Source: revistas.rcaap.pt](https://revistas.rcaap.pt/cea/article/download/36862/30532)>
+- <[Cambridge University Press: CDE3B38DFF88CB3F68D64BA](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/social-and-political-thought-of-amilcar-cabral-a-reassessment/CD346189740E3B38DFF88CB3F68D64BA)>
+- <[Marxists Internet Archive: rodney](https://www.marxists.org/archive/hector/1997/06/rodney.html)>
+- <[Marxists Internet Archive: rodney](https://www.marxists.org/archive/james-clr/works/1981/01/rodney.htm)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/c/a.htm#cabral-amilcar)>
+- <[Marxists Internet Archive](https://www.marxists.org/glossary/people/r/o.htm#rodney-walter)>
+- <[Marxists Internet Archive: 12 90](https://www.marxists.org/portugues/rodney/1971/12/90.pdf)>
+- <[Marxists Internet Archive: gcvpc](https://www.marxists.org/subject/africa/cabral/1961/gcvpc.htm)>
+- <[Marxists Internet Archive: atun](https://www.marxists.org/subject/africa/cabral/1962/atun.htm)>
+- <[Marxists Internet Archive: bassg](https://www.marxists.org/subject/africa/cabral/1964/bassg.htm)>
+- <[Marxists Internet Archive: weapon theory](https://www.marxists.org/subject/africa/cabral/1966/weapon-theory.htm)>
+- <[Marxists Internet Archive: cabral nat lib culture](https://www.marxists.org/subject/africa/cabral/1970/cabral-nat-lib-culture.htm)>
+- <[Marxists Internet Archive: return source](https://www.marxists.org/subject/africa/cabral/1973/return-source.pdf)>
+- <[Marxists Internet Archive: cabral bio](https://www.marxists.org/subject/africa/cabral/cabral-bio.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/cabral/index.htm)>
+- <[Marxists Internet Archive: paigcpgm](https://www.marxists.org/subject/africa/cabral/paigcpgm.htm)>
+- <[Marxists Internet Archive: assassination cabral](https://www.marxists.org/subject/africa/cuba/assassination-cabral.pdf)>
+- <[Marxists Internet Archive: final victory](https://www.marxists.org/subject/africa/lsm/final-victory.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/rodney-walter/index.htm)>
+- <[Marxists Internet Archive: africanrevolution](https://www.marxists.org/subject/africa/rodney-walter/works/africanrevolution.htm)>
+- <[Marxists Internet Archive: implicationsofdisengagement](https://www.marxists.org/subject/africa/rodney-walter/works/implicationsofdisengagement.htm)>
+- <[Marxists Internet Archive: internationalclassstruggle](https://www.marxists.org/subject/africa/rodney-walter/works/internationalclassstruggle.htm)>
+- <[Marxists Internet Archive: marxismandafrica](https://www.marxists.org/subject/africa/rodney-walter/works/marxismandafrica.htm)>
+- <[Marxists Internet Archive: partition](https://www.marxists.org/subject/africa/rodney-walter/works/partition.htm)>
+- <[Marxists Internet Archive: peoplespowernodictator](https://www.marxists.org/subject/africa/rodney-walter/works/peoplespowernodictator.htm)>
+- <[Marxists Internet Archive: signofthetimes](https://www.marxists.org/subject/africa/rodney-walter/works/signofthetimes.htm)>
+
+## African Socialist Leaders
+
+- <[Internet Archive: avancemos na revolucao com o partido da classe operaria](https://archive.org/details/avancemos-na-revolucao-com-o-partido-da-classe-operaria)>
+- <[Internet Archive: bwb S0 CGR 832](https://archive.org/details/bwb_S0-CGR-832)>
+- <[Internet Archive: democracypartysystemnyerere](https://archive.org/details/democracypartysystemnyerere)>
+- <[Internet Archive: dli.ernet.484991](https://archive.org/details/dli.ernet.484991)>
+- <[Internet Archive: freedomsocialism0000nyer](https://archive.org/details/freedomsocialism0000nyer)>
+- <[Internet Archive: freedomunityuhur0000nyer](https://archive.org/details/freedomunityuhur0000nyer)>
+- <[Internet Archive: long walk to freedom autobiography of nelson mandela](https://archive.org/details/long-walk-to-freedom-autobiography-of-nelson-mandela)>
+- <[Internet Archive: no easy walk to freedom](https://archive.org/details/no-easy-walk-to-freedom)>
+- <[Internet Archive: samoramachelspeechesandwritings](https://archive.org/details/samoramachelspeechesandwritings)>
+- <[Source: ascleiden.nl](https://ascleiden.nl/sites/default/files/anc-debate-ellis-macmillan-africajournal.pdf)>
+- <[DOI: f7132 3017090](https://doi.org/10.5070/f7132-3017090)>
+- <[Source: omalley.nelsonmandela.org](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01600/05lv01630/06lv01631.htm)>
+- <[Source: omalley.nelsonmandela.org](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv01600/05lv01640/06lv01644.htm)>
+- <[Source: omalley.nelsonmandela.org](https://omalley.nelsonmandela.org/index.php/site/q/03lv01538/04lv02009/05lv02010/06lv02013/07lv02014.htm)>
+- <[Source: revistas.rcaap.pt](https://revistas.rcaap.pt/cea/article/download/41472/28425)>
+- <[Source: revistas.ufg.br](https://revistas.ufg.br/teoria/article/view/53773)>
+- <[Source: scielo.org.za](https://scielo.org.za/pdf/kronos/v39n1/10.pdf)>
+- <[Cambridge University Press: 1D73FFC452D3AE7246DE3AFDABBF8E3B](https://www.cambridge.org/core/journals/history-in-africa/article/abs/sovereignty-and-socialism-in-tanzania-the-historiography-of-an-african-state1/1D73FFC452D3AE7246DE3AFDABBF8E3B)>
+- <[Cambridge University Press: B46A21A0ABD4B77D6937775AB0D210EC](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/agrarian-crisis-and-economic-liberalisation-in-tanzania/B46A21A0ABD4B77D6937775AB0D210EC)>
+- <[Cambridge University Press: A4D4F4FA801683BEB8BF74E4D5CAB143](https://www.cambridge.org/core/journals/journal-of-modern-african-studies/article/abs/why-did-the-ujamaa-village-policy-fail-towards-a-global-analysis/A4D4F4FA801683BEB8BF74E4D5CAB143)>
+- <[JSTOR](https://www.jstor.org/stable/3311136)>
+- <[Source: juliusnyerere.org](https://www.juliusnyerere.org/resources/view/nyerere_on_education_nyerere_kuhusu_elimu)>
+- <[Marxists Internet Archive: road freedom](https://www.marxists.org/history/international/comintern/sections/sacp/1962/road-freedom.htm)>
+- <[Marxists Internet Archive: freedom charter](https://www.marxists.org/subject/africa/anc/1955/freedom-charter.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/anc/index.htm)>
+- <[Marxists Internet Archive: cc report](https://www.marxists.org/subject/africa/cuba/cc-report.pdf)>
+- <[Marxists Internet Archive: frelimo 3rd](https://www.marxists.org/subject/africa/frelimo/frelimo-3rd.pdf)>
+- <[Marxists Internet Archive: frelimo women 68](https://www.marxists.org/subject/africa/frelimo/frelimo-women-68.pdf)>
+- <[Marxists Internet Archive: frelimo womens section 69](https://www.marxists.org/subject/africa/frelimo/frelimo-womens-section-69.pdf)>
+- <[Marxists Internet Archive: neto messages](https://www.marxists.org/subject/africa/lsm/neto-messages.pdf)>
+- <[Marxists Internet Archive: educate win war](https://www.marxists.org/subject/africa/machel/1970/educate-win-war.htm)>
+- <[Marxists Internet Archive: health service](https://www.marxists.org/subject/africa/machel/1971/health-service.htm)>
+- <[Marxists Internet Archive: recommendations](https://www.marxists.org/subject/africa/machel/1972/recommendations.htm)>
+- <[Marxists Internet Archive: sowing seeds](https://www.marxists.org/subject/africa/machel/1972/sowing-seeds.htm)>
+- <[Marxists Internet Archive: liberation women](https://www.marxists.org/subject/africa/machel/1973/liberation-women.htm)>
+- <[Marxists Internet Archive: machel zimbabwe](https://www.marxists.org/subject/africa/machel/1976/machel-zimbabwe.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/subject/africa/mpla/index.htm)>
+- <[Marxists Internet Archive: mpla neto death](https://www.marxists.org/subject/africa/mpla/mpla-neto-death.pdf)>
+- <[Marxists Internet Archive: mpla wc](https://www.marxists.org/subject/africa/mpla/mpla-wc.pdf)>
+- <[Marxists Internet Archive: neto alvor speech](https://www.marxists.org/subject/africa/mpla/neto-alvor-speech.pdf)>
+- <[Marxists Internet Archive: neto independence](https://www.marxists.org/subject/africa/mpla/neto-independence.pdf)>
+- <[Marxists Internet Archive: neto port coup](https://www.marxists.org/subject/africa/mpla/neto-port-coup.pdf)>
+- <[Marxists Internet Archive: arusha declaration](https://www.marxists.org/subject/africa/nyerere/1967/arusha-declaration.htm)>
+- <[Marxists Internet Archive: 10 13](https://www.marxists.org/subject/africa/nyerere/1998/10/13.htm)>
+- <[Marxists Internet Archive: biography](https://www.marxists.org/subject/africa/nyerere/biography.htm)>
+- <[Source: revistas.udesc.br](https://www.revistas.udesc.br/index.php/tempo/en/article/download/2175180313342021e0102/13649/80666)>
+- <[Source: sahistory.org.za](https://www.sahistory.org.za/article/address-president-nelson-mandela-constitutional-assembly-occasion-adoption-new-constitution)>
+- <[Internet Archive snapshot: hosted document](https://web.archive.org/web/20251013030818/https://www.scienceopen.com/hosted-document?doi=10.1080/03056244.2012.662386)>
+- <[Internet Archive snapshot: hosted document](https://web.archive.org/web/20240604032442/https://www.scienceopen.com/hosted-document?doi=10.1080/03056244.2016.1219179)>
+- <[Taylor & Francis: 2023.2214898](https://www.tandfonline.com/doi/abs/10.1080/00020184.2023.2214898)>
+- <[Internet Archive snapshot: 2004](https://web.archive.org/web/20230622195232/https://www.tandfonline.com/doi/abs/10.1080/00083968.2004.10751289)>
+- <[Taylor & Francis: 2019.1691818](https://www.tandfonline.com/doi/abs/10.1080/03057070.2019.1691818)>
+- <[Taylor & Francis: 2018.1404264](https://www.tandfonline.com/doi/full/10.1080/03057070.2018.1404264)>
+- <[Taylor & Francis: 2019.1697553](https://www.tandfonline.com/doi/full/10.1080/03057070.2019.1697553)>
+- <[Taylor & Francis: 2015.1078315](https://www.tandfonline.com/doi/full/10.1080/14682745.2015.1078315)>
+
+## Marxist-Leninist Parties Worldwide
+
+- <[Source: archivohistoricopce.org](http://archivohistoricopce.org/)>
+- <[Source: inter.kke.gr](http://inter.kke.gr/)>
+- <[Source: kcna.kp](http://www.kcna.kp/)>
+- <[Source: rodong.rep.kp](http://www.rodong.rep.kp/en/)>
+- <[Source: rodong.rep.kp](http://www.rodong.rep.kp/en/index.php?MUBAOUAxQA==)>
+- <[Source: wpb.be](http://www.wpb.be/)>
+- <[Source: communistparty.ie](https://communistparty.ie/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/britains-road-to-socialism/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/communist-party/congress/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/our-history/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/publications/58th-congress-2025-capitalisms-general-crisis-and-the-gleam-of-socialism-build-the-united-front-against-war-and-austerity/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/what-we-stand-for/)>
+- <[Source: cpcml.ca](https://cpcml.ca/)>
+- <[Source: cpcml.ca](https://cpcml.ca/about/)>
+- <[Source: cpim.org](https://cpim.org/)>
+- <[Source: cpim.org](https://cpim.org/content-videos/)>
+- <[Source: cpim.org](https://cpim.org/party-constitution/)>
+- <[Source: cpim.org](https://cpim.org/party-programme/)>
+- <[Source: cpiran.org](https://cpiran.org/)>
+- <[Source: cpn.nl](https://cpn.nl/)>
+- <[Source: cprf.ru](https://cprf.ru/)>
+- <[Source: cprf.ru](https://cprf.ru/about-us/)>
+- <[Source: cprf.ru](https://cprf.ru/party-program/)>
+- <[Source: cpusa.org](https://cpusa.org/party_info/cpusa-constitution/)>
+- <[Source: cpusa.org](https://cpusa.org/party_info/cpusa-party-program/)>
+- <[Source: dangcongsan.vn](https://dangcongsan.vn/)>
+- <[Source: dkp.de](https://dkp.de/)>
+- <[Source: dkp.de](https://dkp.de/partei/parteiprogramm/)>
+- <[Source: dkp.de](https://dkp.de/partei/statut/)>
+- <[Source: dkp.de](https://dkp.de/partei/ueber-uns/)>
+- <[Source: en.nhandan.vn](https://en.nhandan.vn/)>
+- <[Source: en.nhandan.vn](https://en.nhandan.vn/politics/)>
+- <[Source: en.nhandan.vn](https://en.nhandan.vn/video/)>
+- <[Source: english.www.gov.cn](https://english.www.gov.cn/archive/lawsregulations/201911/20/content_WS5ed8856ec6d0b3f0e9499913.html)>
+- <[Source: kss.sk](https://kss.sk/)>
+- <[Internet Archive snapshot: Party Rules SOs 2022](https://web.archive.org/web/20251227121240/https://members.communistparty.org.uk/images/pdfs/Party_Rules___SOs_2022.pdf)>
+- <[Source: parteiderarbeit.at](https://parteiderarbeit.at/)>
+- <[Source: parteiderarbeit.at](https://parteiderarbeit.at/grundsatzerklaerung/)>
+- <[Source: partidocomunista.ar](https://partidocomunista.ar/)>
+- <[Source: pasaxon.org.la](https://pasaxon.org.la/)>
+- <[Source: pcchile.cl](https://pcchile.cl/)>
+- <[Source: pcchile.cl](https://pcchile.cl/historia/)>
+- <[Source: pcdob.org.br](https://pcdob.org.br/)>
+- <[Source: pcdob.org.br](https://pcdob.org.br/historia/)>
+- <[Source: pcdob.org.br](https://pcdob.org.br/programa/)>
+- <[Source: skp.fi](https://skp.fi/)>
+- <[Source: skp.fi](https://skp.fi/puolueen-historia/)>
+- <[Source: 12371.cn](https://www.12371.cn/)>
+- <[Source: 12371.cn](https://www.12371.cn/2026/10/30/VIDE1793354041360895.shtml)>
+- <[Source: 12371.cn](https://www.12371.cn/special/xg20djs/)>
+- <[Source: 12371.cn](https://www.12371.cn/special/zggcdzc/)>
+- <[Source: cpa.org.au](https://www.cpa.org.au/)>
+- <[Source: cpnuml.org](https://www.cpnuml.org/)>
+- <[Source: cpusa.org](https://www.cpusa.org/)>
+- <[Internet Archive snapshot: effonline.org](https://web.archive.org/web/20260101182533/https://effonline.org/)>
+- <[Source: frelimo.org.mz](https://www.frelimo.org.mz/)>
+- <[Source: gov.cn](https://www.gov.cn/xinwen/2022-10/25/content_5721685.htm)>
+- <[Source: granma.cu](https://www.granma.cu/)>
+- <[Source: imcwp.org](https://www.imcwp.org/)>
+- <[Source: jcp.or.jp](https://www.jcp.or.jp/english/)>
+- <[Source: jcp.or.jp](https://www.jcp.or.jp/english/19518/)>
+- <[Source: jcp.or.jp](https://www.jcp.or.jp/english/9926/)>
+- <[Source: kke.gr](https://www.kke.gr/)>
+- <[Source: kke.gr](https://www.kke.gr/arxes-stoxoi/katastatiko/)>
+- <[Source: kke.gr](https://www.kke.gr/arxes-stoxoi/programma/)>
+- <[Source: kommunisterna.org](https://www.kommunisterna.org/)>
+- <[Source: kommunisterna.org](https://www.kommunisterna.org/organisation/partihistorik)>
+- <[Source: kpl.lu](https://www.kpl.lu/)>
+- <[Source: kpoe.at](https://www.kpoe.at/)>
+- <[Source: kpoe.at](https://www.kpoe.at/geschichte/)>
+- <[Source: kpoe.at](https://www.kpoe.at/ueber-die-kpoe/)>
+- <[Source: kscm.cz](https://www.kscm.cz/)>
+- <[Marxists Internet Archive: volume3 1929 1943](https://www.marxists.org/history/international/comintern/documents/volume3-1929-1943.pdf)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/history/international/comintern/sections/britain/index.htm)>
+- <[Marxists Internet Archive: proposal](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpc/proposal.htm)>
+- <[Marxists Internet Archive: openletter](https://www.marxists.org/history/international/comintern/sino-soviet-split/cpsu/openletter.htm)>
+- <[Marxists Internet Archive: 1957declaration](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/1957declaration.htm)>
+- <[Marxists Internet Archive: 1960statement](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/1960statement.htm)>
+- <[Marxists Internet Archive: kwp1964](https://www.marxists.org/history/international/comintern/sino-soviet-split/other/kwp1964.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/reference/archive/hoxha/index.htm)>
+- <[Source: mpla.ao](https://www.mpla.ao/)>
+- <[Source: mpla.ao](https://www.mpla.ao/o-partido/)>
+- <[Source: munkaspart.hu](https://www.munkaspart.hu/)>
+- <[Source: nkp.no](https://www.nkp.no/)>
+- <[Source: nkp.no](https://www.nkp.no/historie/)>
+- <[Source: paigc.gw](https://www.paigc.gw/)>
+- <[Internet Archive snapshot: pcb.org.br](https://web.archive.org/web/20260101193750/https://pcb.org.br/)>
+- <[Source: pcc.cu](https://www.pcc.cu/)>
+- <[Source: pcc.cu](https://www.pcc.cu/9no-congreso-pcc-elcongresodetodos)>
+- <[Source: pcc.cu](https://www.pcc.cu/directorio-personas)>
+- <[Source: pcc.cu](https://www.pcc.cu/index.php/el-pcc)>
+- <[Source: pcc.cu](https://www.pcc.cu/la-historia-del-pcc)>
+- <[Source: pcc.cu](https://www.pcc.cu/videos)>
+- <[Source: pce.es](https://www.pce.es/)>
+- <[Source: pce.es](https://www.pce.es/el-programa-estrategico-a-debate/)>
+- <[Source: pce.es](https://www.pce.es/historia-del-pce/)>
+- <[Source: pcf.fr](https://www.pcf.fr/)>
+- <[Source: pcf.fr](https://www.pcf.fr/histoire_pcf)>
+- <[Source: pcp.pe](https://www.pcp.pe/)>
+- <[Source: pcp.pt](https://www.pcp.pt/)>
+- <[Internet Archive snapshot](https://web.archive.org/web/20251127081118/https://www.pcp.pt/en)>
+- <[Internet Archive snapshot: about](https://web.archive.org/web/20251027233534/https://pcp.pt/en/about)>
+- <[Internet Archive snapshot: pcp programme and constitution approved 19th congress](https://web.archive.org/web/20251206235435/https://www.pcp.pt/en/documento/pcp-programme-and-constitution-approved-19th-congress)>
+- <[Source: pcte.es](https://www.pcte.es/)>
+- <[Source: pcu.org.uy](https://www.pcu.org.uy/)>
+- <[Source: pps.ma](https://www.pps.ma/)>
+- <[Source: sacp.org.za](https://www.sacp.org.za/)>
+- <[Source: sacp.org.za](https://www.sacp.org.za/content/about-sacp)>
+- <[Source: sacp.org.za](https://www.sacp.org.za/sites/default/files/documents/SACP-Constitution-as-amended-by-the-15th-National-Congress-July.pdf)>
+- <[Source: sacp.org.za](https://www.sacp.org.za/sites/default/files/documents/SACP-programme-strategic-perspectives-and-tasks-15th-National.pdf)>
+- <[Source: solidnet.org](https://www.solidnet.org/)>
+- <[Source: solidnet.org](https://www.solidnet.org/meetings-and-statements/imcwp/)>
+- <[Source: solidnet.org](https://www.solidnet.org/meetings-and-statements/imcwp/24th-international-meeting-of-communist-workers-parties/)>
+- <[Source: solidnet.org](https://www.solidnet.org/meetings-and-statements/joint-statements/)>
+- <[Source: solidnet.org](https://www.solidnet.org/multimedia/videos/)>
+- <[Source: tkp.org.tr](https://www.tkp.org.tr/)>
+- <[Source: tudehpartyiran.org](https://www.tudehpartyiran.org/)>
+- <[Source: worldsocialism.org](https://www.worldsocialism.org/)>
+- <[Source: worldsocialism.org](https://www.worldsocialism.org/spgb/)>
+- <[Source: worldsocialism.org](https://www.worldsocialism.org/spgb/our-object-and-declaration-principles/)>
+- <[YouTube: @CPIMarxist](https://www.youtube.com/@CPIMarxist)>
+- <[YouTube: @cpn.nederland](https://www.youtube.com/@cpn.nederland)>
+- <[YouTube: UCAspwbXL9VDYdIKlMk vtrQ](https://www.youtube.com/channel/UCAspwbXL9VDYdIKlMk_vtrQ)>
+- <[YouTube: UCbWrZQo3AzfFPYHUABdzIfQ](https://www.youtube.com/channel/UCbWrZQo3AzfFPYHUABdzIfQ)>
+- <[YouTube: pcp pt](https://www.youtube.com/pcp_pt)>
+- <[Source: zanupf.org.zw](https://www.zanupf.org.zw/)>
+
+## Movement Media
+
+- <[Source: en.people.cn](http://en.people.cn/98389/index.html)>
+- <[Source: en.people.cn](http://en.people.cn/n3/2026/1119/c98389-20520822.html)>
+- <[Source: communist.red](https://communist.red/)>
+- <[Source: communist.red](https://communist.red/category/podcast/a-world-on-fire/)>
+- <[Source: communist.red](https://communist.red/category/podcast/marxist-voice/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/commiecast/)>
+- <[Source: en.people.cn](https://en.people.cn/)>
+- <[Source: flp.com.cn](https://flp.com.cn/en/about/jigou/)>
+- <[Source: flp.com.cn](https://flp.com.cn/en/video/)>
+- <[Source: isreview.org](https://isreview.org/about/)>
+- <[Source: jacobin.com](https://jacobin.com/about)>
+- <[Source: links.org.au](https://links.org.au/links-international-journal-socialist-renewals-vision)>
+- <[Source: monthlyreview.org](https://monthlyreview.org/about/)>
+- <[Source: newleftreview.org](https://newleftreview.org/pages/about)>
+- <[Source: newoutlookpublishers.store](https://newoutlookpublishers.store/about/)>
+- <[Source: peoplesschool.us](https://peoplesschool.us/)>
+- <[Source: peoplesschool.us](https://peoplesschool.us/media/)>
+- <[Source: podcast.marxist.com](https://podcast.marxist.com/)>
+- <[Source: podcast.marxist.com](https://podcast.marxist.com/category/international-marxist-university-2020/)>
+- <[Source: redflag.org.au](https://redflag.org.au/)>
+- <[Source: redflag.org.au](https://redflag.org.au/podcasts/)>
+- <[Source: socialistalternative.info](https://socialistalternative.info/about/)>
+- <[Source: socialistalternative.info](https://socialistalternative.info/podcast/)>
+- <[Source: socialistregister.com](https://socialistregister.com/index.php/srv/about)>
+- <[Source: socialistworker.org](https://socialistworker.org/about)>
+- <[Source: socialistworker.org](https://socialistworker.org/better-off-red)>
+- <[Source: tempestmag.org](https://tempestmag.org/about/)>
+- <[Source: tempestmag.org](https://tempestmag.org/videos-and-panels/)>
+- <[Source: thecommunists.org](https://thecommunists.org/)>
+- <[Source: thecommunists.org](https://thecommunists.org/2026/09/28/tv/socialism-humanity-next-step-capitalism-joti-brar-interview/)>
+- <[Source: thecommunists.org](https://thecommunists.org/sections/tv/)>
+- <[Source: wellred-books.com](https://wellred-books.com/)>
+- <[Source: againstthecurrent.org](https://www.againstthecurrent.org/about/)>
+- <[Source: catalyst-journal.com](https://www.catalyst-journal.com/about)>
+- <[Source: cpusa.org](https://www.cpusa.org/)>
+- <[Source: cpusa.org](https://www.cpusa.org/about-us/)>
+- <[Source: cpusa.org](https://www.cpusa.org/authors/political-affairs/)>
+- <[Source: cpusa.org](https://www.cpusa.org/party_voices_category/videos)>
+- <[Source: granma.cu](https://www.granma.cu/)>
+- <[Source: greenleft.org.au](https://www.greenleft.org.au/2026/1464/analysis/video-how-palestine-solidarity-activists-are-being-silenced)>
+- <[Source: greenleft.org.au](https://www.greenleft.org.au/about)>
+- <[Source: greenleft.org.au](https://www.greenleft.org.au/videos)>
+- <[Source: haymarketbooks.org](https://www.haymarketbooks.org/pg/about)>
+- <[Source: intpubnyc.com](https://www.intpubnyc.com/about/)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/admin/intro/history/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/admin/intro/index.htm)>
+- <[Marxists Internet Archive: charter](https://www.marxists.org/admin/legal/charter.htm)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/)>
+- <[Source: pathfinderpress.com](https://www.pathfinderpress.com/pages/promotional-leaflets-and-reviews)>
+- <[Source: versobooks.com](https://www.versobooks.com/pages/about-verso)>
+- <[YouTube: @CommunistParty](https://www.youtube.com/@CommunistParty)>
+- <[YouTube: @PSMLS](https://www.youtube.com/@PSMLS)>
+- <[YouTube: @VersoBooks](https://www.youtube.com/@VersoBooks)>
+- <[YouTube: videos](https://www.youtube.com/@VersoBooks/videos)>
+- <[YouTube: @revolutionarycommunists](https://www.youtube.com/@revolutionarycommunists)>
+- <[YouTube: UCNLORxbPEwf98GlydIahIEg](https://www.youtube.com/channel/UCNLORxbPEwf98GlydIahIEg/)>
+- <[YouTube: UCXu5dcswjbA0zpXLIBn5NmQ](https://www.youtube.com/channel/UCXu5dcswjbA0zpXLIBn5NmQ)>
+- <[YouTube: UCkC7TabwAEmsxJCEw8yzg9Q](https://www.youtube.com/channel/UCkC7TabwAEmsxJCEw8yzg9Q)>
+- <[YouTube: greenleftonline](https://www.youtube.com/greenleftonline)>
+- <[YouTube: ProletarianCPGBML](https://www.youtube.com/user/ProletarianCPGBML)>
+- <[YouTube: TheCommunistpartyUSA](https://www.youtube.com/user/TheCommunistpartyUSA)>
+- <[YouTube: watch](https://www.youtube.com/watch?v=cONEqPqLERY)>
+- <[YouTube: UCCXe7yEuB8qy34HiRLp7I4A](https://youtube.com/channel/UCCXe7yEuB8qy34HiRLp7I4A)>
+
+## Video and Audiovisual Sources
+
+- <[Source: findingaids.library.umass.edu](http://findingaids.library.umass.edu/ead/mums312)>
+- <[Source: news.cctv.com](http://news.cctv.com/special/kaiguodadianyuebing/)>
+- <[Source: amilcarcabral.cv](https://amilcarcabral.cv/)>
+- <[Source: archives.nypl.org](https://archives.nypl.org/scm/21034)>
+- <[Source: communistparty.org.uk](https://communistparty.org.uk/centenary/)>
+- <[Source: credo.library.umass.edu](https://credo.library.umass.edu/view/full/mums312-b250-i003)>
+- <[Source: digicoll.lib.berkeley.edu](https://digicoll.lib.berkeley.edu/record/328854)>
+- <[Source: digicoll.lib.berkeley.edu](https://digicoll.lib.berkeley.edu/record/328872)>
+- <[Source: english.vtv.vn](https://english.vtv.vn/news/vietnam-television-at-a-new-turning-point-20260410101040093.htm)>
+- <[Source: english.vtv.vn](https://english.vtv.vn/tv-video.htm)>
+- <[Source: english.vtv.vn](https://english.vtv.vn/video/news-3-pm-6-06-2025-1047967.htm)>
+- <[Source: findingaids.auctr.edu](https://findingaids.auctr.edu/repositories/2/resources/9)>
+- <[Source: freedomarchives.org](https://freedomarchives.org/audio_samples/Mp3_files/Malcolm%20X.Odinga.AfricanFreedomFighters.mp3)>
+- <[Source: freedomarchives.org](https://freedomarchives.org/audio_samples/Mp3_files/MalcolmX.Pan-Africanism.mp3)>
+- <[Source: freedomarchives.org](https://freedomarchives.org/malcolm-x-speaks/)>
+- <[Source: kcna.kp](https://kcna.kp/)>
+- <[Source: knmp.gov.gh](https://knmp.gov.gh/new/speeches-of-osagyefo-dr-kwame-nkrumah/)>
+- <[Source: knmp.gov.gh](https://knmp.gov.gh/new/videos/)>
+- <[Source: kpl.gov.la](https://kpl.gov.la/En)>
+- <[Source: pacificaradioarchives.org](https://pacificaradioarchives.org/the-black-panther-party/)>
+- <[Source: search.freedomarchives.org](https://search.freedomarchives.org/collections/90)>
+- <[Source: thecommunists.org](https://thecommunists.org/)>
+- <[Source: tv.cctv.com](https://tv.cctv.com/2010/01/12/VIDE1355508018661251.shtml)>
+- <[Source: assatashakurarchives.com](https://www.assatashakurarchives.com)>
+- <[Source: communistparty.org.uk](https://www.communistparty.org.uk/commiecast/)>
+- <[Source: cpusa.org](https://www.cpusa.org/party_voices/gmr-capitalism-communism-free-speech/)>
+- <[Source: cpusa.org](https://www.cpusa.org/party_voices_category/videos/)>
+- <[Source: facebook.com](https://www.facebook.com/100064917602655/videos)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/es/video)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/es/video/discurso-en-la-conferencia-mundial-sobre-desarrollo-social)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/index.php/es/video/discurso-por-el-dia-del-jurista-01)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/index.php/es/video/el-primer-delegado)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/index.php/es/video/en-el-club-nacional-de-prensa)>
+- <[Source: fidelcastro.cu](https://www.fidelcastro.cu/index.php/es/video/fidel-castro-y-ahora-que-tiene-que-hacer-el-pais)>
+- <[Source: freedomarchives.org](https://www.freedomarchives.org/about.html)>
+- <[Source: freedomarchives.org](https://www.freedomarchives.org/audio_samples/Assata_Shakur.html)>
+- <[Source: freedomarchives.org](https://www.freedomarchives.org/audio_samples/Fred_Hampton.html)>
+- <[Source: granma.cu](https://www.granma.cu/octavo-congreso-pcc/2021-04-08/que-debe-ser-un-joven-comunista-04-04-2021-21-04-30)>
+- <[Source: granma.cu](https://www.granma.cu/octavo-congreso-pcc/2021-04-10/conquistando-un-sueno-el-1ero-y-2do-congreso-del-partido-comunista-de-cuba-video-capitulo-5)>
+- <[Source: granma.cu](https://www.granma.cu/octavo-congreso-pcc/2021-04-17/en-video-el-ideario-fidelista-en-el-8vo-congreso-del-partido)>
+- <[Source: malcolmx.com](https://www.malcolmx.com)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/haywood/index.htm)>
+- <[Marxists Internet Archive: index](https://www.marxists.org/archive/lenin/photo/index.htm)>
+- <[Marxists Internet Archive: x10](https://www.marxists.org/archive/lenin/works/1919/mar/x10.htm)>
+- <[Marxists Internet Archive: black panthers](https://www.marxists.org/history/usa/workers/black-panthers/)>
+- <[Marxists Internet Archive: stalin 11](https://www.marxists.org/reference/archive/stalin/biographies/1947/stalin/11.htm)>
+- <[Marxists Internet Archive: 07 03](https://www.marxists.org/reference/archive/stalin/works/1941/07/03.htm)>
+- <[Marxists Internet Archive: lenin.avi](https://www.marxists.org/romana/lenin.avi)>
+- <[Marxists Internet Archive: independence](https://www.marxists.org/subject/africa/lumumba/1960/06/independence.htm)>
+- <[Source: mfa.gov.cn](https://www.mfa.gov.cn/web/ziliao_674904/zt_674979/dnzt_674981/qtzt/zggcddwjw100ggs/jszgddzg/202208/t20220824_10750397.shtml)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/brille-lor-de-poura-discours-de-thomas-sankara-18-octobre-1984-audio-extrait-video-texte/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/category/francais/documents/documents-video/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/discours-de-sankara-devant-lassemblee-generale-de-lonu-le-4-octobre-1984-texte-integral/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/documentaires-archives-de-radio-television-burkina/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/malheur-a-ceux-qui-baillonnent-le-peuple-thomas-sankara-le-21-avril-1982-video-et-retranscription/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/video-du-discours-de-t-sankara-4-aout-1987-12/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/video-du-discours-de-t-sankara-4-aout-1987-22/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/video-du-discours-de-thomas-sankara-le-4-aout-1986/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/documentaires-archives-de-radio-television-burkina/)>
+- <[Source: thomassankara.net](https://www.thomassankara.net/wp-content/uploads/2021/11/8-BILAN-LAN-I-DE-LA-REVOLUTION-SUR-LE-PLAN-FONCIER.mp4)>
+- <[Source: walterrodneyfoundation.org](https://www.walterrodneyfoundation.org/papers-and-collection)>
+- <[YouTube: @CommunistParty](https://www.youtube.com/@CommunistParty)>
+- <[YouTube: @DiarioGranmaCuba](https://www.youtube.com/@DiarioGranmaCuba)>
+- <[YouTube: @cpusa](https://www.youtube.com/@cpusa)>
+- <[YouTube: @rtburkina](https://www.youtube.com/@rtburkina)>
+- <[YouTube: @sitethomassankaranet](https://www.youtube.com/@sitethomassankaranet)>
+- <[YouTube: UCYyUG5spjKCH0qCz0AFO6zw](https://www.youtube.com/channel/UCYyUG5spjKCH0qCz0AFO6zw)>
+- <[YouTube: ProletarianCPGBML](https://www.youtube.com/user/ProletarianCPGBML)>
+- <[YouTube: watch](https://www.youtube.com/watch?v=WVdzJmVaBW0)>
+- <[YouTube: watch](https://www.youtube.com/watch?v=rqiuPPGimQw)>
+
+---
+
+[← Contents](/) · Next: [The Theoretical Backbone](/theoretical-backbone)
